@@ -18,7 +18,17 @@ mpl.rcParams["axes.spines.left"] = True
 mpl.rcParams["axes.spines.bottom"] = True
 
 st.set_page_config(layout="wide")
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
+
+# DATA
+@st.experimental_memo
+def load_data(url):
+    df = pd.read_csv(url)
+    return df
+
+df = load_data("Data.csv")
+df_shots = pd.read_csv("Shot_Data.csv")
 
 font_dirs = ["//Users//sissigarduno//Downloads"]
 font_files = font_manager.findSystemFonts(fontpaths=font_dirs)
@@ -29,12 +39,8 @@ for font_file in font_files:
 plt.rcParams['font.family'] = "Poppins"
 plt.rcParams['font.size'] = '10.6'
 
-image = Image.open("Logos/BetclicElite.png")
+image = Image.open("BetclicElite.png")
 st.sidebar.image(image)
-
-# DATA
-df = pd.read_csv("Data.csv")
-df_shots = pd.read_csv("Shot_Data.csv")
 
 # FILTERS
 st.sidebar.header('Filters')
@@ -44,19 +50,19 @@ end = st.sidebar.slider('Last game :', 1, 34, 34)
 location = st.sidebar.selectbox('Home / Away :', ('All', 'Home', 'Away'))
 
 # FILETRING DATA
-df = df[df['round'].between(begin, end)]
-df['Pace'] = df["2FGA"] + df["3FGA"] + 0.44*df["FTA"] - df["OREB"] + df["TOV"]
+df1 = df[df['round'].between(begin, end)]
+df1['Pace'] = df1["2FGA"] + df1["3FGA"] + 0.44*df1["FTA"] - df1["OREB"] + df1["TOV"]
 
 # DATA TREATMENT
 # Home
-hometeam = df.groupby(['home_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
+hometeam = df1.groupby(['home_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
                                                      'FTM' : 'sum', 'FTA' : 'sum', 'OREB' : 'sum', 'DREB' : 'sum', 'AST' : 'sum', 'STL' : 'sum', 'TOV' : 'sum',
                                                      'BLK' : 'sum', 'BLKA' : 'sum', 'PF' : 'sum'}).reset_index().rename(columns={'round':'Nb_games'})
 hometeam = hometeam.drop(hometeam[hometeam.home_team != hometeam.team_id].index)
 hometeam = hometeam.drop('team_id', axis=1)
 hometeam.rename(columns={'home_team': 'Team_name'}, inplace=True)
 
-homeopp = df.groupby(['home_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
+homeopp = df1.groupby(['home_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
                                                      'FTM' : 'sum', 'FTA' : 'sum', 'OREB' : 'sum', 'DREB' : 'sum', 'AST' : 'sum', 'STL' : 'sum', 'TOV' : 'sum',
                                                      'BLK' : 'sum', 'BLKA' : 'sum', 'PF' : 'sum'}).reset_index().rename(columns={'round':'Nb_games'})
 homeopp = homeopp.drop(homeopp[homeopp.home_team == homeopp.team_id].index)
@@ -69,14 +75,14 @@ homeopp = homeopp.groupby(['home_team']).agg({'Nb_games': 'count', 'PTS' : 'sum'
 homeopp.rename(columns={'home_team': 'Team_name'}, inplace=True)
 
 # Away
-awayteam = df.groupby(['away_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
+awayteam = df1.groupby(['away_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
                                                      'FTM' : 'sum', 'FTA' : 'sum', 'OREB' : 'sum', 'DREB' : 'sum', 'AST' : 'sum', 'STL' : 'sum', 'TOV' : 'sum',
                                                      'BLK' : 'sum', 'BLKA' : 'sum', 'PF' : 'sum'}).reset_index().rename(columns={'round':'Nb_games'})
 awayteam = awayteam.drop(awayteam[awayteam.away_team != awayteam.team_id].index)
 awayteam = awayteam.drop('team_id', axis=1)
 awayteam.rename(columns={'away_team': 'Team_name'}, inplace=True)
 
-awayopp = df.groupby(['away_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
+awayopp = df1.groupby(['away_team', 'team_id']).agg({'round': 'count', 'PTS' : 'sum', 'Pace' : 'sum', '2FGM' : 'sum', '2FGA' : 'sum', '3FGM' : 'sum', '3FGA' : 'sum',
                                                      'FTM' : 'sum', 'FTA' : 'sum', 'OREB' : 'sum', 'DREB' : 'sum', 'AST' : 'sum', 'STL' : 'sum', 'TOV' : 'sum',
                                                      'BLK' : 'sum', 'BLKA' : 'sum', 'PF' : 'sum'}).reset_index().rename(columns={'round':'Nb_games'})
 awayopp = awayopp.drop(awayopp[awayopp.away_team == awayopp.team_id].index)
@@ -218,7 +224,7 @@ paths = [
     'Logos/Nancy.png',
     'Logos/Nanterre.png',
     'Logos/Paris.png',
-    'Logos/Pau-Lacq-Orthez.png',
+    'Pau-Lacq-Orthez.png',
     'Logos/Roanne.png',
     'Logos/Strasbourg.png'
 ]
