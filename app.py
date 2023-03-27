@@ -215,7 +215,7 @@ paths = [
     'Logos/Limoges.png',
     'Logos/Lyon-Villeurbanne.png',
     'Logos/Monaco.png',
-    '/Logos/Nancy.png',
+    'Logos/Nancy.png',
     'Logos/Nanterre.png',
     'Logos/Paris.png',
     'Logos/Pau-Lacq-Orthez.png',
