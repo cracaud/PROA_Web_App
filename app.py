@@ -43,7 +43,7 @@ for font_file in font_files:
 plt.rcParams['font.family'] = "Poppins"
 plt.rcParams['font.size'] = '10.6'
 
-image = Image.open("BetclicElite.png")
+image = Image.open("Logos/BetclicElite.png")
 st.sidebar.image(image)
 
 # FILTERS
