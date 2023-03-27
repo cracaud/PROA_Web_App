@@ -27,8 +27,12 @@ def load_data(url):
     df = pd.read_csv(url)
     return df
 
+def load_shot_data(url):
+    df_shots = pd.read_csv(url)
+    return df_shots
+
 df = load_data("Data.csv")
-df_shots = pd.read_csv("Shot_Data.csv")
+df_shots = load_shot_data("Shot_Data.csv")
 
 font_dirs = ["//Users//sissigarduno//Downloads"]
 font_files = font_manager.findSystemFonts(fontpaths=font_dirs)
