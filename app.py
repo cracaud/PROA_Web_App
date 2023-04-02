@@ -202,7 +202,9 @@ result['PF/G opp'] = result['PF opp'] / result['Nb_games']
 # TEAM FILTER
 st.sidebar.write("Select a team : ")
 teamname = hometeam['Team_name']
-teamselection = st.sidebar.selectbox('Team :',(teamname), label_visibility="collapsed")
+teamselection = st.sidebar.selectbox('Team :',("Paris", "Blois", "Boulogne-Levallois", "Bourg-en-Bresse", "Cholet", "Dijon", "Fos-sur-Mer", "Gravelines-Dunkerque",
+                                               "Le Mans", "Le Portel", "Limoges", "Lyon-Villeurbanne", "Monaco", "Nancy", "Nanterre", "Pau-Lacq-Orthez",
+                                               "Roanne", "Strasbourg"), label_visibility="collapsed")
 st.sidebar.write("##")
 st.sidebar.write('*Rounds available : from ',df['round'].min(),' to ', df['round'].max())
 
