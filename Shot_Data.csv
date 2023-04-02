@@ -27619,3 +27619,1714 @@ season_id,edition_id,game_id,round,action_number,period,type,player_id,team_id,o
 22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,479,4,2FGM,Isiaha Mike,Bourg-en-Bresse,Dijon,-1.818,1.312,layup
 22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,484,4,2FGA,Matthew Mobley,Dijon,Bourg-en-Bresse,-3.606,2.208,jump shot
 22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,486,4,2FGM,Amida Brimah,Bourg-en-Bresse,Dijon,0.634,0.676,layup
+22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,501,4,2FGA,Isiaha Mike,Bourg-en-Bresse,Dijon,0.807,1.079,layup
+22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,503,4,2FGM,Isiaha Mike,Bourg-en-Bresse,Dijon,0,-0.175,putback
+22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,505,4,2FGM,David Holston,Dijon,Bourg-en-Bresse,-3.26,5.671,jump shot
+22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,518,4,2FGM,Hugo Benitez,Bourg-en-Bresse,Dijon,-0.578,1.485,layup
+22-23,22-23 PROA,2023-03-26:Bourg-en-Bresse-Dijon,25,525,4,3FGA,Frantz Massenat,Bourg-en-Bresse,Dijon,4.903,6.422,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,3,1,2FGA,Elie Okobo,Monaco,Limoges,2.997,1.578,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,5,1,3FGA,Nicolas Lang,Limoges,Monaco,6.975,0.363,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,7,1,2FGM,Desi Rodriguez,Limoges,Monaco,0.374,4.456,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,8,1,2FGM,Donatas Motiejunas,Monaco,Limoges,-2.777,0.169,hook shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,10,1,2FGA,Desi Rodriguez,Limoges,Monaco,2.61,1.69,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,12,1,2FGA,Yoan Makoundou,Monaco,Limoges,5.705,2.381,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,14,1,2FGA,Desi Rodriguez,Limoges,Monaco,2.942,0.085,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,16,1,2FGM,Jaron Blossomgame,Monaco,Limoges,-0.705,0.195,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,18,1,2FGM,Nicolas Lang,Limoges,Monaco,-1.284,3.627,step-back
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,23,1,2FGM,Jaron Blossomgame,Monaco,Limoges,-0.124,0.113,dunk
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,25,1,2FGM,Tomas Kyzlink,Limoges,Monaco,-2.914,5.674,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,27,1,2FGA,Elie Okobo,Monaco,Limoges,-3.715,0.085,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,29,1,2FGM,Desi Rodriguez,Limoges,Monaco,-0.042,-0.027,dunk
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,32,1,3FGM,Nicolas Lang,Limoges,Monaco,2.362,7.223,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,34,1,3FGM,Jaron Blossomgame,Monaco,Limoges,6.45,3.793,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,38,1,2FGM,Yoan Makoundou,Monaco,Limoges,-0.124,0.029,dunk
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,56,1,2FGA,Jayvon Graves,Limoges,Monaco,-3.827,3.238,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,64,1,2FGA,Desi Rodriguez,Limoges,Monaco,-0.87,1.578,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,77,1,2FGA,Yakuba Ouattara,Monaco,Limoges,-1.589,0.141,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,79,1,2FGM,Donta Hall,Monaco,Limoges,-0.953,-0.027,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,80,1,3FGA,Marek Klassen,Limoges,Monaco,0.096,7.528,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,82,1,3FGA,Chima Moneke,Monaco,Limoges,6.948,0.057,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,84,1,2FGM,Donta Hall,Monaco,Limoges,-0.759,0.113,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,85,1,2FGA,Kenneth Kadji,Limoges,Monaco,-0.289,3.129,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,93,1,2FGA,Desi Rodriguez,Limoges,Monaco,0.096,1.911,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,95,1,2FGM,Desi Rodriguez,Limoges,Monaco,-0.732,0.363,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,101,1,2FGA,Alpha Diallo,Monaco,Limoges,1.257,1.939,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,103,1,2FGA,Chima Moneke,Monaco,Limoges,-0.814,0.085,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,111,1,3FGA,Jayvon Graves,Limoges,Monaco,4.24,6.45,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,117,1,3FGM,Alpha Diallo,Monaco,Limoges,5.678,5.702,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,123,2,3FGA,Mike James,Monaco,Limoges,6.478,3.129,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,127,2,2FGA,Bryce Jones,Limoges,Monaco,-5.815,-0.385,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,129,2,2FGM,Donta Hall,Monaco,Limoges,1.533,1.441,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,140,2,3FGA,Yakuba Ouattara,Monaco,Limoges,6.893,-0.497,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,142,2,3FGM,Tomas Kyzlink,Limoges,Monaco,2.169,7.64,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,143,2,3FGM,Yakuba Ouattara,Monaco,Limoges,-4.323,5.867,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,149,2,3FGA,Mike James,Monaco,Limoges,-0.042,7.749,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,151,2,3FGA,Alpha Diallo,Monaco,Limoges,6.893,-0.248,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,153,2,2FGM,Tomas Kyzlink,Limoges,Monaco,0.124,0.141,dunk
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,165,2,2FGA,Yakuba Ouattara,Monaco,Limoges,-1.284,0.001,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,167,2,2FGM,Tomas Kyzlink,Limoges,Monaco,-0.236,0.472,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,172,2,3FGA,Elie Okobo,Monaco,Limoges,-5.981,4.291,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,174,2,3FGM,Nicolas Lang,Limoges,Monaco,-6.616,2.603,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,182,2,2FGM,Jayvon Graves,Limoges,Monaco,0.263,2.076,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,184,2,2FGM,Mike James,Monaco,Limoges,4.378,0.444,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,192,2,3FGM,Nicolas Lang,Limoges,Monaco,4.627,5.923,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,193,2,2FGM,Elie Okobo,Monaco,Limoges,-0.732,0.307,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,195,2,3FGM,Nicolas Lang,Limoges,Monaco,1.036,7.472,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,197,2,3FGA,Alpha Diallo,Monaco,Limoges,-7.057,0.777,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,205,2,3FGM,Desi Rodriguez,Limoges,Monaco,-6.312,3.434,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,206,2,3FGM,Jaron Blossomgame,Monaco,Limoges,6.92,-0.027,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,209,2,3FGA,Nicolas Lang,Limoges,Monaco,-5.705,4.235,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,211,2,2FGA,Desi Rodriguez,Limoges,Monaco,0.705,0.057,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,213,2,2FGA,Desi Rodriguez,Limoges,Monaco,0,-0.175,putback
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,215,2,3FGM,Jaron Blossomgame,Monaco,Limoges,-1.976,7.279,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,218,2,2FGM,Desi Rodriguez,Limoges,Monaco,0.594,0.391,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,220,2,2FGA,Donatas Motiejunas,Monaco,Limoges,0.042,3.765,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,228,2,2FGA,Wilfried Yeguete,Limoges,Monaco,-0.567,2.519,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,230,2,2FGM,Donatas Motiejunas,Monaco,Limoges,-0.87,0.307,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,240,2,3FGA,Elie Okobo,Monaco,Limoges,-0.124,8.939,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,242,2,2FGM,Alpha Diallo,Monaco,Limoges,-3.218,0.113,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,243,2,2FGA,Lucas Ugolin,Limoges,Monaco,-4.572,3.185,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,253,3,3FGA,Desi Rodriguez,Limoges,Monaco,-2.942,6.864,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,256,3,3FGA,Nicolas Lang,Limoges,Monaco,-7.169,0.251,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,260,3,3FGA,Tomas Kyzlink,Limoges,Monaco,-3.273,7.029,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,266,3,2FGA,Wilfried Yeguete,Limoges,Monaco,1.064,1.939,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,268,3,2FGM,Donatas Motiejunas,Monaco,Limoges,1.671,0.223,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,270,3,2FGA,Tomas Kyzlink,Limoges,Monaco,-1.339,0.833,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,272,3,2FGM,Alpha Diallo,Monaco,Limoges,-0.511,0.251,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,276,3,2FGA,Desi Rodriguez,Limoges,Monaco,-0.705,0.141,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,282,3,3FGA,Yoan Makoundou,Monaco,Limoges,-4.103,6.366,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,286,3,2FGA,Jayvon Graves,Limoges,Monaco,-5.346,0.335,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,290,3,2FGM,Yoan Makoundou,Monaco,Limoges,-0.428,0.693,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,292,3,3FGA,Bryce Jones,Limoges,Monaco,-6.478,3.487,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,299,3,3FGM,Mathieu Wojciechowski,Limoges,Monaco,-6.893,2.244,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,301,3,3FGA,Matthew Strazel,Monaco,Limoges,4.986,6.531,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,309,3,3FGM,Jayvon Graves,Limoges,Monaco,7.03,-0.136,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,311,3,2FGM,Elie Okobo,Monaco,Limoges,-2.942,1.219,pull up
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,312,3,2FGM,Kenneth Kadji,Limoges,Monaco,-0.263,0.391,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,314,3,3FGM,Mike James,Monaco,Limoges,6.726,2.687,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,318,3,2FGM,Alpha Diallo,Monaco,Limoges,0.787,1.026,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,327,3,2FGA,Jayvon Graves,Limoges,Monaco,3.246,5.509,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,329,3,2FGM,Chima Moneke,Monaco,Limoges,-0.621,0.584,layup
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,331,3,3FGA,Marek Klassen,Limoges,Monaco,4.737,5.951,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,343,3,2FGA,Marek Klassen,Limoges,Monaco,-3.052,1.525,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,351,3,3FGA,Yakuba Ouattara,Monaco,Limoges,6.478,3.571,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,353,3,3FGA,Jaron Blossomgame,Monaco,Limoges,6.837,2.048,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,355,3,2FGM,Desi Rodriguez,Limoges,Monaco,-0.843,5.011,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,369,4,3FGM,Marek Klassen,Limoges,Monaco,-3.246,7.279,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,370,4,3FGM,Elie Okobo,Monaco,Limoges,-5.428,7.279,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,371,4,3FGA,Marek Klassen,Limoges,Monaco,-4.406,6.615,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,377,4,2FGM,Mike James,Monaco,Limoges,-2.528,3.905,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,378,4,2FGA,Nicolas Lang,Limoges,Monaco,1.119,4.151,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,380,4,2FGM,Kenneth Kadji,Limoges,Monaco,0,-0.175,putback
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,381,4,2FGM,Elie Okobo,Monaco,Limoges,-3.66,2.824,pull up
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,382,4,3FGA,Nicolas Lang,Limoges,Monaco,-5.594,5.011,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,390,4,2FGM,Desi Rodriguez,Limoges,Monaco,0.401,0.665,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,408,4,3FGA,Jaron Blossomgame,Monaco,Limoges,4.599,6.007,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,414,4,3FGM,Bryce Jones,Limoges,Monaco,1.947,7.141,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,415,4,2FGM,Elie Okobo,Monaco,Limoges,-3.909,2.409,pull up
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,425,4,2FGA,Tomas Kyzlink,Limoges,Monaco,-5.594,0.391,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,427,4,2FGA,Alpha Diallo,Monaco,Limoges,-4.351,2.547,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,429,4,2FGM,Desi Rodriguez,Limoges,Monaco,-0.567,1.497,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,433,4,3FGA,Elie Okobo,Monaco,Limoges,3.466,7.5,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,435,4,2FGM,Wilfried Yeguete,Limoges,Monaco,2.224,1.69,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,440,4,3FGA,Elie Okobo,Monaco,Limoges,-6.285,5.895,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,447,4,2FGM,Desi Rodriguez,Limoges,Monaco,-0.042,0.029,dunk
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,449,4,2FGA,Elie Okobo,Monaco,Limoges,2.169,-0.164,jump shot
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,451,4,3FGM,Bryce Jones,Limoges,Monaco,-0.069,7.886,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,467,4,3FGA,Bryce Jones,Limoges,Monaco,-4.959,5.73,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,487,4,3FGA,Elie Okobo,Monaco,Limoges,0.428,8.107,
+22-23,22-23 PROA,2023-03-26:Limoges-Monaco,25,493,4,3FGA,Matthew Strazel,Monaco,Limoges,6.285,3.986,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,3,1,2FGA,Brice Dessert,Blois,Nancy,1.395,1.247,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,5,1,3FGM,Mike Scott,Nancy,Blois,-2.114,7.528,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,7,1,2FGA,Robert Johnson,Blois,Nancy,4.627,0.777,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,9,1,2FGA,Stephane Gombauld,Nancy,Blois,4.683,2.16,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,11,1,3FGA,Paul Rigot,Blois,Nancy,5.373,5.618,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,13,1,2FGA,Mbaye Ndiaye,Blois,Nancy,-2.804,1.385,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,16,1,3FGA,Mike Scott,Nancy,Blois,2.694,7.416,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,18,1,3FGM,Tyus Battle,Blois,Nancy,4.212,6.475,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,20,1,2FGM,Meridis Houmounou,Nancy,Blois,-0.759,0.472,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,24,1,2FGA,Tyus Battle,Blois,Nancy,-4.489,3.655,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,26,1,3FGA,Caleb Walker,Nancy,Blois,-3.411,7.141,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,28,1,2FGA,Donte Grantham,Nancy,Blois,-1.506,2.381,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,34,1,2FGM,Stephane Gombauld,Nancy,Blois,0.014,2.936,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,38,1,2FGA,Caleb Walker,Nancy,Blois,-0.926,0.693,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,40,1,3FGA,Mbaye Ndiaye,Blois,Nancy,-6.672,3.35,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,44,1,2FGA,Mike Scott,Nancy,Blois,-0.649,4.512,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,46,1,2FGM,Caleb Walker,Nancy,Blois,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,50,1,2FGA,Amadou Sow,Blois,Nancy,-0.042,3.21,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,52,1,3FGM,Donte Grantham,Nancy,Blois,5.511,5.148,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,57,1,3FGM,Amadou Sow,Blois,Nancy,-5.29,5.618,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,59,1,3FGA,Donte Grantham,Nancy,Blois,2.776,8.026,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,61,1,3FGM,Mike Scott,Nancy,Blois,7.003,0.363,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,63,1,2FGA,Robert Johnson,Blois,Nancy,-0.981,3.905,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,65,1,2FGA,Caleb Walker,Nancy,Blois,-1.201,3.655,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,72,1,3FGM,Antony Labanca,Nancy,Blois,-5.594,5.12,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,74,1,2FGA,Mbaye Ndiaye,Blois,Nancy,1.451,0.721,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,76,1,3FGA,Mbaye Ndiaye,Blois,Nancy,6.091,4.347,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,82,1,2FGM,Mike Scott,Nancy,Blois,0.539,0.721,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,84,1,3FGA,Thomas Cornely,Blois,Nancy,3.853,6.643,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,88,1,2FGM,Mike Scott,Nancy,Blois,4.737,3.406,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,90,1,3FGM,Amadou Sow,Blois,Nancy,3.991,6.475,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,92,1,2FGM,Stephane Gombauld,Nancy,Blois,-0.981,0.5,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,95,1,2FGA,Bruno Cingala-Mata,Blois,Nancy,-1.146,3.045,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,97,1,3FGA,Timothe Vergiat,Blois,Nancy,-4.185,6.864,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,99,1,3FGM,Donte Grantham,Nancy,Blois,3.578,7.612,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,105,1,2FGA,Timothe Vergiat,Blois,Nancy,-3.495,4.235,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,109,2,3FGM,Tyren Johnson,Blois,Nancy,-4.323,6.752,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,111,2,3FGA,Meridis Houmounou,Nancy,Blois,-2.224,7.914,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,113,2,2FGM,Bruno Cingala-Mata,Blois,Nancy,0.621,0.472,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,115,2,3FGM,Antony Labanca,Nancy,Blois,5.152,6.254,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,117,2,2FGM,Tyren Johnson,Blois,Nancy,0.014,2.631,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,127,2,3FGM,Thomas Cornely,Blois,Nancy,-3.771,8.303,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,129,2,2FGA,Mike Scott,Nancy,Blois,-0.787,0.942,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,134,2,2FGM,Bruno Cingala-Mata,Blois,Nancy,-0.511,0.363,dunk
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,138,2,2FGA,Mike Scott,Nancy,Blois,3.329,1.441,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,149,2,2FGA,Caleb Walker,Nancy,Blois,0.732,2.88,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,154,2,2FGA,Robert Johnson,Blois,Nancy,-1.561,2.768,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,158,2,2FGA,Caleb Walker,Nancy,Blois,-1.837,2.687,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,174,2,3FGM,Donte Grantham,Nancy,Blois,5.097,5.979,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,178,2,3FGA,Robert Johnson,Blois,Nancy,4.047,6.864,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,182,2,3FGA,Antony Labanca,Nancy,Blois,-1.699,8.026,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,191,2,2FGM,Stephane Gombauld,Nancy,Blois,-1.671,4.014,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,193,2,3FGA,Robert Johnson,Blois,Nancy,-5.317,5.923,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,202,2,3FGA,Caleb Walker,Nancy,Blois,2.694,7.141,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,206,2,3FGA,Meridis Houmounou,Nancy,Blois,4.737,6.338,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,208,2,3FGA,Thomas Cornely,Blois,Nancy,4.047,6.531,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,210,2,2FGA,Amadou Sow,Blois,Nancy,-0.124,3.434,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,212,2,3FGM,Donte Grantham,Nancy,Blois,-2.803,6.945,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,214,2,3FGM,Tyus Battle,Blois,Nancy,6.837,3.157,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,226,2,2FGM,Ike Nwamu,Nancy,Blois,0.374,0.833,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,234,2,2FGA,Robert Johnson,Blois,Nancy,1.201,5.758,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,236,2,2FGA,Caleb Walker,Nancy,Blois,-1.091,0.223,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,243,2,2FGA,Mbaye Ndiaye,Blois,Nancy,-0.151,5.313,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,245,2,2FGA,Ike Nwamu,Nancy,Blois,-2.058,5.397,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,247,2,2FGM,Robert Johnson,Blois,Nancy,0.899,0.886,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,259,3,3FGA,Mike Scott,Nancy,Blois,-3.411,7.584,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,261,3,3FGM,Tyus Battle,Blois,Nancy,4.572,6.945,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,263,3,3FGA,Mike Scott,Nancy,Blois,3.357,7.444,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,270,3,3FGA,Donte Grantham,Nancy,Blois,-3.936,6.254,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,272,3,2FGM,Stephane Gombauld,Nancy,Blois,-1.257,1.497,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,273,3,2FGM,Amadou Sow,Blois,Nancy,0.263,2.188,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,274,3,2FGM,Amadou Sow,Blois,Nancy,-0.236,3.073,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,276,3,3FGA,Mike Scott,Nancy,Blois,-3.688,6.945,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,282,3,2FGM,Paul Rigot,Blois,Nancy,3.66,2.989,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,287,3,2FGA,Stephane Gombauld,Nancy,Blois,1.893,0.665,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,289,3,2FGM,Stephane Gombauld,Nancy,Blois,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,290,3,2FGA,Robert Johnson,Blois,Nancy,1.036,0.777,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,292,3,2FGA,Caleb Walker,Nancy,Blois,-0.759,2.381,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,296,3,3FGA,Caleb Walker,Nancy,Blois,-6.505,3.765,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,298,3,2FGA,Amadou Sow,Blois,Nancy,1.451,2.353,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,300,3,2FGM,Mike Scott,Nancy,Blois,-0.953,0.998,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,302,3,2FGM,Robert Johnson,Blois,Nancy,3.604,3.129,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,303,3,3FGM,Caleb Walker,Nancy,Blois,-0.926,8.357,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,317,3,2FGA,Frank Mason,Nancy,Blois,-1.395,5.369,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,323,3,3FGM,Clement Frisch,Nancy,Blois,-4.24,6.475,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,325,3,2FGM,Mbaye Ndiaye,Blois,Nancy,-0.676,0.195,dunk
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,334,3,2FGA,Thomas Cornely,Blois,Nancy,-0.374,4.761,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,336,3,3FGA,Caleb Walker,Nancy,Blois,6.478,3.877,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,338,3,2FGA,Bruno Cingala-Mata,Blois,Nancy,-0.401,4.512,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,343,3,3FGM,Tyren Johnson,Blois,Nancy,3.991,7.029,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,345,3,3FGA,Frank Mason,Nancy,Blois,2.416,7.416,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,347,3,2FGM,Tyren Johnson,Blois,Nancy,-0.953,0.5,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,348,3,3FGA,Frank Mason,Nancy,Blois,-6.81,3.459,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,354,3,2FGM,Robert Johnson,Blois,Nancy,-2.058,5.067,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,359,4,2FGM,Timothe Vergiat,Blois,Nancy,-3.246,1.219,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,361,4,3FGA,Ike Nwamu,Nancy,Blois,-4.378,6.892,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,363,4,3FGA,Tyren Johnson,Blois,Nancy,-5.677,4.817,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,365,4,2FGA,Bruno Cingala-Mata,Blois,Nancy,3.026,4.843,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,378,4,2FGA,Robert Johnson,Blois,Nancy,-2.721,4.014,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,382,4,3FGM,Robert Johnson,Blois,Nancy,3.411,8.219,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,384,4,3FGA,Donte Grantham,Nancy,Blois,3.328,7.391,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,390,4,3FGM,Thomas Cornely,Blois,Nancy,-6.368,4.54,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,392,4,2FGA,Stephane Gombauld,Nancy,Blois,3.771,1.662,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,394,4,3FGA,Robert Johnson,Blois,Nancy,-0.899,8.219,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,396,4,2FGM,Robert Johnson,Blois,Nancy,-0.511,1.219,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,399,4,3FGM,Antony Labanca,Nancy,Blois,4.765,6.394,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,401,4,2FGM,Thomas Cornely,Blois,Nancy,1.174,6.061,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,411,4,2FGM,Robert Johnson,Blois,Nancy,-0.759,0.029,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,414,4,2FGA,Mike Scott,Nancy,Blois,-0.926,3.101,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,416,4,3FGA,Thomas Cornely,Blois,Nancy,2.085,7.942,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,418,4,2FGA,Thomas Cornely,Blois,Nancy,3.688,4.761,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,420,4,2FGA,Mbaye Ndiaye,Blois,Nancy,-2.196,0.749,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,431,4,2FGM,Mike Scott,Nancy,Blois,0.483,0.749,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,436,4,3FGA,Mbaye Ndiaye,Blois,Nancy,2.472,7.665,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,440,4,3FGM,Tyren Johnson,Blois,Nancy,2.694,7.279,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,441,4,2FGM,Stephane Gombauld,Nancy,Blois,0.759,4.677,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,451,4,2FGM,Meridis Houmounou,Nancy,Blois,-1.119,1.191,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,452,4,3FGM,Thomas Cornely,Blois,Nancy,0.345,7.584,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,453,4,3FGM,Antony Labanca,Nancy,Blois,-6.755,3.459,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,457,4,3FGA,Tyren Johnson,Blois,Nancy,-4.461,6.201,
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,459,4,2FGM,Mike Scott,Nancy,Blois,-1.864,1.413,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,466,4,2FGM,Robert Johnson,Blois,Nancy,0.124,3.793,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,469,4,2FGM,Meridis Houmounou,Nancy,Blois,-1.451,1.026,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,476,4,2FGA,Robert Johnson,Blois,Nancy,-2.114,1.331,jump shot
+22-23,22-23 PROA,2023-03-28:Blois-Nancy,26,490,4,3FGA,Robert Johnson,Blois,Nancy,4.875,6.282,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,3,1,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-0.102,5.839,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,5,1,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,-3.495,1.485,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,9,1,2FGM,Kyle Foster,Roanne,Gravelines-Dunkerque,0.124,-0.055,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,11,1,2FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,0.192,6.044,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,13,1,3FGM,Kyle Foster,Roanne,Gravelines-Dunkerque,6.934,-0.125,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,17,1,2FGM,Maxime Roos,Roanne,Gravelines-Dunkerque,0.034,-0.032,alley oop
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,19,1,2FGM,Vince Edwards,Gravelines-Dunkerque,Roanne,-0.08,0.239,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,21,1,3FGA,Maxime Roos,Roanne,Gravelines-Dunkerque,-5.939,4.84,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,25,1,3FGA,Ronald March,Roanne,Gravelines-Dunkerque,-5.826,4.456,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,27,1,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-0.012,-0.147,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,29,1,2FGM,Maxime Roos,Roanne,Gravelines-Dunkerque,-0.124,-0.102,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,31,1,2FGM,Vafessa Fofana,Gravelines-Dunkerque,Roanne,-0.124,0.556,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,37,1,2FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,-2.772,2.076,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,41,1,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,3.246,0.102,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,44,1,2FGA,Maxime Roos,Roanne,Gravelines-Dunkerque,0.78,0.169,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,46,1,2FGA,Ronald March,Roanne,Gravelines-Dunkerque,4.22,0.489,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,62,1,3FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,5.011,5.839,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,64,1,2FGA,Ronald March,Roanne,Gravelines-Dunkerque,4.536,-0.169,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,73,1,2FGA,Silvio De Sousa,Roanne,Gravelines-Dunkerque,3.36,1.099,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,75,1,2FGM,Dominik Olejniczak,Gravelines-Dunkerque,Roanne,-0.486,2.029,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,85,1,3FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,7.024,2.642,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,87,1,2FGM,Kyle Foster,Roanne,Gravelines-Dunkerque,0.396,5.747,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,92,1,3FGM,Szilard Benke,Gravelines-Dunkerque,Roanne,6.03,4.162,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,95,1,2FGM,Dominik Olejniczak,Gravelines-Dunkerque,Roanne,-1.753,0.556,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,101,1,3FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,-0.578,7.676,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,104,1,3FGA,Szilard Benke,Gravelines-Dunkerque,Roanne,5.577,4.705,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,113,2,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,0.147,-0.147,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,117,2,2FGM,Ronald March,Roanne,Gravelines-Dunkerque,-0.192,0.169,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,118,2,2FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,-2.658,1.236,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,119,2,2FGA,Arthur Bruyas,Roanne,Gravelines-Dunkerque,3.201,0.738,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,121,2,3FGA,Romuald Morency,Gravelines-Dunkerque,Roanne,-6.255,5.702,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,125,2,2FGA,Yannis Morin,Roanne,Gravelines-Dunkerque,-0.012,1.214,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,129,2,2FGA,Jakeenan Gant,Roanne,Gravelines-Dunkerque,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,130,2,2FGM,Romuald Morency,Gravelines-Dunkerque,Roanne,-0.192,-0.147,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,132,2,2FGA,Ronald March,Roanne,Gravelines-Dunkerque,3.405,2.099,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,136,2,2FGA,Yannis Morin,Roanne,Gravelines-Dunkerque,0.351,0.987,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,138,2,3FGA,Justin Robinson,Gravelines-Dunkerque,Roanne,6.798,-1.121,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,140,2,2FGA,Szilard Benke,Gravelines-Dunkerque,Roanne,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,142,2,2FGM,Ronald March,Roanne,Gravelines-Dunkerque,0.214,-0.259,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,143,2,2FGA,Dominik Olejniczak,Gravelines-Dunkerque,Roanne,-0.237,6.201,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,145,2,2FGM,Ronald March,Roanne,Gravelines-Dunkerque,-0.147,-0.281,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,164,2,2FGA,Maxime Roos,Roanne,Gravelines-Dunkerque,3.45,2.143,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,166,2,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Roanne,3.586,0.511,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,168,2,2FGA,Justin Robinson,Gravelines-Dunkerque,Roanne,-0.374,0.466,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,170,2,2FGA,Kyle Foster,Roanne,Gravelines-Dunkerque,2.907,4.434,step-back
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,172,2,2FGA,Justin Robinson,Gravelines-Dunkerque,Roanne,0.057,0.195,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,176,2,3FGM,Szilard Benke,Gravelines-Dunkerque,Roanne,6.753,-0.645,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,182,2,2FGM,Stefan Moody,Roanne,Gravelines-Dunkerque,-0.034,0.444,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,183,2,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,0.057,-0.125,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,187,2,2FGM,Ronald March,Roanne,Gravelines-Dunkerque,0.034,0.421,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,189,2,2FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,-0.17,0.601,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,191,2,3FGM,Ronald March,Roanne,Gravelines-Dunkerque,-0.306,7.561,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,194,2,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-1.549,2.281,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,196,2,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-2.364,0.872,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,198,2,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,0.306,0.195,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,203,2,2FGA,Vince Edwards,Gravelines-Dunkerque,Roanne,2.115,0.195,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,205,2,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,206,2,3FGM,Stefan Moody,Roanne,Gravelines-Dunkerque,-6.844,-0.645,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,208,2,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,1.957,5.137,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,210,2,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,0.147,0.195,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,216,2,3FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,-5.101,6.315,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,217,2,2FGM,Stefan Moody,Roanne,Gravelines-Dunkerque,-0.012,0.262,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,221,2,3FGA,Szilard Benke,Gravelines-Dunkerque,Roanne,0.328,17.672,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,228,3,2FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,1.98,2.913,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,229,3,3FGM,Stefan Moody,Roanne,Gravelines-Dunkerque,-1.188,7.449,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,233,3,2FGM,Kyle Foster,Roanne,Gravelines-Dunkerque,0.192,0.057,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,234,3,3FGA,Kenny Boynton,Gravelines-Dunkerque,Roanne,6.822,-0.645,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,236,3,2FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,0.441,-0.329,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,242,3,3FGA,Vince Edwards,Gravelines-Dunkerque,Roanne,-1.866,7.267,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,244,3,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-3.066,0.125,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,246,3,3FGM,Ronald March,Roanne,Gravelines-Dunkerque,1.686,7.517,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,248,3,3FGM,Ronald March,Roanne,Gravelines-Dunkerque,-5.487,6.271,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,250,3,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-0.034,0.057,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,252,3,2FGM,Silvio De Sousa,Roanne,Gravelines-Dunkerque,0.214,0.125,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,254,3,3FGM,Vafessa Fofana,Gravelines-Dunkerque,Roanne,-6.459,3.322,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,256,3,3FGM,Ronald March,Roanne,Gravelines-Dunkerque,-6.053,4.025,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,258,3,3FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,4.197,6.36,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,259,3,3FGA,Ronald March,Roanne,Gravelines-Dunkerque,5.758,4.84,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,261,3,3FGA,Kenny Boynton,Gravelines-Dunkerque,Roanne,3.881,6.201,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,267,3,2FGM,Vince Edwards,Gravelines-Dunkerque,Roanne,0.192,-0.08,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,275,3,2FGA,Kyle Foster,Roanne,Gravelines-Dunkerque,4.332,4.092,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,277,3,2FGA,Romuald Morency,Gravelines-Dunkerque,Roanne,-3.044,1.169,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,279,3,2FGA,Renathan Ona Embo,Roanne,Gravelines-Dunkerque,-0.418,0.671,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,281,3,2FGM,Kyle Foster,Roanne,Gravelines-Dunkerque,-0.757,2.757,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,282,3,2FGA,Kenny Boynton,Gravelines-Dunkerque,Roanne,-0.418,-0.055,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,284,3,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,0.214,0.533,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,286,3,2FGA,Dominik Olejniczak,Gravelines-Dunkerque,Roanne,0.78,0.057,hook shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,288,3,3FGA,Kyle Foster,Roanne,Gravelines-Dunkerque,4.13,6.111,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,300,3,2FGA,Matthieu Gauzin,Gravelines-Dunkerque,Roanne,-3.677,2.482,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,304,3,2FGM,Maxime Roos,Roanne,Gravelines-Dunkerque,-3.246,-0.281,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,306,3,2FGM,Romuald Morency,Gravelines-Dunkerque,Roanne,-1.753,1.054,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,307,3,3FGM,Maxime Roos,Roanne,Gravelines-Dunkerque,-3.744,6.609,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,309,3,3FGA,Kenny Boynton,Gravelines-Dunkerque,Roanne,-0.351,7.427,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,311,3,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,-3.223,-0.486,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,312,3,2FGA,Matthieu Gauzin,Gravelines-Dunkerque,Roanne,-1.37,0.351,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,314,3,3FGA,Romuald Morency,Gravelines-Dunkerque,Roanne,-3.269,6.36,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,320,3,2FGA,Ronald March,Roanne,Gravelines-Dunkerque,-5.644,0.013,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,329,4,2FGM,Ronald March,Roanne,Gravelines-Dunkerque,-0.034,0.284,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,330,4,2FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,-0.08,0.217,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,331,4,2FGA,Jakeenan Gant,Roanne,Gravelines-Dunkerque,-0.645,0.738,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,334,4,2FGA,Jakeenan Gant,Roanne,Gravelines-Dunkerque,-0.259,-0.374,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,336,4,2FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,-0.486,0.805,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,341,4,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,0.124,0.125,dunk
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,345,4,2FGM,Stefan Moody,Roanne,Gravelines-Dunkerque,-0.486,0.08,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,350,4,2FGM,Justin Robinson,Gravelines-Dunkerque,Roanne,0.284,-0.76,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,351,4,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,-3.021,5.249,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,355,4,3FGM,Maxime Roos,Roanne,Gravelines-Dunkerque,6.708,-0.827,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,357,4,2FGA,Romuald Morency,Gravelines-Dunkerque,Roanne,0.464,0.147,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,359,4,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,360,4,3FGM,Ronald March,Roanne,Gravelines-Dunkerque,-6.075,5.568,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,361,4,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Roanne,-0.486,4.523,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,363,4,2FGM,Yannis Morin,Roanne,Gravelines-Dunkerque,-0.622,-0.01,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,374,4,2FGM,Jakeenan Gant,Roanne,Gravelines-Dunkerque,-0.102,-0.307,alley oop
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,378,4,2FGA,Szilard Benke,Gravelines-Dunkerque,Roanne,4.287,-0.281,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,380,4,2FGM,Ronald March,Roanne,Gravelines-Dunkerque,-0.531,0.125,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,384,4,3FGA,Justin Robinson,Gravelines-Dunkerque,Roanne,-3.382,6.973,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,386,4,2FGA,Ronald March,Roanne,Gravelines-Dunkerque,-0.214,0.102,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,388,4,3FGA,Kenny Boynton,Gravelines-Dunkerque,Roanne,-6.573,3.163,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,393,4,2FGA,Justin Robinson,Gravelines-Dunkerque,Roanne,0.441,0.169,layup
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,395,4,2FGM,Jakeenan Gant,Roanne,Gravelines-Dunkerque,-0.374,6.111,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,397,4,3FGM,Kenny Boynton,Gravelines-Dunkerque,Roanne,4.083,7.2,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,407,4,3FGA,Matthieu Gauzin,Gravelines-Dunkerque,Roanne,6.912,0.284,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,412,4,3FGM,Vince Edwards,Gravelines-Dunkerque,Roanne,-6.279,2.983,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,418,4,3FGA,Kenny Boynton,Gravelines-Dunkerque,Roanne,1.686,7.379,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,423,4,2FGM,Matthieu Gauzin,Gravelines-Dunkerque,Roanne,-0.645,1.508,floating jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,440,4,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Roanne,0.849,1.303,jump shot
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,442,4,2FGM,Matthieu Gauzin,Gravelines-Dunkerque,Roanne,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,443,4,3FGM,Szilard Benke,Gravelines-Dunkerque,Roanne,5.577,5.363,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,444,4,3FGA,Jakeenan Gant,Roanne,Gravelines-Dunkerque,6.753,0.556,
+22-23,22-23 PROA,2023-03-28:Gravelines-Dunkerque-Roanne,26,446,4,3FGA,Matthieu Gauzin,Gravelines-Dunkerque,Roanne,2.929,7.041,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,3,1,2FGM,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-0.347,-0.217,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,13,1,3FGA,Giovan Oniangue,Pau-Lacq-Orthez,Nanterre,6.547,3.65,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,15,1,2FGM,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,0.057,1.861,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,25,1,3FGM,Rion Brown,Nanterre,Pau-Lacq-Orthez,3.115,7.603,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,27,1,2FGA,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-0.722,2.726,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,29,1,2FGA,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,31,1,2FGA,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,33,1,2FGA,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,37,1,2FGM,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-0.288,0.186,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,39,1,2FGM,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,-0.922,5.901,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,41,1,2FGM,Cj Williams,Pau-Lacq-Orthez,Nanterre,-0.403,0.648,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,43,1,2FGA,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-0.547,1.371,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,45,1,2FGM,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-0.259,0.937,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,47,1,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,-6.144,3.879,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,49,1,2FGM,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-1.009,1.253,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,51,1,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-1.212,8.471,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,53,1,3FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,7.125,3.737,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,58,1,2FGM,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,-0.347,1.917,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,60,1,3FGM,Darel Poirier,Pau-Lacq-Orthez,Nanterre,-4.731,6.075,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,66,1,3FGA,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,7.01,1.83,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,70,1,2FGM,Cj Williams,Pau-Lacq-Orthez,Nanterre,0.087,0.878,dunk
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,72,1,3FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,-0.578,8.642,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,78,1,2FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-1.557,0.561,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,80,1,2FGA,Enzo Shahrvin,Pau-Lacq-Orthez,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,82,1,3FGM,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-7.212,-0.161,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,88,1,3FGA,Giovan Oniangue,Pau-Lacq-Orthez,Nanterre,-6.115,3.851,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,91,1,3FGM,Cj Williams,Pau-Lacq-Orthez,Nanterre,5.568,5.498,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,93,1,2FGA,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,-0.606,1.11,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,95,1,2FGM,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,97,1,2FGA,Giovan Oniangue,Pau-Lacq-Orthez,Nanterre,0.375,0.704,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,104,1,3FGM,Cj Williams,Pau-Lacq-Orthez,Nanterre,-5.337,5.873,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,106,1,2FGM,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,0.028,0.85,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,115,1,3FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,5.25,5.585,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,117,1,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,4.962,5.383,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,119,1,3FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,-3.432,7.228,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,121,1,2FGM,Enzo Shahrvin,Pau-Lacq-Orthez,Nanterre,-0.144,0.301,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,122,1,2FGA,Benjamin Sene,Nanterre,Pau-Lacq-Orthez,2.885,5.526,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,128,2,3FGA,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,-6.952,1.253,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,130,2,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,-3.432,6.797,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,132,2,2FGA,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,4.413,3.275,step-back
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,143,2,3FGA,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,2.827,7.749,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,145,2,3FGA,Landing Sane,Pau-Lacq-Orthez,Nanterre,6.663,4.459,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,149,2,3FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-5.538,5.296,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,151,2,2FGM,Cj Williams,Pau-Lacq-Orthez,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,163,2,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,-0.259,0.995,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,168,2,2FGM,Hamady Ndiaye,Nanterre,Pau-Lacq-Orthez,-0.432,1.225,dunk
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,170,2,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,0.462,7.374,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,172,2,3FGM,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,-5.394,5.439,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,184,2,2FGM,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,0.259,0.503,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,186,2,2FGA,Michael Stockton,Pau-Lacq-Orthez,Nanterre,-0.057,1.11,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,188,2,3FGA,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,-3.837,6.509,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,198,2,3FGA,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,3.231,6.766,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,200,2,2FGA,Gerald Ayayi,Pau-Lacq-Orthez,Nanterre,-0.318,1.802,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,202,2,2FGM,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,0.403,-0.102,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,206,2,2FGM,Rion Brown,Nanterre,Pau-Lacq-Orthez,-0.259,0.909,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,214,2,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,0.347,1.917,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,215,2,3FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,2.943,7.141,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,224,2,2FGA,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,-0.172,0.648,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,233,2,3FGA,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,1.009,8.096,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,235,2,2FGA,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,0.231,4.341,pull up
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,237,2,2FGM,Cj Williams,Pau-Lacq-Orthez,Nanterre,-0.318,0.533,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,240,2,2FGA,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-0.403,1.11,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,242,2,2FGM,Michael Stockton,Pau-Lacq-Orthez,Nanterre,2.682,0.676,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,244,2,2FGA,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-1.068,3.535,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,246,2,3FGM,Michael Stockton,Pau-Lacq-Orthez,Nanterre,4.672,6.738,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,248,2,3FGM,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,6.923,2.785,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,259,2,3FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,1.932,7.259,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,266,3,2FGM,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-3.203,3.879,pull up
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,268,3,3FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,2.452,7.575,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,270,3,3FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,-4.76,6.651,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,272,3,2FGM,Michael Stockton,Pau-Lacq-Orthez,Nanterre,-0.432,0.995,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,273,3,2FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,2.278,1.687,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,275,3,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,-0.259,0.763,dunk
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,278,3,2FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,-3.837,0.533,pull up
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,280,3,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-5.625,5.498,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,282,3,2FGM,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,0.231,0.503,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,291,3,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,0.144,1.023,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,293,3,2FGA,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,1.587,1.628,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,297,3,2FGA,Hans Vanwijn,Nanterre,Pau-Lacq-Orthez,2.509,1.197,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,300,3,3FGM,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,6.057,5.554,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,306,3,2FGA,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,0.578,4.459,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,308,3,2FGM,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,0.432,2.496,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,309,3,2FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,1.125,0.416,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,311,3,2FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,-0.172,2.726,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,313,3,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,3,7.374,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,315,3,3FGA,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,-6,5.151,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,321,3,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Nanterre,-1.356,0.763,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,327,3,2FGM,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,-0.693,0.995,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,340,3,3FGA,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,5.365,5.96,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,349,3,2FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,0.693,1.83,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,357,3,3FGA,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,5.019,5.873,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,359,3,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-6.952,3.504,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,364,3,3FGA,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,-6.26,4.341,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,367,3,3FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-3.318,7.315,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,373,3,2FGM,Benjamin Sene,Nanterre,Pau-Lacq-Orthez,-0.057,2.409,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,374,3,3FGA,Giovan Oniangue,Pau-Lacq-Orthez,Nanterre,5.682,4.775,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,376,3,3FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,5.307,5.613,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,378,3,3FGM,Giovan Oniangue,Pau-Lacq-Orthez,Nanterre,-6.375,5.265,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,380,3,2FGA,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,0.318,1.34,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,388,3,3FGA,Michael Stockton,Pau-Lacq-Orthez,Nanterre,4.615,6.912,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,398,4,2FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,-0.375,1.715,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,400,4,2FGM,Darel Poirier,Pau-Lacq-Orthez,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,401,4,3FGA,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,6.375,3.535,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,403,4,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,3.318,7.315,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,405,4,2FGM,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,-0.144,0.416,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,407,4,2FGM,Darel Poirier,Pau-Lacq-Orthez,Nanterre,-0.231,1.166,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,409,4,3FGA,Bastien Pinault,Nanterre,Pau-Lacq-Orthez,-4.615,6.016,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,413,4,2FGM,Lucas Dussoulier,Nanterre,Pau-Lacq-Orthez,0.634,0.388,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,420,4,3FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,-4.673,6.478,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,423,4,2FGA,Michael Stockton,Pau-Lacq-Orthez,Nanterre,-0.231,0.503,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,431,4,2FGA,Michael Stockton,Pau-Lacq-Orthez,Nanterre,2.827,4.053,fadeaway
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,433,4,3FGM,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,5.394,6.103,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,436,4,2FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-0.75,0.735,jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,438,4,2FGM,Hamady Ndiaye,Nanterre,Pau-Lacq-Orthez,0.172,0.995,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,443,4,2FGM,Benjamin Sene,Nanterre,Pau-Lacq-Orthez,0.837,2.264,fadeaway
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,444,4,3FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-6.894,0.878,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,449,4,2FGA,Michael Stockton,Pau-Lacq-Orthez,Nanterre,-0.259,1.746,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,451,4,3FGM,Rion Brown,Nanterre,Pau-Lacq-Orthez,-6.115,5.929,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,453,4,2FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-0.144,1.225,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,455,4,3FGM,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,6.577,3.765,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,460,4,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Nanterre,-0.462,8.065,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,462,4,2FGA,Benjamin Sene,Nanterre,Pau-Lacq-Orthez,-0.491,0.965,hook shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,473,4,3FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,-6.807,3.591,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,475,4,2FGA,Rion Brown,Nanterre,Pau-Lacq-Orthez,0.318,0.503,fadeaway
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,477,4,2FGM,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,480,4,3FGA,Cj Williams,Pau-Lacq-Orthez,Nanterre,7.068,1.051,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,483,4,2FGM,Gerald Ayayi,Pau-Lacq-Orthez,Nanterre,-0.519,0.648,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,485,4,3FGM,Justin Bibbins,Nanterre,Pau-Lacq-Orthez,5.625,5.036,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,486,4,2FGA,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-0.432,0.85,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,488,4,3FGA,Benjamin Sene,Nanterre,Pau-Lacq-Orthez,-5.653,5.151,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,490,4,3FGM,Garrett Sim,Pau-Lacq-Orthez,Nanterre,-2.828,7.69,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,494,4,2FGA,Gerald Ayayi,Pau-Lacq-Orthez,Nanterre,-0.462,1.455,layup
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,506,4,3FGA,Keith Hornsby,Nanterre,Pau-Lacq-Orthez,3.49,6.595,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,508,4,2FGM,Miralem Halilovic,Nanterre,Pau-Lacq-Orthez,-0.837,0.763,floating jump shot
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,510,4,3FGA,Gerald Ayayi,Pau-Lacq-Orthez,Nanterre,-6.318,4.949,
+22-23,22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,26,512,4,3FGM,Benjamin Sene,Nanterre,Pau-Lacq-Orthez,6.057,4.372,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,5,1,2FGM,Tomas Kyzlink,Limoges,Dijon,-0.894,0.648,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,7,1,2FGA,Gavin Ware,Dijon,Limoges,0.087,1.34,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,9,1,3FGA,Nicolas Lang,Limoges,Dijon,1.528,7.113,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,11,1,3FGM,Markis McDuffie,Dijon,Limoges,-6.981,2.236,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,17,1,2FGM,Desi Rodriguez,Limoges,Dijon,4.702,0.909,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,18,1,2FGA,Gregor Hrovat,Dijon,Limoges,2.366,-0.335,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,21,1,3FGA,Markis McDuffie,Dijon,Limoges,-7.038,-0.651,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,23,1,3FGA,Gregor Hrovat,Dijon,Limoges,5.51,5.179,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,25,1,3FGM,Markis McDuffie,Dijon,Limoges,-7.01,-0.102,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,29,1,3FGA,Markis McDuffie,Dijon,Limoges,6.952,-0.335,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,34,1,2FGA,Desi Rodriguez,Limoges,Dijon,-0.922,0.937,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,38,1,3FGA,Gregor Hrovat,Dijon,Limoges,-7.038,0.533,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,40,1,2FGA,Markis McDuffie,Dijon,Limoges,-0.375,-0.133,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,42,1,2FGA,Markis McDuffie,Dijon,Limoges,0.663,-0.046,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,44,1,2FGA,Marek Klassen,Limoges,Dijon,-0.693,0.533,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,49,1,2FGA,David Holston,Dijon,Limoges,-0.953,0.099,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,51,1,2FGA,Desi Rodriguez,Limoges,Dijon,-1.672,0.648,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,55,1,2FGM,Desi Rodriguez,Limoges,Dijon,-0.432,-0.015,dunk
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,57,1,3FGM,Gregor Hrovat,Dijon,Limoges,-3.519,6.565,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,59,1,3FGA,Marek Klassen,Limoges,Dijon,-0.288,7.402,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,69,1,2FGA,Jacques Alingue,Dijon,Limoges,0.432,0.416,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,71,1,2FGM,Jacques Alingue,Dijon,Limoges,0.894,0.186,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,74,1,2FGM,Marek Klassen,Limoges,Dijon,-1.472,3.709,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,77,1,2FGM,Gregor Hrovat,Dijon,Limoges,-0.578,0.273,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,79,1,3FGA,Lucas Ugolin,Limoges,Dijon,-4.76,5.467,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,81,1,2FGM,Kenneth Kadji,Limoges,Dijon,-0.634,0.071,dunk
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,83,1,2FGM,Gregor Hrovat,Dijon,Limoges,-0.231,-0.046,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,91,1,2FGM,Tomas Kyzlink,Limoges,Dijon,-0.578,0.273,dunk
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,99,1,2FGA,Kenneth Kadji,Limoges,Dijon,0.116,1.659,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,101,1,3FGM,Tomas Kyzlink,Limoges,Dijon,6.952,-0.046,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,103,1,2FGA,Gavin Ware,Dijon,Limoges,-2.019,4.546,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,116,2,3FGA,David Brembly,Dijon,Limoges,-6.663,3.275,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,118,2,2FGA,Gregor Hrovat,Dijon,Limoges,0.547,0.214,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,123,2,2FGA,Marek Klassen,Limoges,Dijon,0.722,-0.391,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,127,2,2FGM,Kenneth Kadji,Limoges,Dijon,0.491,0.127,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,133,2,3FGM,Jonathan Rousselle,Dijon,Limoges,-2.913,7.259,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,138,2,2FGA,Markis McDuffie,Dijon,Limoges,-6.028,-0.679,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,140,2,2FGM,Tomas Kyzlink,Limoges,Dijon,-0.347,0.158,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,147,2,3FGA,Jonathan Rousselle,Dijon,Limoges,6.952,-0.304,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,149,2,3FGA,Marek Klassen,Limoges,Dijon,4.298,6.075,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,151,2,3FGA,Robin Ducote,Dijon,Limoges,5.221,5.352,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,153,2,2FGA,Kenneth Kadji,Limoges,Dijon,-0.403,0.475,dunk
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,167,2,2FGM,Abdoulaye Loum,Dijon,Limoges,0.318,-0.046,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,196,2,2FGM,Tomas Kyzlink,Limoges,Dijon,-1.097,0.447,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,197,2,3FGM,Robin Ducote,Dijon,Limoges,7.009,-0.536,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,199,2,2FGA,Nicolas Lang,Limoges,Dijon,-3.865,-0.046,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,201,2,3FGA,David Holston,Dijon,Limoges,-1.356,7.461,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,215,2,3FGM,Abdoulaye Loum,Dijon,Limoges,6.894,0.041,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,217,2,2FGA,Desi Rodriguez,Limoges,Dijon,-0.259,2.034,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,220,2,2FGM,Nicolas Lang,Limoges,Dijon,0.144,2.871,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,225,2,2FGM,Gavin Ware,Dijon,Limoges,0.722,0.158,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,229,2,2FGA,Nicolas Lang,Limoges,Dijon,2.423,1.34,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,240,2,2FGA,Matthew Mobley,Dijon,Limoges,0.75,0.301,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,242,2,2FGM,Abdoulaye Loum,Dijon,Limoges,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,253,3,3FGM,Matthew Mobley,Dijon,Limoges,-1.009,7.575,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,257,3,3FGA,Matthew Mobley,Dijon,Limoges,-6.952,-0.477,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,259,3,3FGA,Tomas Kyzlink,Limoges,Dijon,6.837,-0.853,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,263,3,2FGM,Kenneth Kadji,Limoges,Dijon,0.922,0.878,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,264,3,2FGM,Gavin Ware,Dijon,Limoges,4.182,2.409,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,270,3,2FGA,Desi Rodriguez,Limoges,Dijon,-0.837,-0.248,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,272,3,2FGM,Desi Rodriguez,Limoges,Dijon,0.519,0.301,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,273,3,2FGA,Gavin Ware,Dijon,Limoges,3.952,1.746,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,277,3,3FGM,David Holston,Dijon,Limoges,-5.51,4.921,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,279,3,3FGM,Kenneth Kadji,Limoges,Dijon,0.172,8.009,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,285,3,3FGA,Desi Rodriguez,Limoges,Dijon,-6.26,4.285,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,293,3,2FGA,Bryce Jones,Limoges,Dijon,-0.547,0.301,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,295,3,2FGM,Kenneth Kadji,Limoges,Dijon,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,296,3,2FGA,Abdoulaye Loum,Dijon,Limoges,1.5,0.099,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,308,3,2FGM,Desi Rodriguez,Limoges,Dijon,-0.288,0.878,dunk
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,310,3,3FGA,David Brembly,Dijon,Limoges,5.712,4.227,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,312,3,3FGA,Kenneth Kadji,Limoges,Dijon,-4.875,6.103,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,319,3,3FGA,Jonathan Rousselle,Dijon,Limoges,-1.847,7.2,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,321,3,3FGA,Matthew Mobley,Dijon,Limoges,-3.837,6.595,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,325,3,3FGM,Bryce Jones,Limoges,Dijon,0.722,7.461,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,326,3,2FGM,Jonathan Rousselle,Dijon,Limoges,-0.634,0.301,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,332,3,2FGM,Nicolas Lang,Limoges,Dijon,0.203,2.726,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,334,3,2FGM,Jonathan Rousselle,Dijon,Limoges,-0.75,6.189,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,335,3,2FGM,Desi Rodriguez,Limoges,Dijon,-0.172,0.301,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,351,3,2FGM,Wilfried Yeguete,Limoges,Dijon,0.144,2.726,floating jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,353,3,3FGA,Jonathan Rousselle,Dijon,Limoges,0.693,7.461,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,355,3,3FGM,Mathieu Wojciechowski,Limoges,Dijon,5.653,5.151,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,359,3,2FGA,Gregor Hrovat,Dijon,Limoges,-1.528,-0.046,floating jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,376,4,3FGA,Tomas Kyzlink,Limoges,Dijon,7.038,0.158,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,383,4,2FGA,Wilfried Yeguete,Limoges,Dijon,0.663,-0.046,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,386,4,2FGA,Wilfried Yeguete,Limoges,Dijon,0.519,1.138,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,388,4,3FGA,David Holston,Dijon,Limoges,5.943,4.112,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,390,4,3FGA,Tomas Kyzlink,Limoges,Dijon,4.356,6.335,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,392,4,2FGM,Lucas Ugolin,Limoges,Dijon,0.375,0.099,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,393,4,3FGA,Jonathan Rousselle,Dijon,Limoges,-4.76,5.554,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,395,4,2FGM,Mathieu Wojciechowski,Limoges,Dijon,-0.75,-0.046,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,409,4,2FGA,Wilfried Yeguete,Limoges,Dijon,0.894,2.379,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,414,4,2FGA,Marek Klassen,Limoges,Dijon,2.568,4.112,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,416,4,3FGA,Markis McDuffie,Dijon,Limoges,6.952,0.85,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,418,4,3FGA,Mathieu Wojciechowski,Limoges,Dijon,-6.952,-0.391,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,422,4,2FGM,Lucas Ugolin,Limoges,Dijon,-0.634,0.533,dunk
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,432,4,2FGA,Nicolas Lang,Limoges,Dijon,2.453,2.264,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,434,4,3FGM,Matthew Mobley,Dijon,Limoges,5.221,5.383,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,444,4,3FGA,Bryce Jones,Limoges,Dijon,1.587,7.864,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,446,4,2FGM,Gregor Hrovat,Dijon,Limoges,-0.259,0.329,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,461,4,2FGA,Bryce Jones,Limoges,Dijon,3.953,4.199,jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,463,4,3FGM,Matthew Mobley,Dijon,Limoges,-5.106,5.554,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,467,4,2FGM,Desi Rodriguez,Limoges,Dijon,0.144,1.485,floating jump shot
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,472,4,3FGA,Nicolas Lang,Limoges,Dijon,-0.028,7.836,
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,501,4,2FGA,David Holston,Dijon,Limoges,-1.182,0.416,layup
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,503,4,2FGM,Gavin Ware,Dijon,Limoges,0,-0.175,putback
+22-23,22-23 PROA,2023-03-28:Dijon-Limoges,26,504,4,3FGA,Marek Klassen,Limoges,Dijon,-3.606,6.509,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,3,1,3FGA,Justin Robinson,Gravelines-Dunkerque,Fos-sur-Mer,3.923,6.047,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,6,1,2FGM,Dylan Affo Mama,Fos-sur-Mer,Gravelines-Dunkerque,0.403,-0.477,dunk
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,8,1,2FGA,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,-5.019,1.023,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,11,1,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-1.788,4.689,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,13,1,3FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-7.01,-0.477,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,19,1,2FGA,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,2.712,5.613,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,21,1,2FGM,Allan Dokossi,Fos-sur-Mer,Gravelines-Dunkerque,1.182,0.965,dunk
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,25,1,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,0.375,2.264,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,27,1,3FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-5.596,5.758,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,29,1,2FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,1.212,0.158,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,31,1,3FGM,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,3.029,7.259,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,33,1,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,2.047,4.862,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,35,1,3FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,5.019,5.842,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,37,1,2FGM,Shevon Thompson,Fos-sur-Mer,Gravelines-Dunkerque,1.557,0.878,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,39,1,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-0.172,5.265,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,49,1,2FGM,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,-3.922,2.524,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,66,1,2FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-3.75,0.388,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,68,1,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,0.519,1.541,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,70,1,2FGM,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,1.356,0.503,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,71,1,2FGM,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,-1.097,0.447,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,73,1,3FGA,Tahjere McCall,Fos-sur-Mer,Gravelines-Dunkerque,4.212,6.363,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,75,1,2FGM,Vafessa Fofana,Gravelines-Dunkerque,Fos-sur-Mer,-1.384,0.186,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,87,1,2FGM,Matthieu Gauzin,Gravelines-Dunkerque,Fos-sur-Mer,1.068,0.62,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,89,1,2FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-0.866,0.561,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,91,1,2FGA,Johan Passave-Ducteil,Fos-sur-Mer,Gravelines-Dunkerque,-4.01,0.763,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,93,1,3FGA,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,3.403,6.766,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,95,1,2FGA,Garlon Green,Fos-sur-Mer,Gravelines-Dunkerque,-0.288,0.995,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,97,1,2FGA,Garlon Green,Fos-sur-Mer,Gravelines-Dunkerque,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,106,1,2FGA,Romuald Morency,Gravelines-Dunkerque,Fos-sur-Mer,-4.038,0.273,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,108,1,2FGM,Tahjere McCall,Fos-sur-Mer,Gravelines-Dunkerque,1.413,2.667,floating jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,109,1,2FGA,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,5.221,3.591,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,111,1,2FGA,Matthieu Gauzin,Gravelines-Dunkerque,Fos-sur-Mer,-0.028,1.051,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,113,1,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,115,1,3FGA,Tahjere McCall,Fos-sur-Mer,Gravelines-Dunkerque,-0.519,7.603,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,127,2,3FGM,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,6.865,0.158,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,129,2,2FGA,Vafessa Fofana,Gravelines-Dunkerque,Fos-sur-Mer,0.087,2.465,floating jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,138,2,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-1.443,1.947,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,143,2,2FGA,Garlon Green,Fos-sur-Mer,Gravelines-Dunkerque,-3.057,1.774,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,145,2,3FGA,Szilard Benke,Gravelines-Dunkerque,Fos-sur-Mer,3.981,6.537,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,147,2,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-0.028,5.613,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,149,2,3FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,-6.231,4.689,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,151,2,2FGM,Matthieu Gauzin,Gravelines-Dunkerque,Fos-sur-Mer,0.634,1.541,floating jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,160,2,2FGA,Dominik Olejniczak,Gravelines-Dunkerque,Fos-sur-Mer,-0.231,3.504,floating jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,162,2,3FGA,Matthieu Gauzin,Gravelines-Dunkerque,Fos-sur-Mer,2.712,7.461,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,175,2,3FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,-1.818,7.634,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,183,2,2FGM,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,-0.75,0.186,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,184,2,3FGM,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,1.5,7.951,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,186,2,2FGM,Tahjere McCall,Fos-sur-Mer,Gravelines-Dunkerque,0.634,0.503,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,200,2,2FGM,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,0.981,2.121,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,201,2,3FGA,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,-1.097,7.547,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,207,2,3FGA,Justin Robinson,Gravelines-Dunkerque,Fos-sur-Mer,3.49,7.461,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,211,2,2FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,-0.922,0.329,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,232,2,2FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,0.057,2.003,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,244,2,2FGM,Tahjere McCall,Fos-sur-Mer,Gravelines-Dunkerque,1.731,0.416,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,245,2,2FGM,Justin Robinson,Gravelines-Dunkerque,Fos-sur-Mer,1.153,1.802,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,253,2,3FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,3.923,6.478,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,264,3,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,1.125,5.758,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,266,3,3FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-0.403,7.575,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,268,3,3FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,-4.096,6.651,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,269,3,2FGM,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-0.778,0.648,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,270,3,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-1.212,0.388,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,272,3,3FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-2.856,7.547,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,274,3,2FGA,Romuald Morency,Gravelines-Dunkerque,Fos-sur-Mer,3.346,2.379,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,279,3,2FGA,Dylan Affo Mama,Fos-sur-Mer,Gravelines-Dunkerque,-0.259,0.676,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,283,3,2FGM,Shevon Thompson,Fos-sur-Mer,Gravelines-Dunkerque,1.472,0.62,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,285,3,2FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,-0.953,0.447,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,288,3,3FGA,Dylan Affo Mama,Fos-sur-Mer,Gravelines-Dunkerque,2.452,7.634,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,290,3,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,3.663,4.171,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,292,3,2FGM,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,293,3,3FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-5.047,5.96,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,295,3,3FGM,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,0.462,7.892,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,298,3,3FGM,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,0.519,7.43,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,300,3,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-0.981,4.227,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,302,3,2FGM,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-1.443,3.389,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,305,3,3FGM,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-5.422,5.671,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,307,3,3FGM,Matthieu Gauzin,Gravelines-Dunkerque,Fos-sur-Mer,3.75,7.489,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,309,3,2FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-3.172,4.717,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,325,3,3FGA,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,-5.048,5.467,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,332,3,2FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-1.731,0.791,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,339,3,2FGM,Garlon Green,Fos-sur-Mer,Gravelines-Dunkerque,0.172,0.822,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,342,3,2FGM,Dominik Olejniczak,Gravelines-Dunkerque,Fos-sur-Mer,0.288,0.965,dunk
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,344,3,3FGM,Garlon Green,Fos-sur-Mer,Gravelines-Dunkerque,3.865,6.971,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,346,3,2FGM,Dominik Olejniczak,Gravelines-Dunkerque,Fos-sur-Mer,1.241,0.503,hook shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,348,3,2FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,0.837,2.264,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,350,3,2FGA,Justin Robinson,Gravelines-Dunkerque,Fos-sur-Mer,1.125,4.862,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,352,3,3FGA,Tahjere McCall,Fos-sur-Mer,Gravelines-Dunkerque,-6.922,1.225,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,354,3,3FGA,Szilard Benke,Gravelines-Dunkerque,Fos-sur-Mer,6,6.304,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,365,4,3FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,5.798,5.929,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,367,4,2FGA,Johan Passave-Ducteil,Fos-sur-Mer,Gravelines-Dunkerque,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,376,4,2FGM,Romuald Morency,Gravelines-Dunkerque,Fos-sur-Mer,0.578,1.166,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,377,4,3FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,7.038,0.186,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,379,4,2FGA,Dominik Olejniczak,Gravelines-Dunkerque,Fos-sur-Mer,2.25,1.485,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,381,4,2FGM,Dominik Olejniczak,Gravelines-Dunkerque,Fos-sur-Mer,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,382,4,3FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-6.981,0.589,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,396,4,2FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,-3.318,1.166,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,398,4,2FGA,Dominik Olejniczak,Gravelines-Dunkerque,Fos-sur-Mer,2.653,0.273,hook shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,402,4,2FGA,Matthieu Gauzin,Gravelines-Dunkerque,Fos-sur-Mer,-0.922,0.648,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,404,4,2FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,-0.837,0.503,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,406,4,2FGM,Shevon Thompson,Fos-sur-Mer,Gravelines-Dunkerque,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,431,4,2FGM,Dylan Affo Mama,Fos-sur-Mer,Gravelines-Dunkerque,-0.981,0.561,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,434,4,3FGA,Justin Robinson,Gravelines-Dunkerque,Fos-sur-Mer,5.682,5.842,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,440,4,2FGA,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,0.403,3.563,floating jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,442,4,2FGM,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-1.182,0.763,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,451,4,2FGM,Shevon Thompson,Fos-sur-Mer,Gravelines-Dunkerque,0.318,0.791,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,453,4,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-0.432,5.092,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,460,4,3FGA,Kenny Boynton,Gravelines-Dunkerque,Fos-sur-Mer,5.596,5.526,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,462,4,3FGA,Garlon Green,Fos-sur-Mer,Gravelines-Dunkerque,5.163,6.22,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,464,4,2FGM,Dylan Affo Mama,Fos-sur-Mer,Gravelines-Dunkerque,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,465,4,2FGA,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-1.644,4.372,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,467,4,2FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,-1.788,3.966,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,469,4,2FGM,Jajuan Johnson,Gravelines-Dunkerque,Fos-sur-Mer,-0.981,4.025,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,470,4,2FGA,Stephen Brown,Fos-sur-Mer,Gravelines-Dunkerque,3.865,3.389,jump shot
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,474,4,2FGM,Vince Edwards,Gravelines-Dunkerque,Fos-sur-Mer,0.663,0.589,layup
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,478,4,3FGA,Frank Gaines,Fos-sur-Mer,Gravelines-Dunkerque,-7.038,0.36,
+22-23,22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,27,490,4,3FGA,Milan Barbitch,Fos-sur-Mer,Gravelines-Dunkerque,-5.625,7.461,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,3,1,2FGM,Juhann Begarin,Paris,Le Portel,-0.516,0.167,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,8,1,2FGA,Benoit Mangin,Le Portel,Paris,-0.813,0.421,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,10,1,2FGA,Tyrone Wallace,Paris,Le Portel,-0.766,0.489,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,12,1,2FGA,Ryan Mikesell,Le Portel,Paris,3.722,-0.405,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,14,1,3FGM,Gauthier Denis,Paris,Le Portel,5.943,4.204,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,16,1,2FGM,Nadir Hifi,Le Portel,Paris,0.47,0.192,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,17,1,3FGM,Aamir Simms,Paris,Le Portel,-2.187,7.231,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,19,1,2FGM,Terry Allen,Le Portel,Paris,0.699,0.329,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,20,1,3FGA,Jeremy Evans,Paris,Le Portel,6.86,0.007,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,22,1,3FGA,Juhann Begarin,Paris,Le Portel,5.943,4.341,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,24,1,2FGM,Benoit Mangin,Le Portel,Paris,0.492,-0.06,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,25,1,3FGM,Gauthier Denis,Paris,Le Portel,-4.11,6.338,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,27,1,2FGA,Emmanuel Nzekwesi,Le Portel,Paris,-0.378,4.915,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,29,1,2FGA,Ryan Mikesell,Le Portel,Paris,4.477,-0.245,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,31,1,2FGA,Juhann Begarin,Paris,Le Portel,3.034,2.53,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,33,1,3FGM,Gauthier Denis,Paris,Le Portel,0.791,7.413,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,38,1,2FGA,Ryan Mikesell,Le Portel,Paris,5.577,0.374,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,40,1,2FGA,Juhann Begarin,Paris,Le Portel,-0.309,1.337,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,42,1,3FGM,Benoit Mangin,Le Portel,Paris,-4.065,6.427,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,65,1,2FGA,Ronald Curry,Le Portel,Paris,-2.599,4.616,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,67,1,2FGA,Charles-Noe Abouo,Le Portel,Paris,0.012,1.751,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,69,1,3FGA,Tyrone Wallace,Paris,Le Portel,0.607,7.391,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,77,1,2FGM,Ronald Curry,Le Portel,Paris,0.012,1.567,floating jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,79,1,2FGA,Ismael Kamagate,Paris,Le Portel,0.012,1.429,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,88,1,2FGM,Ismael Kamagate,Paris,Le Portel,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,89,1,2FGM,Emmanuel Nzekwesi,Le Portel,Paris,-3.652,0.626,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,93,1,3FGA,Charles-Noe Abouo,Le Portel,Paris,5.827,4.616,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,95,1,3FGA,Jeremy Evans,Paris,Le Portel,-6.035,4.271,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,97,1,2FGA,Emmanuel Nzekwesi,Le Portel,Paris,4.5,-0.475,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,99,1,3FGA,Tyrone Wallace,Paris,Le Portel,-5.691,4.778,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,104,1,2FGM,Emmanuel Nzekwesi,Le Portel,Paris,0.149,0.237,dunk
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,106,1,3FGM,Axel Toupane,Paris,Le Portel,-0.516,7.598,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,107,1,2FGM,Nadir Hifi,Le Portel,Paris,-3.264,2.233,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,112,2,3FGA,Axel Toupane,Paris,Le Portel,0.423,7.276,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,117,2,3FGA,Juhann Begarin,Paris,Le Portel,-6.583,3.308,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,119,2,2FGA,Ismael Kamagate,Paris,Le Portel,3.492,1.27,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,121,2,2FGM,Ronald Curry,Le Portel,Paris,-0.905,5.764,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,126,2,3FGA,Juhann Begarin,Paris,Le Portel,1.912,7.253,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,134,2,3FGA,Nadir Hifi,Le Portel,Paris,-2.301,7.186,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,140,2,2FGM,Juhann Begarin,Paris,Le Portel,-0.149,0.329,alley oop
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,142,2,2FGA,Emmanuel Nzekwesi,Le Portel,Paris,4.638,0.581,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,144,2,3FGA,Aamir Simms,Paris,Le Portel,6.652,2.759,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,146,2,3FGA,Charles-Noe Abouo,Le Portel,Paris,6.24,3.79,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,148,2,2FGM,Zoran Nikolic,Le Portel,Paris,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,149,2,3FGA,Gauthier Denis,Paris,Le Portel,-3.882,6.705,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,151,2,2FGA,Emmanuel Nzekwesi,Le Portel,Paris,0.355,0.559,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,153,2,2FGA,Emmanuel Nzekwesi,Le Portel,Paris,-0.24,0.811,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,155,2,2FGA,Zoran Nikolic,Le Portel,Paris,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,157,2,2FGA,Zoran Nikolic,Le Portel,Paris,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,159,2,2FGA,Zoran Nikolic,Le Portel,Paris,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,161,2,2FGA,Zoran Nikolic,Le Portel,Paris,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,163,2,2FGM,Nadir Hifi,Le Portel,Paris,-0.012,2.737,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,169,2,2FGM,Tyrone Wallace,Paris,Le Portel,-0.722,0.396,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,170,2,3FGA,Benoit Mangin,Le Portel,Paris,-4.179,6.475,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,172,2,2FGA,Juhann Begarin,Paris,Le Portel,-0.766,0.559,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,174,2,3FGA,Ronald Curry,Le Portel,Paris,6.996,-0.519,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,176,2,3FGM,Juhann Begarin,Paris,Le Portel,-5.669,4.938,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,178,2,2FGA,Nadir Hifi,Le Portel,Paris,-4.683,3.585,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,180,2,2FGM,Aamir Simms,Paris,Le Portel,-0.561,0.099,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,189,2,2FGM,Terry Allen,Le Portel,Paris,-1.522,0.421,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,191,2,2FGA,Tyrone Wallace,Paris,Le Portel,2.004,2.759,fadeaway
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,193,2,3FGM,Nadir Hifi,Le Portel,Paris,-3.766,6.453,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,198,2,3FGA,Aamir Simms,Paris,Le Portel,0.034,7.757,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,203,2,2FGM,Rudy Demahis Ballou,Le Portel,Paris,-3.356,4.915,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,206,2,3FGA,Chris Goulding,Paris,Le Portel,5.278,5.282,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,208,2,3FGM,Terry Allen,Le Portel,Paris,-0.149,7.805,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,219,2,2FGM,Nadir Hifi,Le Portel,Paris,-1.478,0.489,hook shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,227,2,2FGA,Aamir Simms,Paris,Le Portel,-0.264,1.337,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,229,2,2FGA,Jeremy Evans,Paris,Le Portel,0.034,0.878,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,233,2,2FGA,Jeremy Evans,Paris,Le Portel,0.034,1.407,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,244,2,3FGA,Nadir Hifi,Le Portel,Paris,-0.057,7.461,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,246,2,3FGA,Juhann Begarin,Paris,Le Portel,-0.332,8.309,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,259,3,3FGA,Terry Allen,Le Portel,Paris,5.37,4.893,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,261,3,2FGM,Zoran Nikolic,Le Portel,Paris,-0.126,0.077,dunk
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,267,3,3FGA,Rudy Demahis Ballou,Le Portel,Paris,2.164,6.931,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,269,3,2FGM,Jeremy Evans,Paris,Le Portel,0.126,0.007,dunk
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,271,3,3FGA,Benoit Mangin,Le Portel,Paris,-2.348,6.909,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,273,3,3FGA,Tyrone Wallace,Paris,Le Portel,-6.974,-0.245,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,277,3,2FGM,Nadir Hifi,Le Portel,Paris,-3.561,4.456,step-back
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,285,3,2FGM,Terry Allen,Le Portel,Paris,-5.874,-0.245,step-back
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,286,3,3FGA,Aamir Simms,Paris,Le Portel,7.019,-0.612,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,296,3,2FGA,Juhann Begarin,Paris,Le Portel,-0.149,0.833,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,298,3,2FGM,Ismael Kamagate,Paris,Le Portel,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,313,3,2FGA,Terry Allen,Le Portel,Paris,-0.653,0.718,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,316,3,2FGA,Tyrone Wallace,Paris,Le Portel,-0.103,0.811,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,319,3,2FGA,Ronald Curry,Le Portel,Paris,0.675,1.567,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,331,3,3FGA,Chris Goulding,Paris,Le Portel,0.47,8.057,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,333,3,2FGA,Chris Goulding,Paris,Le Portel,0.951,0.144,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,350,3,3FGM,Juhann Begarin,Paris,Le Portel,-1.73,7.323,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,352,3,2FGM,Emmanuel Nzekwesi,Le Portel,Paris,0.309,0.329,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,353,3,2FGM,Aamir Simms,Paris,Le Portel,0.08,0.648,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,354,3,3FGA,Terry Allen,Le Portel,Paris,5.805,4.411,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,356,3,3FGA,Amar Gegic,Paris,Le Portel,6.652,3.815,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,358,3,2FGA,Ronald Curry,Le Portel,Paris,-3.699,-0.038,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,369,3,3FGA,Aamir Simms,Paris,Le Portel,-4.409,6.475,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,379,3,2FGA,Aamir Simms,Paris,Le Portel,-1.043,0.466,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,381,3,3FGA,Ronald Curry,Le Portel,Paris,1.912,7.783,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,383,3,3FGA,Chris Goulding,Paris,Le Portel,0.561,7.69,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,391,3,2FGM,Jeremy Evans,Paris,Le Portel,0.584,0.167,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,393,3,2FGA,Nadir Hifi,Le Portel,Paris,4.27,3.448,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,405,4,3FGM,Ronald Curry,Le Portel,Paris,1.295,7.483,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,412,4,2FGA,Zoran Nikolic,Le Portel,Paris,-0.172,1.841,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,421,4,3FGA,Ronald Curry,Le Portel,Paris,4.5,5.694,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,423,4,3FGA,Tyrone Wallace,Paris,Le Portel,-4.065,5.856,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,425,4,2FGM,Nadir Hifi,Le Portel,Paris,0.561,0.259,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,430,4,2FGA,Juhann Begarin,Paris,Le Portel,0.332,0.167,alley oop
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,432,4,3FGM,Terry Allen,Le Portel,Paris,-5.187,5.097,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,438,4,2FGM,Jeremy Evans,Paris,Le Portel,-0.012,0.122,alley oop
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,450,4,2FGM,Nadir Hifi,Le Portel,Paris,0.813,0.489,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,451,4,2FGA,Tyrone Wallace,Paris,Le Portel,-0.355,0.489,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,453,4,3FGM,Nadir Hifi,Le Portel,Paris,0.699,7.413,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,459,4,2FGM,Jeremy Evans,Paris,Le Portel,-0.766,0.214,pull up
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,461,4,2FGM,Nadir Hifi,Le Portel,Paris,0.584,0.237,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,462,4,3FGA,Aamir Simms,Paris,Le Portel,7.065,-0.36,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,466,4,2FGM,Jeremy Evans,Paris,Le Portel,0.057,0.192,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,473,4,3FGM,Gauthier Denis,Paris,Le Portel,0.126,7.805,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,478,4,2FGM,Emmanuel Nzekwesi,Le Portel,Paris,0.355,0.077,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,485,4,2FGA,Ronald Curry,Le Portel,Paris,0.447,0.581,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,487,4,3FGA,Gauthier Denis,Paris,Le Portel,-0.423,7.346,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,489,4,2FGA,Jeremy Evans,Paris,Le Portel,0,-0.175,putback
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,491,4,3FGM,Nadir Hifi,Le Portel,Paris,0.034,8.172,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,498,4,3FGA,Gauthier Denis,Paris,Le Portel,7.179,-0.682,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,509,4,2FGA,Tyrone Wallace,Paris,Le Portel,-0.492,0.307,dunk
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,511,4,2FGM,Charles-Noe Abouo,Le Portel,Paris,0.744,4.456,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,513,4,2FGM,Tyrone Wallace,Paris,Le Portel,-0.516,0.144,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,519,4,3FGA,Tyrone Wallace,Paris,Le Portel,-4.638,6.313,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,521,4,2FGM,Nadir Hifi,Le Portel,Paris,-0.699,0.374,layup
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,523,4,2FGM,Aamir Simms,Paris,Le Portel,0.057,0.763,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,525,4,3FGA,Terry Allen,Le Portel,Paris,6.904,-0.452,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,546,4,2FGM,Aamir Simms,Paris,Le Portel,0.264,2.118,jump shot
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,565,4,3FGM,Chris Goulding,Paris,Le Portel,-5.393,5.008,
+22-23,22-23 PROA,2023-03-31:Le Portel-Paris,27,570,4,3FGA,Gauthier Denis,Paris,Le Portel,-1.661,8.376,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,3,1,2FGA,Miralem Halilovic,Nanterre,Cholet,-2.278,2.264,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,5,1,2FGM,Lucas Dussoulier,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,13,1,2FGA,Miralem Halilovic,Nanterre,Cholet,1.182,1.166,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,15,1,2FGA,Perry Ellis,Cholet,Nanterre,-0.318,1.889,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,17,1,2FGM,Miralem Halilovic,Nanterre,Cholet,1.009,1.11,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,19,1,2FGM,Dominic Artis,Cholet,Nanterre,0.722,1.541,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,23,1,3FGA,Justin Bibbins,Nanterre,Cholet,2.856,8.211,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,25,1,2FGM,Perry Ellis,Cholet,Nanterre,1.068,1.485,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,27,1,3FGM,Keith Hornsby,Nanterre,Cholet,-4.212,6.276,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,29,1,2FGM,Enzo Goudou-Sinha,Cholet,Nanterre,-3.547,0.388,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,38,1,2FGA,Dominic Artis,Cholet,Nanterre,-0.894,1.861,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,40,1,2FGM,Justin Patton,Cholet,Nanterre,-0.663,1.6,alley oop
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,42,1,2FGM,Lucas Dussoulier,Nanterre,Cholet,0.922,1.687,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,44,1,2FGA,Perry Ellis,Cholet,Nanterre,-0.953,1.802,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,46,1,2FGA,Keith Hornsby,Nanterre,Cholet,1.038,2.149,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,48,1,2FGM,Perry Ellis,Cholet,Nanterre,0.837,1.628,dunk
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,57,1,3FGM,Rion Brown,Nanterre,Cholet,-4.385,6.335,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,62,1,2FGA,Dominic Artis,Cholet,Nanterre,5.106,1.628,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,64,1,3FGM,Justin Patton,Cholet,Nanterre,-6.375,4.084,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,66,1,3FGA,Lucas Dussoulier,Nanterre,Cholet,-4.182,6.22,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,68,1,2FGM,Rion Brown,Nanterre,Cholet,-1.269,1.455,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,74,1,2FGM,Dominic Artis,Cholet,Nanterre,-1.384,1.6,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,76,1,2FGM,Keith Hornsby,Nanterre,Cholet,0.894,2.927,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,78,1,3FGA,Justin Patton,Cholet,Nanterre,2.25,6.999,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,89,1,3FGM,Benjamin Sene,Nanterre,Cholet,4.385,6.565,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,92,1,3FGA,Rion Brown,Nanterre,Cholet,2.422,7.575,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,94,1,2FGA,Boris Dallo,Cholet,Nanterre,0.259,2.264,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,96,1,2FGM,Neal Sako,Cholet,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,97,1,2FGM,Lucas Dussoulier,Nanterre,Cholet,1.731,2.667,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,111,1,2FGM,Neal Sako,Cholet,Nanterre,-0.403,1.659,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,115,1,3FGA,Rion Brown,Nanterre,Cholet,3.663,6.537,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,118,2,2FGM,Bogdan Bliznyuk,Cholet,Nanterre,-0.981,2.003,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,122,2,2FGA,Bastien Pinault,Nanterre,Cholet,3.346,4.255,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,129,2,2FGA,Benjamin Sene,Nanterre,Cholet,1.528,2.379,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,131,2,2FGM,Hamady Ndiaye,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,132,2,2FGM,Bogdan Bliznyuk,Cholet,Nanterre,-1.125,1.138,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,143,2,3FGM,Bastien Pinault,Nanterre,Cholet,3.693,6.971,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,145,2,2FGA,Bogdan Bliznyuk,Cholet,Nanterre,-0.057,2.149,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,147,2,2FGA,Neal Sako,Cholet,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,151,2,2FGA,Neal Sako,Cholet,Nanterre,-1.009,1.947,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,153,2,2FGA,Hugo Robineau,Cholet,Nanterre,-1.356,1.485,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,155,2,2FGM,Neal Sako,Cholet,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,156,2,3FGA,Benjamin Sene,Nanterre,Cholet,3.837,6.304,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,158,2,2FGM,Benjamin Sene,Nanterre,Cholet,1.443,1.11,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,159,2,3FGM,Hugo Robineau,Cholet,Nanterre,5.74,4.602,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,161,2,2FGA,Miralem Halilovic,Nanterre,Cholet,-0.778,1.746,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,173,2,2FGA,Justin Bibbins,Nanterre,Cholet,0.057,3.622,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,175,2,2FGA,Dominic Artis,Cholet,Nanterre,1.5,2.177,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,177,2,2FGM,Neal Sako,Cholet,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,185,2,3FGA,Hans Vanwijn,Nanterre,Cholet,3.779,7.315,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,187,2,3FGA,Boris Dallo,Cholet,Nanterre,-0.922,7.461,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,191,2,2FGM,Hans Vanwijn,Nanterre,Cholet,0.432,2.927,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,193,2,3FGM,Kim Tillie,Cholet,Nanterre,-6.202,4.227,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,195,2,2FGA,Miralem Halilovic,Nanterre,Cholet,-0.606,3.333,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,197,2,3FGM,Boris Dallo,Cholet,Nanterre,-3.172,6.738,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,210,2,2FGA,Perry Ellis,Cholet,Nanterre,0.375,1.917,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,214,2,2FGA,Keith Hornsby,Nanterre,Cholet,-0.634,3.504,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,222,2,3FGA,Bogdan Bliznyuk,Cholet,Nanterre,-3.721,6.422,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,224,2,2FGM,Boris Dallo,Cholet,Nanterre,3.837,2.524,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,231,2,2FGM,Lucas Dussoulier,Nanterre,Cholet,0.837,1.687,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,235,2,2FGA,Hans Vanwijn,Nanterre,Cholet,1.384,2.496,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,237,2,2FGM,Hans Vanwijn,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,244,2,3FGM,Enzo Goudou-Sinha,Cholet,Nanterre,1.847,7.603,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,253,2,2FGM,Justin Patton,Cholet,Nanterre,-0.547,1.889,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,263,2,2FGA,Bogdan Bliznyuk,Cholet,Nanterre,-1.5,1.34,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,272,2,2FGM,Perry Ellis,Cholet,Nanterre,3.462,1.023,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,281,2,3FGA,Keith Hornsby,Nanterre,Cholet,3.547,6.94,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,283,2,2FGM,Neal Sako,Cholet,Nanterre,3.432,2.034,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,299,3,3FGA,Boris Dallo,Cholet,Nanterre,4.846,5.901,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,303,3,3FGM,Keith Hornsby,Nanterre,Cholet,3.028,7.346,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,305,3,2FGA,Perry Ellis,Cholet,Nanterre,-1.212,2.379,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,307,3,3FGA,Lucas Dussoulier,Nanterre,Cholet,5.221,5.265,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,309,3,3FGA,Dominic Artis,Cholet,Nanterre,4.356,6.016,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,311,3,2FGA,Miralem Halilovic,Nanterre,Cholet,0.606,1.687,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,314,3,2FGA,Justin Bibbins,Nanterre,Cholet,2.452,2.379,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,316,3,2FGA,Miralem Halilovic,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,318,3,2FGA,Dominic Artis,Cholet,Nanterre,4.702,0.589,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,322,3,3FGM,Dominic Artis,Cholet,Nanterre,-4.99,6.075,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,324,3,2FGM,Keith Hornsby,Nanterre,Cholet,1.903,1.485,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,325,3,3FGM,Perry Ellis,Cholet,Nanterre,4.154,6.422,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,327,3,3FGA,Lucas Dussoulier,Nanterre,Cholet,6.115,5.123,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,329,3,2FGA,Justin Bibbins,Nanterre,Cholet,3.028,2.813,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,331,3,2FGM,Perry Ellis,Cholet,Nanterre,-0.663,2.611,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,338,3,3FGA,Rion Brown,Nanterre,Cholet,-4.356,6.623,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,340,3,2FGM,Miralem Halilovic,Nanterre,Cholet,-1.153,1.197,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,348,3,2FGA,Justin Patton,Cholet,Nanterre,1.616,4.803,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,351,3,2FGA,Miralem Halilovic,Nanterre,Cholet,-0.547,2.465,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,364,3,2FGA,Justin Bibbins,Nanterre,Cholet,-1.5,1.628,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,366,3,2FGA,Boris Dallo,Cholet,Nanterre,0,4.084,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,368,3,2FGM,Miralem Halilovic,Nanterre,Cholet,1.328,1.917,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,373,3,3FGA,Bastien Pinault,Nanterre,Cholet,5.337,5.439,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,375,3,2FGM,Benjamin Sene,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,379,3,3FGA,Dominic Artis,Cholet,Nanterre,-0.75,7.69,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,385,3,3FGA,Keith Hornsby,Nanterre,Cholet,4.528,6.335,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,387,3,2FGA,Miralem Halilovic,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,389,3,3FGA,Boris Dallo,Cholet,Nanterre,4.962,5.613,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,391,3,2FGM,Benjamin Sene,Nanterre,Cholet,0.116,3.476,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,395,3,2FGM,Rion Brown,Nanterre,Cholet,0.172,1.917,dunk
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,397,3,3FGM,Hugo Robineau,Cholet,Nanterre,4.731,6.248,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,399,3,2FGM,Miralem Halilovic,Nanterre,Cholet,-0.057,2.841,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,411,3,2FGA,Lucas Dussoulier,Nanterre,Cholet,-3.519,1.83,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,416,4,3FGM,Rion Brown,Nanterre,Cholet,-4.587,5.727,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,418,4,3FGA,Hugo Robineau,Cholet,Nanterre,6.057,5.151,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,420,4,3FGM,Keith Hornsby,Nanterre,Cholet,-6.547,3.42,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,424,4,2FGM,Bogdan Bliznyuk,Cholet,Nanterre,1.472,1.802,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,425,4,3FGA,Rion Brown,Nanterre,Cholet,-2.943,6.422,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,427,4,3FGM,Dominic Artis,Cholet,Nanterre,0.606,7.951,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,428,4,2FGM,Benjamin Sene,Nanterre,Cholet,3.144,1.312,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,438,4,2FGA,Dominic Artis,Cholet,Nanterre,-1.818,1.889,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,442,4,2FGM,Bogdan Bliznyuk,Cholet,Nanterre,-1.269,1.225,dunk
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,444,4,3FGA,Justin Bibbins,Nanterre,Cholet,5.019,5.901,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,452,4,3FGA,Benjamin Sene,Nanterre,Cholet,-3.203,6.853,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,454,4,3FGA,Enzo Goudou-Sinha,Cholet,Nanterre,3.057,7.055,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,456,4,2FGM,Justin Bibbins,Nanterre,Cholet,-1.384,2.667,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,460,4,3FGA,Dominic Artis,Cholet,Nanterre,3.432,7.315,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,462,4,2FGA,Miralem Halilovic,Nanterre,Cholet,1.212,1.225,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,464,4,2FGM,Justin Bibbins,Nanterre,Cholet,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,469,4,3FGA,Dominic Artis,Cholet,Nanterre,5.913,4.546,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,472,4,2FGA,Benjamin Sene,Nanterre,Cholet,1.759,1.371,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,477,4,3FGA,Benjamin Sene,Nanterre,Cholet,4.731,6.075,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,480,4,2FGA,Bogdan Bliznyuk,Cholet,Nanterre,-1.932,1.225,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,490,4,3FGA,Boris Dallo,Cholet,Nanterre,-3.865,6.884,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,494,4,3FGA,Keith Hornsby,Nanterre,Cholet,4.76,5.901,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,496,4,3FGM,Dominic Artis,Cholet,Nanterre,2.134,7.2,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,497,4,2FGM,Keith Hornsby,Nanterre,Cholet,1.182,1.197,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,498,4,2FGA,Enzo Goudou-Sinha,Cholet,Nanterre,3.375,3.042,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,500,4,3FGA,Boris Dallo,Cholet,Nanterre,-3.288,6.537,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,502,4,3FGA,Justin Bibbins,Nanterre,Cholet,-2.538,7.315,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,504,4,3FGM,Perry Ellis,Cholet,Nanterre,2.769,7.113,
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,506,4,2FGM,Justin Bibbins,Nanterre,Cholet,1.269,2.351,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,512,4,2FGA,Bogdan Bliznyuk,Cholet,Nanterre,2.509,0.909,jump shot
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,514,4,2FGM,Perry Ellis,Cholet,Nanterre,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Cholet-Nanterre,27,516,4,3FGM,Keith Hornsby,Nanterre,Cholet,4.731,6.133,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,3,1,3FGA,David Holston,Dijon,Le Mans,-3.858,6.089,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,5,1,2FGM,Gavin Ware,Dijon,Le Mans,-0.08,0.783,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,10,1,3FGM,Markis McDuffie,Dijon,Le Mans,5.465,4.638,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,12,1,2FGM,Josh Carlton,Le Mans,Dijon,-0.713,0.396,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,14,1,2FGA,Markis McDuffie,Dijon,Le Mans,0.578,0.827,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,22,1,2FGM,David Brembly,Dijon,Le Mans,-0.486,0.239,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,24,1,2FGM,Cameron McGriff,Le Mans,Dijon,-0.441,0.351,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,26,1,2FGA,Markis McDuffie,Dijon,Le Mans,3.088,5.319,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,28,1,3FGM,Cameron McGriff,Le Mans,Dijon,5.034,5.044,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,30,1,3FGA,Gregor Hrovat,Dijon,Le Mans,-2.093,7.085,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,33,1,2FGM,Gregor Hrovat,Dijon,Le Mans,0.645,2.936,floating jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,39,1,2FGA,David Brembly,Dijon,Le Mans,0.418,0.444,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,41,1,2FGM,Terry Tarpey,Le Mans,Dijon,0.284,0.533,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,43,1,2FGM,Gavin Ware,Dijon,Le Mans,-0.057,0.601,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,45,1,2FGM,Josh Carlton,Le Mans,Dijon,0.034,0.057,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,47,1,2FGA,Gavin Ware,Dijon,Le Mans,1.935,4.887,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,49,1,3FGM,Matt Morgan,Le Mans,Dijon,-6.822,-0.441,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,53,1,3FGM,Matt Morgan,Le Mans,Dijon,-6.934,-0.486,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,66,1,3FGA,Robin Ducote,Dijon,Le Mans,-6.03,3.98,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,68,1,3FGM,Matt Morgan,Le Mans,Dijon,5.418,4.795,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,70,1,3FGM,Robin Ducote,Dijon,Le Mans,5.826,4.252,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,72,1,2FGM,Valentin Chery,Le Mans,Dijon,0.69,0.147,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,74,1,2FGM,Robin Ducote,Dijon,Le Mans,-0.578,0.147,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,75,1,3FGM,Cameron McGriff,Le Mans,Dijon,6.143,3.661,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,85,1,3FGM,Matthew Mobley,Dijon,Le Mans,4.401,5.795,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,94,1,2FGA,Abdoulaye Ndoye,Le Mans,Dijon,0.237,0.987,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,98,1,3FGA,Matthew Mobley,Dijon,Le Mans,-6.979,0.715,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,102,2,3FGA,Robin Ducote,Dijon,Le Mans,3.991,5.895,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,115,2,2FGM,Robin Ducote,Dijon,Le Mans,0,0.08,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,123,2,2FGM,Jonathan Rousselle,Dijon,Le Mans,-0.734,0.172,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,135,2,2FGM,Jonathan Rousselle,Dijon,Le Mans,-0.825,0.309,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,136,2,3FGA,Bul Kuol,Le Mans,Dijon,6.789,2.356,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,144,2,2FGM,Jacques Alingue,Dijon,Le Mans,-0.091,0.057,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,146,2,2FGM,Matt Morgan,Le Mans,Dijon,-0.573,0.402,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,154,2,2FGA,Terry Tarpey,Le Mans,Dijon,0.689,0.265,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,156,2,3FGM,Matthew Mobley,Dijon,Le Mans,5.779,4.218,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,165,2,2FGM,Abdoulaye Loum,Dijon,Le Mans,-0.047,0.08,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,172,2,3FGM,Matt Morgan,Le Mans,Dijon,2.637,6.861,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,174,2,2FGM,Matthew Mobley,Dijon,Le Mans,-0.551,0.287,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,178,2,3FGA,Kaza Kajami-Keane,Le Mans,Dijon,-4.656,5.529,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,180,2,2FGA,David Holston,Dijon,Le Mans,-1.766,4.563,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,183,2,2FGM,Kaza Kajami-Keane,Le Mans,Dijon,-0.459,0.517,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,188,2,2FGA,Gregor Hrovat,Dijon,Le Mans,0.047,2.908,floating jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,209,2,2FGM,Kaza Kajami-Keane,Le Mans,Dijon,0.274,0.539,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,211,2,2FGA,Gavin Ware,Dijon,Le Mans,-2.958,4.585,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,213,2,2FGM,Josh Carlton,Le Mans,Dijon,-0.573,0.402,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,215,2,2FGA,Jonathan Rousselle,Dijon,Le Mans,0.573,0.587,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,221,2,3FGA,Terry Tarpey,Le Mans,Dijon,-6.285,3.023,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,229,2,2FGM,Gavin Ware,Dijon,Le Mans,0.551,0.287,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,235,2,3FGA,Kaza Kajami-Keane,Le Mans,Dijon,-0.069,7.253,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,238,2,3FGM,Cameron McGriff,Le Mans,Dijon,5.458,4.885,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,240,2,3FGA,David Brembly,Dijon,Le Mans,6.858,-0.564,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,249,3,3FGA,Matt Morgan,Le Mans,Dijon,-1.95,6.839,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,251,3,3FGA,Cameron McGriff,Le Mans,Dijon,6.88,-0.657,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,253,3,2FGM,Markis McDuffie,Dijon,Le Mans,0,0.08,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,255,3,2FGM,Josh Carlton,Le Mans,Dijon,-0.069,0.013,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,257,3,3FGM,Robin Ducote,Dijon,Le Mans,6.216,3.622,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,259,3,2FGA,Josh Carlton,Le Mans,Dijon,-0.299,5.299,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,261,3,3FGA,Gregor Hrovat,Dijon,Le Mans,6.515,2.815,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,265,3,3FGA,Markis McDuffie,Dijon,Le Mans,6.972,1.69,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,267,3,3FGM,Kaza Kajami-Keane,Le Mans,Dijon,5.184,4.84,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,273,3,2FGM,Markis McDuffie,Dijon,Le Mans,0.39,0.517,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,275,3,3FGA,Terry Tarpey,Le Mans,Dijon,-6.949,-0.953,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,277,3,2FGM,Terry Tarpey,Le Mans,Dijon,-0.047,0.679,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,279,3,2FGM,David Holston,Dijon,Le Mans,0.62,0.242,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,280,3,2FGA,Kaza Kajami-Keane,Le Mans,Dijon,0.368,4.907,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,295,3,3FGA,Gregor Hrovat,Dijon,Le Mans,0.849,7.228,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,297,3,2FGM,Kaza Kajami-Keane,Le Mans,Dijon,-0.551,0.102,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,304,3,2FGM,Cameron McGriff,Le Mans,Dijon,-0.091,0.035,dunk
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,321,3,2FGM,Matthew Mobley,Dijon,Le Mans,-0.734,5.344,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,326,3,3FGM,Matthew Mobley,Dijon,Le Mans,-2.775,6.562,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,327,3,2FGM,Josh Carlton,Le Mans,Dijon,0,0.701,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,333,3,3FGM,Matthew Mobley,Dijon,Le Mans,4.542,5.573,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,339,3,2FGM,Jonathan Rousselle,Dijon,Le Mans,-2.041,0.953,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,346,3,3FGM,Jonathan Rousselle,Dijon,Le Mans,-0.114,7.391,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,347,3,3FGM,Williams Narace,Le Mans,Dijon,-2.271,6.884,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,349,3,3FGA,Matthew Mobley,Dijon,Le Mans,2.73,6.609,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,351,3,3FGM,Bul Kuol,Le Mans,Dijon,-6.307,3.23,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,355,3,3FGA,Robin Ducote,Dijon,Le Mans,5.069,5.366,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,361,3,3FGA,Matt Morgan,Le Mans,Dijon,5.276,17.459,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,371,4,2FGA,Marcus Gomis,Le Mans,Dijon,0.62,6.332,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,383,4,2FGM,Robin Ducote,Dijon,Le Mans,-0.551,0.127,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,386,4,2FGA,Abdoulaye Loum,Dijon,Le Mans,1.445,0.332,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,398,4,2FGM,Jacques Alingue,Dijon,Le Mans,0.597,0.609,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,400,4,2FGA,Williams Narace,Le Mans,Dijon,1.353,0.195,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,402,4,2FGM,Terry Tarpey,Le Mans,Dijon,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,403,4,2FGA,David Holston,Dijon,Le Mans,-1.261,4.862,jump shot
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,416,4,2FGM,Terry Tarpey,Le Mans,Dijon,-0.459,0.654,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,424,4,2FGA,Matthew Mobley,Dijon,Le Mans,-0.849,0.494,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,427,4,2FGA,Terry Tarpey,Le Mans,Dijon,0.504,0.679,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,431,4,3FGA,Matt Morgan,Le Mans,Dijon,3.602,6.332,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,441,4,3FGA,Abdoulaye Loum,Dijon,Le Mans,6.261,3.552,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,443,4,3FGM,Cameron McGriff,Le Mans,Dijon,-6.972,-0.402,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,448,4,3FGA,Jonathan Rousselle,Dijon,Le Mans,-0.207,7.228,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,450,4,2FGM,Matt Morgan,Le Mans,Dijon,-0.642,0.931,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,455,4,2FGM,Gregor Hrovat,Dijon,Le Mans,-0.62,0.379,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,464,4,2FGA,David Holston,Dijon,Le Mans,-0.551,0.195,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,470,4,3FGM,Terry Tarpey,Le Mans,Dijon,4.999,5.344,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,473,4,3FGA,Kaza Kajami-Keane,Le Mans,Dijon,-3.715,6.654,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,483,4,3FGA,David Holston,Dijon,Le Mans,0,7.113,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,492,4,2FGM,David Holston,Dijon,Le Mans,0.114,0.861,layup
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,501,4,3FGA,Kaza Kajami-Keane,Le Mans,Dijon,4.518,5.643,
+22-23,22-23 PROA,2023-04-01:Le Mans-Dijon,27,505,4,3FGA,Matt Morgan,Le Mans,Dijon,-3.991,6.035,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,3,1,3FGM,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,5.925,4.596,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,5,1,3FGA,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,-7.003,-0.22,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,7,1,2FGM,Tomas Kyzlink,Limoges,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,8,1,2FGM,Enzo Shahrvin,Pau-Lacq-Orthez,Limoges,0.539,-0.055,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,11,1,2FGA,Enzo Shahrvin,Pau-Lacq-Orthez,Limoges,-0.759,1.219,hook shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,15,1,2FGM,Wilfried Yeguete,Limoges,Pau-Lacq-Orthez,-1.146,1.802,hook shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,19,1,2FGA,Tomas Kyzlink,Limoges,Pau-Lacq-Orthez,-0.263,0.141,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,26,1,3FGM,Tomas Kyzlink,Limoges,Pau-Lacq-Orthez,-2.501,6.92,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,28,1,3FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,3.302,7.195,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,37,1,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-6.948,0.861,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,39,1,2FGA,Nicolas Lang,Limoges,Pau-Lacq-Orthez,-3.053,0.251,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,41,1,3FGA,Nicolas Lang,Limoges,Pau-Lacq-Orthez,6.864,-0.248,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,43,1,2FGM,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,44,1,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.289,0.113,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,45,1,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-3.439,6.699,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,52,1,3FGA,Tomas Kyzlink,Limoges,Pau-Lacq-Orthez,-5.76,4.761,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,56,1,2FGA,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,1.174,1.525,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,60,1,2FGM,Markeith Cummings,Pau-Lacq-Orthez,Limoges,-0.345,-0.136,dunk
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,73,1,2FGA,Kenneth Kadji,Limoges,Pau-Lacq-Orthez,-1.616,3.266,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,75,1,3FGA,Michael Stockton,Pau-Lacq-Orthez,Limoges,-6.837,-0.662,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,77,1,3FGA,Mathieu Wojciechowski,Limoges,Pau-Lacq-Orthez,-6.81,0.444,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,79,1,2FGM,Cj Williams,Pau-Lacq-Orthez,Limoges,-0.096,4.761,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,80,1,3FGM,Bryce Jones,Limoges,Pau-Lacq-Orthez,6.919,-0.248,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,82,1,2FGA,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.124,0.861,hook shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,92,1,3FGA,Nicolas Lang,Limoges,Pau-Lacq-Orthez,6.864,0.141,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,94,1,2FGM,Jayvon Graves,Limoges,Pau-Lacq-Orthez,-0.236,3.958,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,96,1,3FGA,Cj Williams,Pau-Lacq-Orthez,Limoges,6.864,-0.164,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,98,1,2FGM,Mathieu Wojciechowski,Limoges,Pau-Lacq-Orthez,0.787,0.335,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,104,1,3FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,6.368,3.045,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,110,1,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-3.688,7.472,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,117,2,2FGM,Mathieu Wojciechowski,Limoges,Pau-Lacq-Orthez,-3.495,2.216,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,119,2,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.069,0.169,dunk
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,121,2,2FGA,Kenneth Kadji,Limoges,Pau-Lacq-Orthez,-0.428,1.107,hook shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,123,2,3FGM,Landing Sane,Pau-Lacq-Orthez,Limoges,-6.781,2.325,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,124,2,3FGM,Marek Klassen,Limoges,Pau-Lacq-Orthez,2.114,7.223,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,127,2,3FGA,Jayvon Graves,Limoges,Pau-Lacq-Orthez,6.893,-0.301,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,131,2,2FGM,Garrett Sim,Pau-Lacq-Orthez,Limoges,0.428,-0.385,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,133,2,2FGA,Jayvon Graves,Limoges,Pau-Lacq-Orthez,-0.374,0.251,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,138,2,2FGA,Jayvon Graves,Limoges,Pau-Lacq-Orthez,-0.318,0.057,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,142,2,2FGA,Lucas Ugolin,Limoges,Pau-Lacq-Orthez,4.931,2.272,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,148,2,3FGA,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,3.853,6.366,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,150,2,3FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,5.317,4.843,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,152,2,2FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,3.026,1.911,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,164,2,3FGM,Lucas Ugolin,Limoges,Pau-Lacq-Orthez,6.394,3.487,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,166,2,3FGA,Landing Sane,Pau-Lacq-Orthez,Limoges,6.837,0.113,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,168,2,2FGM,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,-0.428,0.363,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,176,2,3FGM,Landing Sane,Pau-Lacq-Orthez,Limoges,6.34,3.185,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,178,2,3FGA,Lucas Ugolin,Limoges,Pau-Lacq-Orthez,6.644,2.272,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,180,2,2FGM,Cj Williams,Pau-Lacq-Orthez,Limoges,-0.705,-0.055,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,182,2,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-3.163,6.808,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,184,2,3FGA,Cj Williams,Pau-Lacq-Orthez,Limoges,4.323,6.752,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,194,2,2FGM,Wilfried Yeguete,Limoges,Pau-Lacq-Orthez,-0.069,0.279,dunk
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,203,2,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-7.057,1.219,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,205,2,2FGA,Wilfried Yeguete,Limoges,Pau-Lacq-Orthez,-0.18,2.437,hook shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,207,2,2FGM,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,210,2,2FGM,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,0.456,0.335,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,212,2,3FGM,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,-5.179,5.453,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,220,2,2FGA,Landing Sane,Pau-Lacq-Orthez,Limoges,1.92,3.655,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,222,2,3FGM,Marek Klassen,Limoges,Pau-Lacq-Orthez,-3.384,6.503,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,224,2,2FGM,Enzo Shahrvin,Pau-Lacq-Orthez,Limoges,-0.676,-0.108,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,233,2,2FGM,Bryce Jones,Limoges,Pau-Lacq-Orthez,0.401,0.335,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,234,2,2FGM,Gerald Ayayi,Pau-Lacq-Orthez,Limoges,1.616,1.303,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,254,3,3FGM,Markeith Cummings,Pau-Lacq-Orthez,Limoges,-3.357,6.615,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,256,3,2FGM,Wilfried Yeguete,Limoges,Pau-Lacq-Orthez,0.401,0.556,dunk
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,262,3,2FGM,Wilfried Yeguete,Limoges,Pau-Lacq-Orthez,-0.263,0.029,dunk
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,263,3,2FGM,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,0.401,0.223,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,267,3,3FGA,Nicolas Lang,Limoges,Pau-Lacq-Orthez,-5.538,4.871,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,274,3,3FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,6.119,3.821,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,276,3,3FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,-0.843,7.612,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,278,3,2FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-2.694,2.796,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,286,3,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Limoges,5.484,5.176,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,288,3,2FGM,Tomas Kyzlink,Limoges,Pau-Lacq-Orthez,-0.814,-0.329,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,289,3,2FGM,Cj Williams,Pau-Lacq-Orthez,Limoges,-2.804,5.011,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,292,3,2FGM,Jayvon Graves,Limoges,Pau-Lacq-Orthez,1.671,3.017,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,297,3,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Limoges,4.599,6.145,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,299,3,3FGM,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,-6.864,1.163,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,301,3,2FGA,Tomas Kyzlink,Limoges,Pau-Lacq-Orthez,0.483,0.141,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,309,3,3FGA,Jayvon Graves,Limoges,Pau-Lacq-Orthez,6.312,3.21,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,311,3,3FGM,Nicolas Lang,Limoges,Pau-Lacq-Orthez,-6.45,3.378,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,323,3,3FGM,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,6.837,1.385,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,325,3,3FGA,Kenneth Kadji,Limoges,Pau-Lacq-Orthez,-0.263,7.195,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,327,3,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Limoges,4.02,6.282,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,329,3,3FGA,Markeith Cummings,Pau-Lacq-Orthez,Limoges,6.644,2.631,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,331,3,3FGM,Marek Klassen,Limoges,Pau-Lacq-Orthez,0.207,7.416,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,332,3,3FGM,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,6.394,3.515,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,336,3,2FGM,Markeith Cummings,Pau-Lacq-Orthez,Limoges,-0.428,0.472,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,341,3,2FGA,Gerald Ayayi,Pau-Lacq-Orthez,Limoges,-0.374,0.335,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,343,3,3FGA,Cj Williams,Pau-Lacq-Orthez,Limoges,-3.881,6.173,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,345,3,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,353,3,3FGM,Markeith Cummings,Pau-Lacq-Orthez,Limoges,-0.236,7.363,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,366,3,2FGA,Jayvon Graves,Limoges,Pau-Lacq-Orthez,0.345,4.484,step-back
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,380,4,3FGA,Mathieu Wojciechowski,Limoges,Pau-Lacq-Orthez,6.975,0.029,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,382,4,2FGM,Jayvon Graves,Limoges,Pau-Lacq-Orthez,-0.345,-0.136,dunk
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,390,4,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-3.164,6.864,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,404,4,2FGA,Gerald Ayayi,Pau-Lacq-Orthez,Limoges,0.483,0.612,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,409,4,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.236,0.363,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,417,4,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.843,0.141,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,424,4,3FGA,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,-4.986,5.867,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,432,4,2FGM,Nicolas Lang,Limoges,Pau-Lacq-Orthez,1.064,3.045,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,434,4,2FGA,Markeith Cummings,Pau-Lacq-Orthez,Limoges,0.567,6.201,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,453,4,3FGM,Nicolas Lang,Limoges,Pau-Lacq-Orthez,2.859,7.363,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,456,4,3FGM,Markeith Cummings,Pau-Lacq-Orthez,Limoges,3.827,6.282,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,461,4,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.483,0.391,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,466,4,2FGM,Nicolas Lang,Limoges,Pau-Lacq-Orthez,0.732,-0.027,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,472,4,2FGM,Vitalis Chikoko,Pau-Lacq-Orthez,Limoges,0.428,0.029,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,479,4,3FGA,Nicolas Lang,Limoges,Pau-Lacq-Orthez,5.068,5.758,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,481,4,2FGA,Gerald Ayayi,Pau-Lacq-Orthez,Limoges,0.539,0.391,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,483,4,2FGM,Desi Rodriguez,Limoges,Pau-Lacq-Orthez,0.511,0.113,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,486,4,2FGA,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,0.953,2.16,jump shot
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,488,4,3FGA,Bryce Jones,Limoges,Pau-Lacq-Orthez,-4.185,6.699,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,490,4,3FGA,Gerald Ayayi,Pau-Lacq-Orthez,Limoges,-0.207,7.721,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,504,4,3FGA,Garrett Sim,Pau-Lacq-Orthez,Limoges,5.594,4.705,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,514,4,2FGM,Bryce Jones,Limoges,Pau-Lacq-Orthez,0.456,0.057,layup
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,515,4,3FGA,Giovan Oniangue,Pau-Lacq-Orthez,Limoges,-4.959,5.425,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,517,4,3FGA,Lucas Ugolin,Limoges,Pau-Lacq-Orthez,-6.781,-0.525,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,526,4,3FGA,Nicolas Lang,Limoges,Pau-Lacq-Orthez,-5.29,5.204,
+22-23,22-23 PROA,2023-04-01:Limoges-Pau-Lacq-Orthez,27,532,4,2FGM,Lucas Ugolin,Limoges,Pau-Lacq-Orthez,-0.676,0.195,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,3,1,2FGM,Amida Brimah,Bourg-en-Bresse,Nancy,-0.105,-0.029,alley oop
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,5,1,2FGA,Stephane Gombauld,Nancy,Bourg-en-Bresse,-2.03,3.98,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,7,1,2FGA,Isiaha Mike,Bourg-en-Bresse,Nancy,-2.086,-0.64,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,9,1,3FGA,Mike Scott,Nancy,Bourg-en-Bresse,-0.353,7.377,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,11,1,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,-0.182,-0.01,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,13,1,3FGA,Stephane Gombauld,Nancy,Bourg-en-Bresse,0.372,7.531,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,15,1,2FGM,Amida Brimah,Bourg-en-Bresse,Nancy,-0.714,0.295,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,18,1,2FGA,Caleb Walker,Nancy,Bourg-en-Bresse,0.714,0.545,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,20,1,2FGA,Donte Grantham,Nancy,Bourg-en-Bresse,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,22,1,2FGA,Caleb Walker,Nancy,Bourg-en-Bresse,-3.135,3.35,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,24,1,2FGA,James Palmer,Bourg-en-Bresse,Nancy,-3.098,2.776,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,27,1,2FGM,James Palmer,Bourg-en-Bresse,Nancy,0.543,1.287,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,31,1,2FGA,Caleb Walker,Nancy,Bourg-en-Bresse,-0.315,1.385,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,37,1,3FGM,Hugo Benitez,Bourg-en-Bresse,Nancy,0.429,7.301,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,39,1,2FGM,Donte Grantham,Nancy,Bourg-en-Bresse,-2.868,0.886,floating jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,40,1,3FGM,James Palmer,Bourg-en-Bresse,Nancy,-0.315,7.643,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,41,1,2FGM,Mike Scott,Nancy,Bourg-en-Bresse,-0.696,1.401,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,42,1,2FGA,Amida Brimah,Bourg-en-Bresse,Nancy,-1.572,2.225,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,53,1,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,-0.199,3.272,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,57,1,2FGA,Isiaha Mike,Bourg-en-Bresse,Nancy,-0.182,2.395,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,59,1,2FGA,Meridis Houmounou,Nancy,Bourg-en-Bresse,0.086,1.385,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,61,1,2FGM,Stephane Gombauld,Nancy,Bourg-en-Bresse,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,62,1,2FGM,Kevin Kokila,Bourg-en-Bresse,Nancy,-0.028,0.046,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,64,1,2FGM,Donte Grantham,Nancy,Bourg-en-Bresse,1.515,0.01,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,77,1,2FGM,Kevin Kokila,Bourg-en-Bresse,Nancy,-0.066,1.421,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,79,1,2FGM,Donte Grantham,Nancy,Bourg-en-Bresse,0.981,5.181,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,87,1,2FGM,Jordan Floyd,Bourg-en-Bresse,Nancy,0.372,4.781,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,95,1,3FGM,Pierre Pelos,Bourg-en-Bresse,Nancy,1.992,7.052,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,97,1,2FGA,Donte Grantham,Nancy,Bourg-en-Bresse,1.172,1.116,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,99,1,2FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,1.077,4.761,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,106,1,3FGA,Mike Scott,Nancy,Bourg-en-Bresse,1.401,7.262,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,111,1,2FGA,Frank Mason,Nancy,Bourg-en-Bresse,1.097,1.116,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,118,2,2FGA,Mike Scott,Nancy,Bourg-en-Bresse,0.449,2.205,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,120,2,2FGM,Mike Scott,Nancy,Bourg-en-Bresse,1.057,2.891,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,122,2,2FGM,Jordan Floyd,Bourg-en-Bresse,Nancy,-4.298,-0.144,step-back
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,123,2,2FGA,Mike Scott,Nancy,Bourg-en-Bresse,-3.745,1.67,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,125,2,2FGM,Pierre Pelos,Bourg-en-Bresse,Nancy,3.231,1.25,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,126,2,2FGM,Frank Mason,Nancy,Bourg-en-Bresse,1.896,3.465,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,127,2,2FGM,Jordan Floyd,Bourg-en-Bresse,Nancy,-3.783,4.151,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,128,2,2FGM,Frank Mason,Nancy,Bourg-en-Bresse,-0.847,1.231,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,129,2,2FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,2.601,4.417,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,137,2,3FGA,Donte Grantham,Nancy,Bourg-en-Bresse,6.928,2.471,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,139,2,2FGM,Clement Frisch,Nancy,Bourg-en-Bresse,-3.308,1.575,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,141,2,3FGA,Frantz Massenat,Bourg-en-Bresse,Nancy,-5.594,5.467,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,145,2,2FGM,Maxime Courby,Bourg-en-Bresse,Nancy,1.992,3.081,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,146,2,3FGA,Frank Mason,Nancy,Bourg-en-Bresse,2.964,7.052,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,158,2,3FGA,Antony Labanca,Nancy,Bourg-en-Bresse,-0.105,7.757,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,162,2,2FGM,Kevin Kokila,Bourg-en-Bresse,Nancy,-0.753,0.561,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,164,2,2FGM,Stephane Gombauld,Nancy,Bourg-en-Bresse,0.086,0.125,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,166,2,3FGA,Frantz Massenat,Bourg-en-Bresse,Nancy,-6.928,-0.049,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,168,2,2FGA,Frank Mason,Nancy,Bourg-en-Bresse,0.906,1.27,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,170,2,2FGA,Stephane Gombauld,Nancy,Bourg-en-Bresse,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,172,2,2FGM,James Palmer,Bourg-en-Bresse,Nancy,-1.572,0.545,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,174,2,2FGA,Donte Grantham,Nancy,Bourg-en-Bresse,0.409,2.11,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,176,2,2FGA,Isiaha Mike,Bourg-en-Bresse,Nancy,-1.287,0.181,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,178,2,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,179,2,3FGA,Clement Frisch,Nancy,Bourg-en-Bresse,-6.547,2.891,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,189,2,2FGM,James Palmer,Bourg-en-Bresse,Nancy,-0.066,0.085,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,190,2,2FGA,Stephane Gombauld,Nancy,Bourg-en-Bresse,0.943,0.85,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,195,2,2FGM,Khalid Boukichou,Nancy,Bourg-en-Bresse,1.057,0.811,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,199,2,2FGM,Hugo Benitez,Bourg-en-Bresse,Nancy,-0.676,0.735,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,200,2,2FGA,Antony Labanca,Nancy,Bourg-en-Bresse,-0.258,2.09,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,202,2,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,-0.124,0.105,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,207,2,3FGM,Caleb Walker,Nancy,Bourg-en-Bresse,-2.544,7.032,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,208,2,2FGA,Amida Brimah,Bourg-en-Bresse,Nancy,0.772,1.079,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,216,2,2FGM,Khalid Boukichou,Nancy,Bourg-en-Bresse,0.028,0.046,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,222,2,2FGM,Caleb Walker,Nancy,Bourg-en-Bresse,-0.219,1.079,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,231,2,2FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,-3.231,3.577,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,235,2,3FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,-2.297,7.032,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,244,3,3FGM,James Palmer,Bourg-en-Bresse,Nancy,-3.002,6.822,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,248,3,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,4.203,4.285,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,252,3,2FGM,Mike Scott,Nancy,Bourg-en-Bresse,-0.714,0.561,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,254,3,2FGM,Amida Brimah,Bourg-en-Bresse,Nancy,0.105,0.181,alley oop
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,256,3,3FGA,Khalid Boukichou,Nancy,Bourg-en-Bresse,-4.755,5.582,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,265,3,3FGA,Meridis Houmounou,Nancy,Bourg-en-Bresse,-2.202,7.127,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,269,3,2FGA,Caleb Walker,Nancy,Bourg-en-Bresse,-1.495,0.715,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,273,3,2FGM,Mike Scott,Nancy,Bourg-en-Bresse,-0.924,1.191,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,277,3,3FGM,Axel Julien,Bourg-en-Bresse,Nancy,3.783,6.461,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,278,3,2FGM,Khalid Boukichou,Nancy,Bourg-en-Bresse,0.258,2.491,hook shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,287,3,3FGA,Donte Grantham,Nancy,Bourg-en-Bresse,-3.649,6.707,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,289,3,3FGM,Caleb Walker,Nancy,Bourg-en-Bresse,0.562,7.547,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,293,3,2FGM,Axel Julien,Bourg-en-Bresse,Nancy,0.943,1.995,floating jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,294,3,2FGM,Meridis Houmounou,Nancy,Bourg-en-Bresse,-1.401,0.371,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,300,3,2FGA,James Palmer,Bourg-en-Bresse,Nancy,0.182,1.155,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,302,3,2FGM,Amida Brimah,Bourg-en-Bresse,Nancy,-0.162,3.062,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,311,3,2FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,1.439,0.869,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,313,3,3FGM,Axel Julien,Bourg-en-Bresse,Nancy,-3.631,6.497,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,329,3,3FGA,Pierre Pelos,Bourg-en-Bresse,Nancy,0.906,7.281,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,332,3,2FGA,Stephane Gombauld,Nancy,Bourg-en-Bresse,0.734,1.365,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,334,3,3FGA,Axel Julien,Bourg-en-Bresse,Nancy,-3.555,8.788,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,336,3,2FGM,Mike Scott,Nancy,Bourg-en-Bresse,3.879,1.326,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,341,3,2FGA,Hugo Benitez,Bourg-en-Bresse,Nancy,-4.221,0.755,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,343,3,2FGA,Caleb Walker,Nancy,Bourg-en-Bresse,-1.039,0.886,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,345,3,2FGM,Jordan Floyd,Bourg-en-Bresse,Nancy,0.696,0.886,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,356,3,2FGM,Jordan Floyd,Bourg-en-Bresse,Nancy,0.182,2.337,floating jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,357,3,2FGM,Frank Mason,Nancy,Bourg-en-Bresse,-0.143,3.482,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,363,3,2FGA,Caleb Walker,Nancy,Bourg-en-Bresse,-1.439,0.83,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,365,3,2FGM,Caleb Walker,Nancy,Bourg-en-Bresse,-0.372,1.287,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,366,3,2FGM,Jordan Floyd,Bourg-en-Bresse,Nancy,-3.421,4.151,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,370,3,2FGA,Isiaha Mike,Bourg-en-Bresse,Nancy,3.402,4.627,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,377,4,2FGM,Stephane Gombauld,Nancy,Bourg-en-Bresse,-0.924,0.83,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,380,4,2FGA,Ike Nwamu,Nancy,Bourg-en-Bresse,-1.611,2.911,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,382,4,2FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,-0.505,1.746,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,384,4,2FGM,Caleb Walker,Nancy,Bourg-en-Bresse,-1.114,0.295,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,386,4,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,0.943,0.545,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,391,4,2FGM,Caleb Walker,Nancy,Bourg-en-Bresse,0.372,0.771,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,392,4,2FGA,Jordan Floyd,Bourg-en-Bresse,Nancy,-0.449,2.415,floating jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,394,4,2FGA,Frank Mason,Nancy,Bourg-en-Bresse,0.466,0.945,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,396,4,2FGM,Stephane Gombauld,Nancy,Bourg-en-Bresse,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,400,4,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,0.258,0.545,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,407,4,2FGA,Ike Nwamu,Nancy,Bourg-en-Bresse,-1.134,1.785,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,410,4,3FGA,James Palmer,Bourg-en-Bresse,Nancy,-2.506,6.996,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,412,4,2FGM,Caleb Walker,Nancy,Bourg-en-Bresse,-1.039,0.276,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,414,4,3FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,5.098,5.431,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,422,4,2FGA,Mike Scott,Nancy,Bourg-en-Bresse,-0.315,3.387,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,424,4,2FGM,Mike Scott,Nancy,Bourg-en-Bresse,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,426,4,2FGA,Kevin Kokila,Bourg-en-Bresse,Nancy,1.001,1.421,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,428,4,2FGM,Caleb Walker,Nancy,Bourg-en-Bresse,-0.791,0.2,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,433,4,2FGM,Stephane Gombauld,Nancy,Bourg-en-Bresse,-0.143,0.181,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,438,4,3FGA,Isiaha Mike,Bourg-en-Bresse,Nancy,3.307,6.691,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,440,4,2FGA,Frantz Massenat,Bourg-en-Bresse,Nancy,0.886,2.605,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,442,4,2FGM,Kevin Kokila,Bourg-en-Bresse,Nancy,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,443,4,2FGA,Frank Mason,Nancy,Bourg-en-Bresse,3.516,4.227,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,445,4,2FGA,Isiaha Mike,Bourg-en-Bresse,Nancy,-0.696,0.925,jump shot
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,447,4,3FGA,Ike Nwamu,Nancy,Bourg-en-Bresse,-3.441,6.461,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,449,4,2FGM,Kevin Kokila,Bourg-en-Bresse,Nancy,0.066,0.181,dunk
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,454,4,3FGA,Caleb Walker,Nancy,Bourg-en-Bresse,2.106,7.587,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,456,4,2FGM,James Palmer,Bourg-en-Bresse,Nancy,0.772,0.771,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,458,4,3FGA,Frantz Massenat,Bourg-en-Bresse,Nancy,5.175,5.391,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,460,4,2FGM,Stephane Gombauld,Nancy,Bourg-en-Bresse,-0.906,0.276,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,476,4,2FGM,Clement Frisch,Nancy,Bourg-en-Bresse,0.772,1.421,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,477,4,2FGM,James Palmer,Bourg-en-Bresse,Nancy,-0.105,0.886,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,482,4,3FGA,Antony Labanca,Nancy,Bourg-en-Bresse,-7.062,-0.469,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,484,4,3FGA,Frank Mason,Nancy,Bourg-en-Bresse,3.078,6.671,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,487,4,2FGM,Frank Mason,Nancy,Bourg-en-Bresse,0.714,2.09,layup
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,488,4,3FGA,Frantz Massenat,Bourg-en-Bresse,Nancy,4.641,6.117,
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,490,4,2FGM,Isiaha Mike,Bourg-en-Bresse,Nancy,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Nancy-Bourg-en-Bresse,27,491,4,2FGM,Clement Frisch,Nancy,Bourg-en-Bresse,0.315,1.69,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,3,1,3FGA,Robert Johnson,Blois,Strasbourg,-4.624,5.831,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,5,1,2FGM,Tyren Johnson,Blois,Strasbourg,3.885,0.819,step-back
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,6,1,2FGA,Bodian Massa,Strasbourg,Blois,-1.751,0.505,hook shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,8,1,2FGM,Robert Johnson,Blois,Strasbourg,0.014,1.785,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,14,1,2FGM,Leopold Cavaliere,Strasbourg,Blois,-0.47,0.903,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,16,1,2FGM,Tyren Johnson,Blois,Strasbourg,-3.373,3.095,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,23,1,2FGM,Tyus Battle,Blois,Strasbourg,-0.726,0.419,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,26,1,2FGM,Tyren Johnson,Blois,Strasbourg,-0.84,0.335,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,29,1,2FGM,Amadou Sow,Blois,Strasbourg,1.295,0.676,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,36,1,3FGA,Deandre Lansdowne,Strasbourg,Blois,-5.337,6.03,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,40,1,2FGM,Robert Johnson,Blois,Strasbourg,3.203,-0.55,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,46,1,2FGM,Amadou Sow,Blois,Strasbourg,-0.584,0.903,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,48,1,2FGM,Leopold Cavaliere,Strasbourg,Blois,-1.864,0.589,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,49,1,2FGA,Robert Johnson,Blois,Strasbourg,-0.27,2.213,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,53,1,3FGA,Marcus Keene,Strasbourg,Blois,3.202,7.169,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,55,1,2FGM,Tyus Battle,Blois,Strasbourg,-0.184,1.729,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,64,1,2FGA,Bruno Cingala-Mata,Blois,Strasbourg,-3.089,-0.181,hook shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,66,1,2FGM,Leopold Cavaliere,Strasbourg,Blois,-0.184,-0.007,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,68,1,2FGM,Mbaye Ndiaye,Blois,Strasbourg,0.811,-0.094,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,69,1,3FGA,Marcus Keene,Strasbourg,Blois,3.543,7.312,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,73,1,3FGA,Marcus Keene,Strasbourg,Blois,1.351,7.455,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,76,1,2FGM,Tyus Battle,Blois,Strasbourg,-1.266,0.732,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,83,1,3FGA,Paul Lacombe,Strasbourg,Blois,6.817,0.676,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,85,1,2FGA,Tyus Battle,Blois,Strasbourg,-1.153,0.248,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,87,1,3FGM,Rodions Kurucs,Strasbourg,Blois,-5.479,6.259,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,89,1,3FGA,Mbaye Ndiaye,Blois,Strasbourg,5.849,4.691,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,98,1,3FGM,Timothe Vergiat,Blois,Strasbourg,-2.064,6.629,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,102,1,3FGA,Timothe Vergiat,Blois,Strasbourg,-4.484,6.371,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,104,1,2FGM,Mbaye Ndiaye,Blois,Strasbourg,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,105,1,2FGA,Paul Lacombe,Strasbourg,Blois,6.019,2.412,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,107,1,2FGM,Robert Johnson,Blois,Strasbourg,0.755,-0.181,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,110,2,2FGM,Paul Lacombe,Strasbourg,Blois,-1.864,2.384,step-back
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,124,2,3FGA,Robert Johnson,Blois,Strasbourg,-2.946,7.427,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,126,2,2FGM,Brice Dessert,Blois,Strasbourg,0.897,0.22,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,128,2,3FGM,Marcus Keene,Strasbourg,Blois,-3.6,7.396,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,130,2,2FGA,Robert Johnson,Blois,Strasbourg,-0.982,-0.435,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,132,2,3FGM,Rodions Kurucs,Strasbourg,Blois,-6.048,4.577,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,145,2,2FGM,Marcus Keene,Strasbourg,Blois,-1.238,1.816,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,147,2,2FGM,Brice Dessert,Blois,Strasbourg,-0.213,-0.094,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,166,2,3FGA,Paul Rigot,Blois,Strasbourg,5.877,5.005,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,168,2,2FGA,Bodian Massa,Strasbourg,Blois,-1.409,0.447,hook shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,174,2,2FGA,Tyus Battle,Blois,Strasbourg,0.897,0.847,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,178,2,2FGM,Amadou Sow,Blois,Strasbourg,-0.128,0.248,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,186,2,3FGM,Lucas Beaufort,Strasbourg,Blois,-6.532,3.437,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,197,2,2FGA,Amadou Sow,Blois,Strasbourg,0.726,1.956,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,204,2,3FGM,Timothe Vergiat,Blois,Strasbourg,0.526,7.654,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,206,2,3FGA,Lucas Beaufort,Strasbourg,Blois,-5.764,5.632,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,220,2,2FGA,Robert Johnson,Blois,Strasbourg,-0.042,3.921,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,222,2,2FGM,Brice Dessert,Blois,Strasbourg,-0.156,0.391,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,224,2,2FGA,Rodions Kurucs,Strasbourg,Blois,-1.608,1.331,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,226,2,2FGM,Brice Dessert,Blois,Strasbourg,0.014,0.248,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,232,2,3FGM,Marcus Keene,Strasbourg,Blois,-0.498,7.682,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,233,2,2FGA,Mbaye Ndiaye,Blois,Strasbourg,0.042,-0.094,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,236,2,2FGA,Brice Dessert,Blois,Strasbourg,1.18,0.732,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,238,2,2FGM,Marcus Keene,Strasbourg,Blois,-0.412,1.844,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,245,2,2FGM,Mbaye Ndiaye,Blois,Strasbourg,0.07,-0.122,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,247,2,3FGA,Tim Frazier,Strasbourg,Blois,5.138,5.319,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,259,2,2FGM,Marcus Keene,Strasbourg,Blois,-0.669,0.875,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,272,3,2FGA,Amadou Sow,Blois,Strasbourg,-0.669,1.53,hook shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,274,3,2FGM,Amadou Sow,Blois,Strasbourg,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,275,3,2FGA,Ike Udanoh,Strasbourg,Blois,1.551,-0.209,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,277,3,3FGA,Tyren Johnson,Blois,Strasbourg,-5.736,4.663,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,279,3,3FGA,Rodions Kurucs,Strasbourg,Blois,-7.015,2.269,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,281,3,2FGM,Amadou Sow,Blois,Strasbourg,-2.746,0.391,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,285,3,3FGA,Paul Lacombe,Strasbourg,Blois,0.897,7.539,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,287,3,2FGM,Rodions Kurucs,Strasbourg,Blois,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,288,3,2FGA,Amadou Sow,Blois,Strasbourg,-0.355,4.092,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,290,3,2FGM,Leopold Cavaliere,Strasbourg,Blois,-0.926,0.645,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,302,3,3FGA,Rodions Kurucs,Strasbourg,Blois,6.048,4.577,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,304,3,2FGM,Leopold Cavaliere,Strasbourg,Blois,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,309,3,2FGM,Thomas Cornely,Blois,Strasbourg,0.926,0.533,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,311,3,2FGM,Rodions Kurucs,Strasbourg,Blois,-0.612,0.133,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,313,3,2FGM,Tyus Battle,Blois,Strasbourg,2.235,0.077,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,315,3,2FGA,Leopold Cavaliere,Strasbourg,Blois,-0.641,0.248,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,317,3,2FGM,Amadou Sow,Blois,Strasbourg,-0.014,-0.007,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,322,3,2FGM,Leopold Cavaliere,Strasbourg,Blois,-1.039,0.589,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,328,3,2FGA,Leopold Cavaliere,Strasbourg,Blois,1.18,0.248,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,331,3,2FGM,Amadou Sow,Blois,Strasbourg,-0.156,0.105,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,333,3,3FGA,Marcus Keene,Strasbourg,Blois,-3.089,6.856,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,335,3,2FGM,Amadou Sow,Blois,Strasbourg,-0.47,0.475,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,343,3,2FGM,Paul Lacombe,Strasbourg,Blois,3.345,-0.491,step-back
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,359,3,3FGA,Deandre Lansdowne,Strasbourg,Blois,-5.792,4.35,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,361,3,3FGM,Amadou Sow,Blois,Strasbourg,-5.166,5.232,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,363,3,2FGM,Tim Frazier,Strasbourg,Blois,0.27,1.673,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,374,3,2FGM,Thomas Cornely,Blois,Strasbourg,-0.84,0.22,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,381,3,3FGA,Rodions Kurucs,Strasbourg,Blois,6.532,4.378,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,383,3,3FGA,Tyren Johnson,Blois,Strasbourg,-5.736,5.347,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,387,3,3FGA,Martin Peterka,Strasbourg,Blois,-5.479,4.263,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,393,3,3FGA,Tyren Johnson,Blois,Strasbourg,2.718,12.411,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,398,4,2FGM,Bodian Massa,Strasbourg,Blois,0.184,0.164,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,400,4,3FGA,Timothe Vergiat,Blois,Strasbourg,7.073,0.732,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,402,4,2FGA,Bodian Massa,Strasbourg,Blois,0.498,1.816,hook shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,406,4,2FGM,Bodian Massa,Strasbourg,Blois,0.014,-0.038,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,417,4,2FGA,Rodions Kurucs,Strasbourg,Blois,-0.526,0.475,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,423,4,2FGA,Mbaye Ndiaye,Blois,Strasbourg,0.641,0.676,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,427,4,3FGA,Robert Johnson,Blois,Strasbourg,-5.052,8.536,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,429,4,3FGM,Thomas Cornely,Blois,Strasbourg,1.494,7.427,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,431,4,2FGA,Lucas Beaufort,Strasbourg,Blois,-3.914,0.105,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,443,4,3FGM,Marcus Keene,Strasbourg,Blois,6.304,4.235,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,449,4,3FGA,Lucas Beaufort,Strasbourg,Blois,6.418,3.809,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,451,4,3FGA,Thomas Cornely,Blois,Strasbourg,-0.128,7.682,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,453,4,2FGM,Leopold Cavaliere,Strasbourg,Blois,-0.954,0.248,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,465,4,3FGA,Marcus Keene,Strasbourg,Blois,4.227,6.915,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,467,4,2FGA,Robert Johnson,Blois,Strasbourg,-0.697,3.067,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,485,4,2FGM,Lucas Beaufort,Strasbourg,Blois,-0.755,0.447,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,488,4,3FGA,Amadou Sow,Blois,Strasbourg,4.71,6.058,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,490,4,2FGM,Rodions Kurucs,Strasbourg,Blois,1.522,-0.094,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,498,4,2FGM,Rodions Kurucs,Strasbourg,Blois,-0.84,0.363,layup
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,500,4,2FGM,Robert Johnson,Blois,Strasbourg,-2.319,5.232,step-back
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,503,4,2FGA,Paul Lacombe,Strasbourg,Blois,-3.856,0.192,jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,513,4,3FGM,Marcus Keene,Strasbourg,Blois,2.007,7.769,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,521,4,2FGM,Bodian Massa,Strasbourg,Blois,0.128,0.021,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,523,4,2FGM,Robert Johnson,Blois,Strasbourg,-0.498,2.813,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,524,4,3FGA,Paul Lacombe,Strasbourg,Blois,-4.624,6.287,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,526,4,2FGA,Tim Frazier,Strasbourg,Blois,0,-0.175,putback
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,535,4,3FGA,Marcus Keene,Strasbourg,Blois,3.43,7.312,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,540,4,2FGM,Bodian Massa,Strasbourg,Blois,-0.128,2.499,floating jump shot
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,554,4,3FGA,Tim Frazier,Strasbourg,Blois,-0.042,7.284,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,556,4,2FGM,Tyus Battle,Blois,Strasbourg,0.156,0.049,dunk
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,562,4,3FGM,Tim Frazier,Strasbourg,Blois,5.052,5.176,
+22-23,22-23 PROA,2023-04-01:Strasbourg-Blois,27,564,4,3FGM,Robert Johnson,Blois,Strasbourg,1.551,8.281,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,3,1,2FGA,Alex Tyus,Lyon-Villeurbanne,Roanne,-1.242,2.325,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,5,1,3FGM,Stefan Moody,Roanne,Lyon-Villeurbanne,-4.118,6.108,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,7,1,2FGA,Charles Kahudi,Lyon-Villeurbanne,Roanne,0.884,2.297,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,9,1,2FGA,Yannis Morin,Roanne,Lyon-Villeurbanne,-4.776,2.236,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,18,1,2FGA,Nando De Colo,Lyon-Villeurbanne,Roanne,0.553,2.356,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,34,1,2FGA,Nando De Colo,Lyon-Villeurbanne,Roanne,0.943,1.127,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,36,1,2FGM,Alex Tyus,Lyon-Villeurbanne,Roanne,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,37,1,2FGA,Yannis Morin,Roanne,Lyon-Villeurbanne,0.195,1.757,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,39,1,3FGM,Dee Bost,Lyon-Villeurbanne,Roanne,-0.165,7.637,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,41,1,2FGM,Yannis Morin,Roanne,Lyon-Villeurbanne,-0.045,-0.015,dunk
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,43,1,2FGM,Charles Kahudi,Lyon-Villeurbanne,Roanne,0.165,0.855,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,50,1,2FGM,Nando De Colo,Lyon-Villeurbanne,Roanne,0.375,1.695,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,54,1,2FGM,David Lighty,Lyon-Villeurbanne,Roanne,-0.285,0.945,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,56,1,3FGA,Stefan Moody,Roanne,Lyon-Villeurbanne,5.135,5.389,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,58,1,2FGM,Charles Kahudi,Lyon-Villeurbanne,Roanne,0.553,1.816,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,64,1,2FGM,Ronald March,Roanne,Lyon-Villeurbanne,0.045,0.615,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,65,1,3FGA,Nando De Colo,Lyon-Villeurbanne,Roanne,0.315,7.788,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,75,1,3FGM,Dee Bost,Lyon-Villeurbanne,Roanne,-3.667,6.677,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,77,1,3FGM,Stefan Moody,Roanne,Lyon-Villeurbanne,1.96,6.948,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,80,1,2FGA,Ronald March,Roanne,Lyon-Villeurbanne,-0.135,2.628,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,82,1,2FGA,Jonah Mathews,Lyon-Villeurbanne,Roanne,-0.943,2.057,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,99,1,2FGM,Maxime Roos,Roanne,Lyon-Villeurbanne,-0.464,0.466,dunk
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,101,1,2FGM,Jonah Mathews,Lyon-Villeurbanne,Roanne,0.345,5.417,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,102,1,3FGM,Ronald March,Roanne,Lyon-Villeurbanne,5.435,4.969,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,103,1,2FGM,Youssoupha Fall,Lyon-Villeurbanne,Roanne,0.045,1.096,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,115,1,2FGM,Retin Obasohan,Lyon-Villeurbanne,Roanne,-0.524,0.766,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,116,1,2FGA,Renathan Ona Embo,Roanne,Lyon-Villeurbanne,0.045,5.148,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,124,1,2FGM,Kadri Moendadze,Roanne,Lyon-Villeurbanne,0.375,0.855,floating jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,133,1,3FGA,Renathan Ona Embo,Roanne,Lyon-Villeurbanne,0.315,7.967,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,149,2,3FGM,Arthur Bruyas,Roanne,Lyon-Villeurbanne,2.769,6.559,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,151,2,2FGA,Retin Obasohan,Lyon-Villeurbanne,Roanne,-3.667,3.767,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,153,2,3FGA,Nando De Colo,Lyon-Villeurbanne,Roanne,-0.524,7.337,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,155,2,2FGA,Yannis Morin,Roanne,Lyon-Villeurbanne,-4.386,0.766,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,164,2,2FGM,Retin Obasohan,Lyon-Villeurbanne,Roanne,-0.884,1.427,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,165,2,2FGM,Yannis Morin,Roanne,Lyon-Villeurbanne,-0.315,2.146,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,173,2,3FGM,Antoine Diot,Lyon-Villeurbanne,Roanne,-6.991,1.816,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,185,2,2FGA,Ronald March,Roanne,Lyon-Villeurbanne,-0.195,2.146,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,187,2,2FGA,Stefan Moody,Roanne,Lyon-Villeurbanne,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,189,2,3FGA,Retin Obasohan,Lyon-Villeurbanne,Roanne,2.14,7.458,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,191,2,3FGA,Stefan Moody,Roanne,Lyon-Villeurbanne,0.285,8.959,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,199,2,3FGM,Ronald March,Roanne,Lyon-Villeurbanne,-3.968,6.587,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,206,2,3FGM,Stefan Moody,Roanne,Lyon-Villeurbanne,-4.386,8.029,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,207,2,2FGA,David Lighty,Lyon-Villeurbanne,Roanne,-4.806,3.375,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,209,2,3FGA,Ronald March,Roanne,Lyon-Villeurbanne,-6.213,4.246,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,211,2,2FGM,Alex Tyus,Lyon-Villeurbanne,Roanne,-0.165,1.217,hook shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,219,2,2FGM,Nando De Colo,Lyon-Villeurbanne,Roanne,-3.487,3.557,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,220,2,3FGA,Stefan Moody,Roanne,Lyon-Villeurbanne,-4.176,6.979,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,224,2,2FGM,Yannis Morin,Roanne,Lyon-Villeurbanne,0.075,1.726,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,235,2,2FGM,Nando De Colo,Lyon-Villeurbanne,Roanne,1.272,1.337,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,237,2,2FGM,Yves Pons,Lyon-Villeurbanne,Roanne,0.195,-0.074,dunk
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,239,2,2FGA,Kadri Moendadze,Roanne,Lyon-Villeurbanne,3.249,3.706,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,241,2,3FGM,Yves Pons,Lyon-Villeurbanne,Roanne,-4.716,5.537,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,243,2,3FGM,Jakeenan Gant,Roanne,Lyon-Villeurbanne,0.135,7.489,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,245,2,2FGM,David Lighty,Lyon-Villeurbanne,Roanne,0.165,2.236,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,253,2,3FGA,Ronald March,Roanne,Lyon-Villeurbanne,4.536,6.587,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,255,2,3FGM,Yves Pons,Lyon-Villeurbanne,Roanne,-6.991,0.735,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,257,2,2FGA,Renathan Ona Embo,Roanne,Lyon-Villeurbanne,3.369,3.826,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,273,3,2FGM,Dee Bost,Lyon-Villeurbanne,Roanne,0.165,2.057,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,275,3,2FGA,Silvio De Sousa,Roanne,Lyon-Villeurbanne,0.255,0.287,dunk
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,277,3,2FGM,Nando De Colo,Lyon-Villeurbanne,Roanne,-3.787,3.227,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,278,3,3FGA,Maxime Roos,Roanne,Lyon-Villeurbanne,6.841,2.535,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,280,3,3FGA,Dee Bost,Lyon-Villeurbanne,Roanne,6.033,4.367,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,282,3,3FGA,Kyle Foster,Roanne,Lyon-Villeurbanne,-5.195,6.559,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,286,3,2FGM,Nando De Colo,Lyon-Villeurbanne,Roanne,3.487,1.247,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,293,3,3FGM,Nando De Colo,Lyon-Villeurbanne,Roanne,-3.577,6.349,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,295,3,3FGA,Stefan Moody,Roanne,Lyon-Villeurbanne,3.309,7.337,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,297,3,2FGM,Silvio De Sousa,Roanne,Lyon-Villeurbanne,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,298,3,3FGM,David Lighty,Lyon-Villeurbanne,Roanne,3.009,6.948,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,302,3,3FGM,Dee Bost,Lyon-Villeurbanne,Roanne,-6.391,3.647,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,309,3,2FGM,Stefan Moody,Roanne,Lyon-Villeurbanne,-1.242,2.057,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,312,3,2FGA,Silvio De Sousa,Roanne,Lyon-Villeurbanne,-0.135,1.365,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,314,3,2FGM,Maxime Roos,Roanne,Lyon-Villeurbanne,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,315,3,3FGM,Charles Kahudi,Lyon-Villeurbanne,Roanne,-6.391,3.737,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,323,3,3FGA,Jonah Mathews,Lyon-Villeurbanne,Roanne,3.637,6.318,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,332,3,2FGA,Yves Pons,Lyon-Villeurbanne,Roanne,4.866,0.497,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,334,3,3FGA,Stefan Moody,Roanne,Lyon-Villeurbanne,-0.345,8.597,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,336,3,2FGM,Jakeenan Gant,Roanne,Lyon-Villeurbanne,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,342,3,2FGM,Jonah Mathews,Lyon-Villeurbanne,Roanne,0.614,0.825,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,345,3,3FGA,Ronald March,Roanne,Lyon-Villeurbanne,3.668,7.309,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,347,3,3FGM,Dee Bost,Lyon-Villeurbanne,Roanne,-5.823,5.568,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,348,3,3FGA,Kadri Moendadze,Roanne,Lyon-Villeurbanne,-3.039,6.859,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,359,3,2FGM,Maxime Roos,Roanne,Lyon-Villeurbanne,-4.476,1.065,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,367,3,2FGM,Arthur Bruyas,Roanne,Lyon-Villeurbanne,0.195,1.877,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,372,3,2FGA,Retin Obasohan,Lyon-Villeurbanne,Roanne,1.362,2.356,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,384,3,2FGM,Alex Tyus,Lyon-Villeurbanne,Roanne,-0.015,0.015,dunk
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,392,3,2FGA,Renathan Ona Embo,Roanne,Lyon-Villeurbanne,1.034,1.967,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,395,4,3FGM,David Lighty,Lyon-Villeurbanne,Roanne,2.201,6.979,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,398,4,2FGA,Maxime Roos,Roanne,Lyon-Villeurbanne,0.165,2.026,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,400,4,3FGM,Yves Pons,Lyon-Villeurbanne,Roanne,5.703,4.607,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,406,4,2FGM,Retin Obasohan,Lyon-Villeurbanne,Roanne,1.332,0.855,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,414,4,2FGA,Arthur Bruyas,Roanne,Lyon-Villeurbanne,-0.434,1.757,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,416,4,3FGA,David Lighty,Lyon-Villeurbanne,Roanne,-3.309,7.189,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,422,4,2FGA,Arthur Bruyas,Roanne,Lyon-Villeurbanne,1.003,3.375,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,424,4,3FGA,Jonah Mathews,Lyon-Villeurbanne,Roanne,2.919,7.309,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,436,4,3FGA,Kyle Foster,Roanne,Lyon-Villeurbanne,5.224,5.506,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,440,4,2FGA,Yves Pons,Lyon-Villeurbanne,Roanne,0.434,1.995,hook shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,442,4,2FGM,Yannis Morin,Roanne,Lyon-Villeurbanne,0.135,2.535,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,444,4,3FGA,Antoine Diot,Lyon-Villeurbanne,Roanne,4.356,6.139,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,456,4,2FGM,Kyle Foster,Roanne,Lyon-Villeurbanne,-0.045,0.346,dunk
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,471,4,2FGM,Ronald March,Roanne,Lyon-Villeurbanne,-3.517,3.588,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,474,4,2FGM,Stefan Moody,Roanne,Lyon-Villeurbanne,-0.524,2.656,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,480,4,3FGM,Charles Kahudi,Lyon-Villeurbanne,Roanne,3.907,6.618,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,487,4,3FGA,Charles Kahudi,Lyon-Villeurbanne,Roanne,4.866,6.528,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,489,4,3FGM,Stefan Moody,Roanne,Lyon-Villeurbanne,6.481,3.496,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,491,4,3FGA,Dee Bost,Lyon-Villeurbanne,Roanne,-5.224,6.618,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,494,4,2FGA,Silvio De Sousa,Roanne,Lyon-Villeurbanne,1.064,1.457,layup
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,498,4,2FGM,Kyle Foster,Roanne,Lyon-Villeurbanne,-5.224,2.535,jump shot
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,500,4,3FGA,Antoine Diot,Lyon-Villeurbanne,Roanne,0.285,7.637,
+22-23,22-23 PROA,2023-04-02:Lyon-Villeurbanne-Roanne,27,502,4,2FGA,Kyle Foster,Roanne,Lyon-Villeurbanne,0.674,0.886,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,3,1,3FGA,Jordan Loyd,Monaco,Boulogne-Levallois,6.075,5.568,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,7,1,3FGA,Mike James,Monaco,Boulogne-Levallois,-3.549,8.208,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,9,1,3FGA,Victor Wembanyama,Boulogne-Levallois,Monaco,4.167,7.615,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,11,1,2FGM,Donatas Motiejunas,Monaco,Boulogne-Levallois,-0.618,0.878,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,12,1,3FGM,Lahaou Konate,Boulogne-Levallois,Monaco,1.585,7.911,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,14,1,2FGA,Jordan Loyd,Monaco,Boulogne-Levallois,4.221,1.606,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,16,1,2FGM,Bandja Sy,Boulogne-Levallois,Monaco,-0.135,-0.094,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,18,1,3FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,-6.424,5.54,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,20,1,2FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,-1.022,1.606,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,24,1,2FGA,John Brown,Monaco,Boulogne-Levallois,-2.07,5.459,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,26,1,2FGM,Bandja Sy,Boulogne-Levallois,Monaco,0.295,1.821,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,34,1,2FGM,Victor Wembanyama,Boulogne-Levallois,Monaco,-0.108,0.041,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,36,1,3FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,-5.349,5.943,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,38,1,2FGA,Donatas Motiejunas,Monaco,Boulogne-Levallois,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,40,1,2FGA,Donatas Motiejunas,Monaco,Boulogne-Levallois,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,42,1,3FGM,Jordan Loyd,Monaco,Boulogne-Levallois,-3.522,7.48,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,48,1,3FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,5.619,6.805,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,50,1,2FGM,Tremont Waters,Boulogne-Levallois,Monaco,-0.295,1.334,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,52,1,2FGA,Mike James,Monaco,Boulogne-Levallois,-1.022,0.903,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,55,1,2FGM,Tashawn Thomas,Boulogne-Levallois,Monaco,0.618,2.09,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,56,1,2FGA,John Brown,Monaco,Boulogne-Levallois,-3.252,4.327,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,58,1,3FGM,Tremont Waters,Boulogne-Levallois,Monaco,3.387,7.777,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,68,1,3FGA,Elie Okobo,Monaco,Boulogne-Levallois,1.425,7.452,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,72,1,2FGM,Donta Hall,Monaco,Boulogne-Levallois,-0.214,1.525,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,80,1,2FGA,Yoan Makoundou,Monaco,Boulogne-Levallois,-1.076,4.543,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,85,1,2FGM,Bilal Coulibaly,Boulogne-Levallois,Monaco,-0.188,1.875,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,94,1,3FGM,Matthew Strazel,Monaco,Boulogne-Levallois,-2.474,8.908,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,103,1,2FGA,Yoan Makoundou,Monaco,Boulogne-Levallois,-3.495,1.765,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,105,1,2FGA,Victor Wembanyama,Boulogne-Levallois,Monaco,-3.79,1.928,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,120,1,2FGM,Elie Okobo,Monaco,Boulogne-Levallois,0.135,0.069,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,122,1,3FGM,Matthew Strazel,Monaco,Boulogne-Levallois,6.72,5.243,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,128,2,3FGA,Victor Wembanyama,Boulogne-Levallois,Monaco,3.683,8.208,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,130,2,2FGM,Victor Wembanyama,Boulogne-Levallois,Monaco,-0.214,-0.038,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,131,2,2FGM,Yoan Makoundou,Monaco,Boulogne-Levallois,-2.016,1.04,alley oop
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,133,2,3FGA,Steeve Ho You Fat,Boulogne-Levallois,Monaco,5.376,5.674,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,137,2,2FGM,Devante Jones,Boulogne-Levallois,Monaco,-0.457,1.362,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,143,2,2FGA,Elie Okobo,Monaco,Boulogne-Levallois,-2.42,5.081,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,145,2,3FGA,Yoan Makoundou,Monaco,Boulogne-Levallois,-5.671,4.649,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,148,2,2FGA,Tremont Waters,Boulogne-Levallois,Monaco,0.672,0.825,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,150,2,2FGM,Yoan Makoundou,Monaco,Boulogne-Levallois,-0.699,1.631,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,152,2,3FGA,Tremont Waters,Boulogne-Levallois,Monaco,4.273,7.48,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,154,2,2FGM,Elie Okobo,Monaco,Boulogne-Levallois,-0.214,2.549,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,159,2,3FGM,Matthew Strazel,Monaco,Boulogne-Levallois,-4.597,6.805,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,161,2,3FGA,Armel Traore,Boulogne-Levallois,Monaco,5.43,5.918,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,163,2,3FGM,Matthew Strazel,Monaco,Boulogne-Levallois,0.349,8.368,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,168,2,2FGA,John Brown,Monaco,Boulogne-Levallois,-0.726,1.847,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,170,2,3FGA,John Brown,Monaco,Boulogne-Levallois,-0.054,7.858,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,172,2,2FGA,Tremont Waters,Boulogne-Levallois,Monaco,0.295,2.118,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,174,2,2FGM,Tashawn Thomas,Boulogne-Levallois,Monaco,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,184,2,3FGM,Tremont Waters,Boulogne-Levallois,Monaco,3.817,6.724,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,186,2,2FGA,Yoan Makoundou,Monaco,Boulogne-Levallois,-0.618,3.059,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,192,2,2FGA,Tashawn Thomas,Boulogne-Levallois,Monaco,0.511,4.999,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,194,2,3FGA,Matthew Strazel,Monaco,Boulogne-Levallois,-5.565,6.861,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,196,2,2FGA,Donatas Motiejunas,Monaco,Boulogne-Levallois,0.135,3.059,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,198,2,2FGA,Tremont Waters,Boulogne-Levallois,Monaco,3.951,3.275,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,200,2,2FGM,Yakuba Ouattara,Monaco,Boulogne-Levallois,-0.214,1.147,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,202,2,3FGA,Victor Wembanyama,Boulogne-Levallois,Monaco,-2.661,7.911,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,204,2,2FGA,Matthew Strazel,Monaco,Boulogne-Levallois,-0.027,4.003,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,214,2,3FGA,Lahaou Konate,Boulogne-Levallois,Monaco,3.227,8.961,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,216,2,3FGM,Donatas Motiejunas,Monaco,Boulogne-Levallois,-0.618,7.452,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,219,2,2FGM,Tashawn Thomas,Boulogne-Levallois,Monaco,0.295,1.793,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,222,2,3FGA,Mike James,Monaco,Boulogne-Levallois,-3.414,7.049,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,228,2,3FGA,Tremont Waters,Boulogne-Levallois,Monaco,3.602,7.318,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,231,2,2FGA,Mike James,Monaco,Boulogne-Levallois,-0.834,1.443,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,235,2,3FGA,Mike James,Monaco,Boulogne-Levallois,1.183,7.696,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,237,2,3FGA,Lahaou Konate,Boulogne-Levallois,Monaco,3.763,7.211,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,239,2,3FGM,Donatas Motiejunas,Monaco,Boulogne-Levallois,-0.322,8.315,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,241,2,2FGM,Tremont Waters,Boulogne-Levallois,Monaco,0,2.037,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,243,2,2FGA,Tremont Waters,Boulogne-Levallois,Monaco,3.951,3.412,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,250,3,2FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,-0.349,1.334,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,254,3,2FGA,Jordan Loyd,Monaco,Boulogne-Levallois,2.393,5.755,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,262,3,3FGA,Mike James,Monaco,Boulogne-Levallois,-5.726,5.568,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,264,3,2FGM,Donatas Motiejunas,Monaco,Boulogne-Levallois,2.178,2.468,floating jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,266,3,2FGA,Bilal Coulibaly,Boulogne-Levallois,Monaco,-3.522,4.649,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,268,3,2FGM,Yakuba Ouattara,Monaco,Boulogne-Levallois,-3.951,3.762,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,270,3,2FGM,Tashawn Thomas,Boulogne-Levallois,Monaco,-0.941,1.147,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,283,3,2FGM,John Brown,Monaco,Boulogne-Levallois,3.038,4.677,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,285,3,2FGM,Victor Wembanyama,Boulogne-Levallois,Monaco,-0.108,1.497,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,287,3,3FGM,Jordan Loyd,Monaco,Boulogne-Levallois,2.957,7.937,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,292,3,3FGM,Lahaou Konate,Boulogne-Levallois,Monaco,-4.597,6.374,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,294,3,2FGM,John Brown,Monaco,Boulogne-Levallois,-2.501,5.162,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,296,3,2FGM,Tremont Waters,Boulogne-Levallois,Monaco,-0.027,1.497,floating jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,297,3,3FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,6.237,4.893,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,304,3,2FGA,Matthew Strazel,Monaco,Boulogne-Levallois,0.241,1.578,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,306,3,2FGM,Tremont Waters,Boulogne-Levallois,Monaco,-0.376,1.847,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,307,3,3FGM,Elie Okobo,Monaco,Boulogne-Levallois,4.731,6.402,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,324,3,3FGM,Tremont Waters,Boulogne-Levallois,Monaco,-2.688,7.533,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,325,3,3FGA,Matthew Strazel,Monaco,Boulogne-Levallois,3.36,6.833,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,330,3,2FGM,Donta Hall,Monaco,Boulogne-Levallois,-0.135,0.069,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,333,3,3FGA,Elie Okobo,Monaco,Boulogne-Levallois,-3.522,7.265,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,341,3,2FGA,Victor Wembanyama,Boulogne-Levallois,Monaco,0.376,3.356,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,343,3,2FGA,Elie Okobo,Monaco,Boulogne-Levallois,0.511,2.253,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,350,3,3FGA,Yoan Makoundou,Monaco,Boulogne-Levallois,-6.56,5.621,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,352,3,3FGM,Tremont Waters,Boulogne-Levallois,Monaco,3.119,8.099,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,353,3,3FGA,Jordan Loyd,Monaco,Boulogne-Levallois,0.859,8.855,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,358,4,2FGM,Matthew Strazel,Monaco,Boulogne-Levallois,-0.081,1.659,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,361,4,2FGA,Tremont Waters,Boulogne-Levallois,Monaco,-0.511,1.981,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,363,4,2FGA,Bandja Sy,Boulogne-Levallois,Monaco,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,370,4,2FGA,Bilal Coulibaly,Boulogne-Levallois,Monaco,4.273,0.5,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,376,4,2FGM,Elie Okobo,Monaco,Boulogne-Levallois,-0.108,1.578,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,377,4,3FGM,Tremont Waters,Boulogne-Levallois,Monaco,5.43,6.268,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,379,4,2FGM,Elie Okobo,Monaco,Boulogne-Levallois,-3.441,2.493,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,380,4,2FGA,Tashawn Thomas,Boulogne-Levallois,Monaco,3.549,2.843,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,382,4,3FGA,Mike James,Monaco,Boulogne-Levallois,6.478,4.49,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,384,4,2FGA,Tashawn Thomas,Boulogne-Levallois,Monaco,-0.672,2.143,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,392,4,3FGA,Elie Okobo,Monaco,Boulogne-Levallois,2.097,7.911,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,394,4,2FGM,Bandja Sy,Boulogne-Levallois,Monaco,-0.43,2.278,dunk
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,398,4,3FGM,Yoan Makoundou,Monaco,Boulogne-Levallois,-0.968,7.858,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,400,4,2FGA,Victor Wembanyama,Boulogne-Levallois,Monaco,-0.968,3.653,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,402,4,2FGM,Mike James,Monaco,Boulogne-Levallois,0.027,1.712,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,408,4,3FGA,Tremont Waters,Boulogne-Levallois,Monaco,3.414,6.618,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,410,4,2FGM,Elie Okobo,Monaco,Boulogne-Levallois,-0.027,1.631,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,420,4,2FGM,Bandja Sy,Boulogne-Levallois,Monaco,-0.672,0.931,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,421,4,3FGA,Mike James,Monaco,Boulogne-Levallois,4.462,5.971,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,430,4,3FGM,Tremont Waters,Boulogne-Levallois,Monaco,-2.366,8.343,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,431,4,3FGA,Yakuba Ouattara,Monaco,Boulogne-Levallois,-4.059,6.996,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,433,4,3FGA,Tremont Waters,Boulogne-Levallois,Monaco,-4.059,7.318,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,441,4,2FGA,Bandja Sy,Boulogne-Levallois,Monaco,-5.107,1.2,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,443,4,2FGA,Bilal Coulibaly,Boulogne-Levallois,Monaco,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,449,4,2FGA,Mike James,Monaco,Boulogne-Levallois,0.726,1.525,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,451,4,2FGM,Yakuba Ouattara,Monaco,Boulogne-Levallois,-4.005,3.168,jump shot
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,453,4,2FGM,Armel Traore,Boulogne-Levallois,Monaco,-0.591,1.631,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,460,4,2FGM,Yakuba Ouattara,Monaco,Boulogne-Levallois,0.834,4.299,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,461,4,3FGA,Bandja Sy,Boulogne-Levallois,Monaco,-6.505,3.115,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,469,4,3FGA,Tremont Waters,Boulogne-Levallois,Monaco,-3.602,7.83,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,471,4,3FGA,Matthew Strazel,Monaco,Boulogne-Levallois,4.409,6.349,
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,473,4,2FGA,Mike James,Monaco,Boulogne-Levallois,0.564,1.606,layup
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,475,4,2FGA,Yoan Makoundou,Monaco,Boulogne-Levallois,0,-0.175,putback
+22-23,22-23 PROA,2023-04-02:Monaco-Boulogne-Levallois,27,477,4,3FGA,Tremont Waters,Boulogne-Levallois,Monaco,-1.371,7.48,
