@@ -388,6 +388,271 @@ fig1.patches.extend([
         transform=fig1.transFigure, figure=fig1
     ),
 ])
+# SHOOTING VIZ
+df_shots = df_shots[df_shots['round'].between(begin, end)]
+home_df = df_shots[df_shots['team_id'] == teamselection]
+home_df['distance'] = np.sqrt(home_df['x']**2 + home_df['y']**2)
+
+def f(row):
+    if row['distance'] > 6.75:
+        val = "3pts"
+    elif row['distance'] > 4.5:
+        val = "Long 2"
+    elif row['distance'] > 2.5:
+        val = "Short 2"
+    elif row['distance'] > 1.2:
+        val = "Paint"
+    elif row['distance'] > 0:
+        val = "Rim"
+    else:
+        val = "ERROR"
+    return val
+
+home_df['zone_details'] = home_df.apply(f, axis=1)
+
+# Bar Chart for shooting
+params1 = ['Rim', 'Paint', 'Short 2', 'Long 2', '3pts']
+params2 = ['Rim', 'Paint', 'Short 2', 'Long 2', '3pts']
+
+#Team
+shootingdf = home_df.groupby(['type', 'zone_details']).agg({'action_number': 'count'}).reset_index()
+rim = shootingdf[shootingdf['zone_details'] == 'Rim']
+rim = rim.set_index('type')
+rim = rim.T
+rim = rim.drop(labels="zone_details")
+teamrim = rim['2FGM'] / (rim['2FGM'] + rim['2FGA']) * 100
+paint = shootingdf[shootingdf['zone_details'] == 'Paint']
+paint = paint.set_index('type')
+paint = paint.T
+paint = paint.drop(labels="zone_details")
+teampaint = paint['2FGM'] / (paint['2FGM'] + paint['2FGA']) * 100
+short2 = shootingdf[shootingdf['zone_details'] == 'Short 2']
+short2 = short2.set_index('type')
+short2 = short2.T
+short2 = short2.drop(labels="zone_details")
+teamshort2 = short2['2FGM'] / (short2['2FGM'] + short2['2FGA']) * 100
+long2 = shootingdf[shootingdf['zone_details'] == 'Long 2']
+long2 = long2.set_index('type')
+long2 = long2.T
+long2 = long2.drop(labels="zone_details")
+teamlong2 = long2['2FGM'] / (long2['2FGM'] + long2['2FGA']) * 100
+three = shootingdf[shootingdf['zone_details'] == '3pts']
+three = three.set_index('type')
+three = three.T
+three = three.drop(labels="zone_details")
+teamthree = three['3FGM'] / (three['3FGM'] + three['3FGA']) * 100
+bar1 = pd.concat([teamrim, teampaint, teamshort2, teamlong2, teamthree], axis=1)
+bar1 = bar1.T
+team1 = bar1["action_number"].tolist()
+
+shootingdf = home_df.groupby(['type', 'zone_details']).agg({'action_number': 'count'}).reset_index()
+rim = shootingdf[shootingdf['zone_details'] == 'Rim']
+rim = rim.set_index('type')
+rim = rim.T
+rim = rim.drop(labels="zone_details")
+teamrim = (rim['2FGM'] + rim['2FGA'])
+paint = shootingdf[shootingdf['zone_details'] == 'Paint']
+paint = paint.set_index('type')
+paint = paint.T
+paint = paint.drop(labels="zone_details")
+teampaint = (paint['2FGM'] + paint['2FGA'])
+short2 = shootingdf[shootingdf['zone_details'] == 'Short 2']
+short2 = short2.set_index('type')
+short2 = short2.T
+short2 = short2.drop(labels="zone_details")
+teamshort2 = (short2['2FGM'] + short2['2FGA'])
+long2 = shootingdf[shootingdf['zone_details'] == 'Long 2']
+long2 = long2.set_index('type')
+long2 = long2.T
+long2 = long2.drop(labels="zone_details")
+teamlong2 = (long2['2FGM'] + long2['2FGA'])
+three = shootingdf[shootingdf['zone_details'] == '3pts']
+three = three.set_index('type')
+three = three.T
+three = three.drop(labels="zone_details")
+teamthree = (three['3FGM'] + three['3FGA'])
+bar2 = pd.concat([teamrim, teampaint, teamshort2, teamlong2, teamthree], axis=1)
+bar2['tot'] = bar2[0] + bar2[1] + bar2[2] + bar2[3] + bar2[4]
+bar2[0] = bar2[0] / bar2['tot'] * 100
+bar2[1] = bar2[1] / bar2['tot'] * 100
+bar2[2] = bar2[2] / bar2['tot'] * 100
+bar2[3] = bar2[3] / bar2['tot'] * 100
+bar2[4] = bar2[4] / bar2['tot'] * 100
+bar2 = bar2.drop(columns=['tot'])
+bar2 = bar2.T
+team2 = bar2["action_number"].tolist()
+
+#League
+df_shots['distance'] = np.sqrt(df_shots['x']**2 + df_shots['y']**2)
+
+def f(row):
+    if row['distance'] > 6.75:
+        val = "3pts"
+    elif row['distance'] > 4.5:
+        val = "Long 2"
+    elif row['distance'] > 2.5:
+        val = "Short 2"
+    elif row['distance'] > 1.2:
+        val = "Paint"
+    elif row['distance'] > 0:
+        val = "Rim"
+    else:
+        val = "ERROR"
+    return val
+
+df_shots['zone_details'] = df_shots.apply(f, axis=1)
+
+shootingdf = df_shots.groupby(['type', 'zone_details']).agg({'action_number': 'count'}).reset_index()
+rim = shootingdf[shootingdf['zone_details'] == 'Rim']
+rim = rim.set_index('type')
+rim = rim.T
+rim = rim.drop(labels="zone_details")
+leaguerim = rim['2FGM'] / (rim['2FGM'] + rim['2FGA']) * 100
+paint = shootingdf[shootingdf['zone_details'] == 'Paint']
+paint = paint.set_index('type')
+paint = paint.T
+paint = paint.drop(labels="zone_details")
+leaguepaint = paint['2FGM'] / (paint['2FGM'] + paint['2FGA']) * 100
+short2 = shootingdf[shootingdf['zone_details'] == 'Short 2']
+short2 = short2.set_index('type')
+short2 = short2.T
+short2 = short2.drop(labels="zone_details")
+leagueshort2 = short2['2FGM'] / (short2['2FGM'] + short2['2FGA']) * 100
+long2 = shootingdf[shootingdf['zone_details'] == 'Long 2']
+long2 = long2.set_index('type')
+long2 = long2.T
+long2 = long2.drop(labels="zone_details")
+leaguelong2 = long2['2FGM'] / (long2['2FGM'] + long2['2FGA']) * 100
+three = shootingdf[shootingdf['zone_details'] == '3pts']
+three = three.set_index('type')
+three = three.T
+three = three.drop(labels="zone_details")
+leaguethree = three['3FGM'] / (three['3FGM'] + three['3FGA']) * 100
+league1 = pd.concat([leaguerim, leaguepaint, leagueshort2, leaguelong2, leaguethree], axis=1)
+league1 = league1.T
+league1 = league1["action_number"].tolist()
+
+rim = shootingdf[shootingdf['zone_details'] == 'Rim']
+rim = rim.set_index('type')
+rim = rim.T
+rim = rim.drop(labels="zone_details")
+leaguerim = (rim['2FGM'] + rim['2FGA'])
+paint = shootingdf[shootingdf['zone_details'] == 'Paint']
+paint = paint.set_index('type')
+paint = paint.T
+paint = paint.drop(labels="zone_details")
+leaguepaint = (paint['2FGM'] + paint['2FGA'])
+short2 = shootingdf[shootingdf['zone_details'] == 'Short 2']
+short2 = short2.set_index('type')
+short2 = short2.T
+short2 = short2.drop(labels="zone_details")
+leagueshort2 = (short2['2FGM'] + short2['2FGA'])
+long2 = shootingdf[shootingdf['zone_details'] == 'Long 2']
+long2 = long2.set_index('type')
+long2 = long2.T
+long2 = long2.drop(labels="zone_details")
+leaguelong2 = (long2['2FGM'] + long2['2FGA'])
+three = shootingdf[shootingdf['zone_details'] == '3pts']
+three = three.set_index('type')
+three = three.T
+three = three.drop(labels="zone_details")
+leaguethree = (three['3FGM'] + three['3FGA'])
+league2 = pd.concat([leaguerim, leaguepaint, leagueshort2, leaguelong2, leaguethree], axis=1)
+league2['tot'] = league2[0] + league2[1] + league2[2] + league2[3] + league2[4]
+league2[0] = league2[0] / league2['tot'] * 100
+league2[1] = league2[1] / league2['tot'] * 100
+league2[2] = league2[2] / league2['tot'] * 100
+league2[3] = league2[3] / league2['tot'] * 100
+league2[4] = league2[4] / league2['tot'] * 100
+league2 = league2.drop(columns=['tot'])
+league2 = league2.T
+league2 = league2["action_number"].tolist()
+
+teamrim = team1[0] + 8
+teampaint = team1[1] + 8
+teamshort2 = team1[2] + 8
+teamlong2 = team1[3] + 8
+teamthree = team1[4] + 8
+teamfgarim = team2[0] + 8
+teamfgapaint = team2[1] + 8
+teamfgashort2 = team2[2] + 8
+teamfgalong2 = team2[3] + 8
+teamfgathree = team2[4] + 8
+rim = league1[0]
+paint = league1[1]
+short2 = league1[2]
+long2 = league1[3]
+three = league1[4]
+fgarim = league2[0]
+fgapaint = league2[1]
+fgashort2 = league2[2]
+fgalong2 = league2[3]
+fgathree = league2[4]
+title = max(team2) + 10
+
+fig3, axis = plt.subplots(2,1)
+bar_container1 = axis[0].bar(params1, team1, width=0.5)
+axis[0].set_title("Shooting % By Shot Type")
+axis[0].spines['right'].set_visible(False)
+axis[0].spines['left'].set_visible(False)
+axis[0].spines['top'].set_visible(False)
+axis[0].tick_params(axis='x', which='major', labelsize=8)
+axis[0].set_yticklabels([])
+axis[0].tick_params(left = False)
+axis[0].tick_params(bottom = False)
+axis[0].axhline(77, .447, .553, color='grey')
+axis[0].text(2, 80, "League Avg.", color='black', fontsize=5, ha='center', va='center')
+# Rim
+axis[0].axhline(rim, .043, .15, color='grey')
+axis[0].text(-0.4, rim, "{:.1f}%".format(rim), color='black', fontsize=5, ha='center', va='center')
+axis[0].text(0, teamrim, "{:.1f}%".format(teamrim - 8), color='black', fontsize=10, ha='center', va='center')
+# Paint
+axis[0].axhline(paint, .244, .351, color='grey')
+axis[0].text(0.6, paint, "{:.1f}%".format(paint), color='black', fontsize=5, ha='center', va='center')
+axis[0].text(1, teampaint, "{:.1f}%".format(teampaint - 8), color='black', fontsize=10, ha='center', va='center')
+# Short 2
+axis[0].axhline(short2, .447, .554, color='grey')
+axis[0].text(1.6, short2, "{:.1f}%".format(short2), color='black', fontsize=5, ha='center', va='center')
+axis[0].text(2, teamshort2, "{:.1f}%".format(teamshort2 - 8), color='black', fontsize=10, ha='center', va='center')
+# Long 2
+axis[0].axhline(long2, .648, .755, color='grey')
+axis[0].text(2.6, long2, "{:.1f}%".format(long2), color='black', fontsize=5, ha='center', va='center')
+axis[0].text(3, teamlong2, "{:.1f}%".format(teamlong2 - 8), color='black', fontsize=10, ha='center', va='center')
+# Three
+axis[0].axhline(three, .85, .958, color='grey')
+axis[0].text(3.6, three, "{:.1f}%".format(three), color='black', fontsize=5, ha='center', va='center')
+axis[0].text(4, teamthree, "{:.1f}%".format(teamthree - 8), color='black', fontsize=10, ha='center', va='center')
+
+bar_container2 = axis[1].bar(params2, team2, width=0.5)
+axis[1].text(2, title-2, "Shot Selection Distribution", ha='center', va='center')
+axis[1].spines['right'].set_visible(False)
+axis[1].spines['left'].set_visible(False)
+axis[1].spines['top'].set_visible(False)
+axis[1].tick_params(axis='x', which='major', labelsize=8)
+axis[1].set_yticklabels([])
+axis[1].tick_params(left = False)
+axis[1].tick_params(bottom = False)
+axis[1].set_ylim([0, title])
+# FGA% Rim
+axis[1].axhline(fgarim, .043, .15, color='grey')
+axis[1].text(-0.4, fgarim, "{:.1f}%".format(fgarim), color='black', fontsize=5, ha='center', va='center')
+axis[1].text(0, teamfgarim, "{:.1f}%".format(teamfgarim - 8), color='black', fontsize=10, ha='center', va='center')
+# FGA% Paint
+axis[1].axhline(fgapaint, .244, .351, color='grey')
+axis[1].text(0.6, fgapaint, "{:.1f}%".format(fgapaint), color='black', fontsize=5, ha='center', va='center')
+axis[1].text(1, teamfgapaint, "{:.1f}%".format(teamfgapaint - 8), color='black', fontsize=10, ha='center', va='center')
+#FGA% Short 2
+axis[1].axhline(fgashort2, .447, .554, color='grey')
+axis[1].text(1.6, fgashort2, "{:.1f}%".format(fgashort2), color='black', fontsize=5, ha='center', va='center')
+axis[1].text(2, teamfgashort2, "{:.1f}%".format(teamfgashort2 - 8), color='black', fontsize=10, ha='center', va='center')
+# FGA% Long 2
+axis[1].axhline(fgalong2, .648, .755, color='grey')
+axis[1].text(2.6, fgalong2, "{:.1f}%".format(fgalong2), color='black', fontsize=5, ha='center', va='center')
+axis[1].text(3, teamfgalong2, "{:.1f}%".format(teamfgalong2 - 8), color='black', fontsize=10, ha='center', va='center')
+# FGA% Three
+axis[1].axhline(fgathree, .85, .958, color='grey')
+axis[1].text(3.6, fgathree, "{:.1f}%".format(fgathree), color='black', fontsize=5, ha='center', va='center')
+axis[1].text(4, teamfgathree, "{:.1f}%".format(teamfgathree - 8), color='black', fontsize=10, ha='center', va='center')
 
 # VIZ 4
 def draw_court(ax=None, color='black', lw=1, outer_lines=True):
@@ -470,16 +735,11 @@ def plot_scatter(made, miss, title=None):
     plt.show()
     return
 
-# split the home and away teams, their made and missed shots
-df_shots = df_shots[df_shots['round'].between(begin, end)]
-#df_shots['TEAM'] = df_shots['TEAM'].str.strip()  # team id contains trailing white space
-#df_shots['ID_PLAYER'] = df_shots['ID_PLAYER'].str.strip()  # player id contains trailing white space
-home_df = df_shots[df_shots['team_id'] == teamselection]
 fg_made_home_df = home_df[home_df['type'].isin(['2FGM', '3FGM'])]
 fg_miss_home_df = home_df[home_df['type'].isin(['2FGA', '3FGA'])]
 
 # scatter shot chart of PAOs
-fig4 = plot_scatter(fg_made_home_df, fg_miss_home_df, title=teamselection)
+fig2 = plot_scatter(fg_made_home_df, fg_miss_home_df, title=teamselection)
 
 # DATAFRAMES
 statsavancees = (result[['Team_name', 'ORTG', 'DRTG', 'NetRTG', 'eFG%', 'TS%', 'AST/TO', 'OREB%', 'DREB%', 'TOV%', 'BLK%', 'STL%', 'FTAr', 'Poss/G']])
@@ -488,10 +748,23 @@ statsavancees = statsavancees.set_index('Team_name')
 statsavanceesopp = (result[['Team_name', 'eFG% opp', 'TS% opp', 'AST/TO opp', 'OREB% opp', 'DREB% opp', 'TOV% opp', 'BLK% opp', 'STL% opp', 'FTAr opp', 'Poss/G opp']])
 statsavanceesopp = statsavanceesopp.set_index('Team_name')
 
+def color_rank(val):
+    color = '#28B321' if val == 1 else '#35B72E' if val==2 else '#41BC3B' if val==3 else '#4EC048' if val==4 else '#5BC555' if val==5 else '#67C962' if val==6 else '#74CE6F' if val==7 else '#81D27C' if val==8 else '#8DD789' if val==9 else '#9ADB97' if val==10 else '#A6E0A4' if val==11 else '#B3E4B1' if val==12 else '#C0E9BE' if val==13 else '#CCEDCB' if val==14 else '#D9F2D8' if val==15 else '#E6F6E5' if val==16 else '#F2FBF2' if val==17 else '#FFFFFF' if val==18 else 'red'
+    return f'background-color: {color}'
 fourfactors = (result[['Team_name', 'eFG%', 'TOV%', 'OREB%', 'FTAr']])
+fourfactors['Rk eFG%'] = fourfactors['eFG%'].rank(method='average', ascending=False)
+fourfactors['Rk TOV%'] = fourfactors['TOV%'].rank(method='average', ascending=True)
+fourfactors['Rk OREB%'] = fourfactors['OREB%'].rank(method='average', ascending=False)
+fourfactors['Rk FTAr'] = fourfactors['FTAr'].rank(method='average', ascending=False)
+fourfactors = (fourfactors[['Team_name', 'eFG%', 'Rk eFG%', 'TOV%', 'Rk TOV%', 'OREB%', 'Rk OREB%', 'FTAr', 'Rk FTAr']])
 fourfactors = fourfactors.set_index('Team_name')
 
 fourfactorsopp = (result[['Team_name', 'eFG% opp', 'TOV% opp', 'OREB% opp', 'FTAr opp']])
+fourfactorsopp['Rk eFG%'] = fourfactorsopp['eFG% opp'].rank(method='average', ascending=True)
+fourfactorsopp['Rk TOV%'] = fourfactorsopp['TOV% opp'].rank(method='average', ascending=False)
+fourfactorsopp['Rk OREB%'] = fourfactorsopp['OREB% opp'].rank(method='average', ascending=True)
+fourfactorsopp['Rk FTAr'] = fourfactorsopp['FTAr opp'].rank(method='average', ascending=True)
+fourfactorsopp = (fourfactorsopp[['Team_name', 'eFG% opp', 'Rk eFG%', 'TOV% opp', 'Rk TOV%', 'OREB% opp', 'Rk OREB%', 'FTAr opp', 'Rk FTAr']])
 fourfactorsopp = fourfactorsopp.set_index('Team_name')
 
 traditionaltotal = (result[['Team_name', 'PTS', '2FGM', '2FGA', '2P%', '3FGM', '3FGA', '3P%', 'FTM', 'FTA', 'FT%', 'OREB', 'DREB', 'AST', 'STL', 'TOV', 'BLK', 'BLKA', 'PF']])
@@ -526,34 +799,44 @@ with row1_col2:
     stats = st.selectbox("",('Traditional Total', 'Traditional Average', 'Advanced Stats', 'Four Factors', 'Scoring'), label_visibility="collapsed")
     offdef = st.selectbox("",('Offense', 'Defense'), label_visibility="collapsed")
     if stats == "Four Factors" and offdef == "Offense":
-        statsdf = fourfactors
+        st.dataframe(fourfactors.style.format("{:.2f}").format("{:.0f}", subset=['Rk eFG%', 'Rk TOV%', 'Rk OREB%', 'Rk FTAr']).applymap(color_rank, subset=['Rk eFG%', 'Rk TOV%', 'Rk OREB%', 'Rk FTAr']))
     elif stats == "Traditional Total" and offdef == "Offense":
-        statsdf = traditionaltotal
+        st.dataframe(traditionaltotal.style.format("{:.2f}"))
     elif stats == "Traditional Average" and offdef == "Offense":
-        statsdf = traditionalavg
+        st.dataframe(traditionalavg.style.format("{:.2f}"))
     elif stats == "Scoring" and offdef == "Offense":
-        statsdf = scoring
+        st.dataframe(scoring.style.format("{:.2f}"))
     elif stats == "Advanced Stats" and offdef == "Offense":
-        statsdf = statsavancees
+        st.dataframe(statsavancees.style.format("{:.2f}"))
     elif stats == "Four Factors" and offdef == "Defense":
-        statsdf = fourfactorsopp
+        st.dataframe(fourfactorsopp.style.format("{:.2f}").format("{:.0f}", subset=['Rk eFG%', 'Rk TOV%', 'Rk OREB%', 'Rk FTAr']).applymap(color_rank, subset=['Rk eFG%', 'Rk TOV%', 'Rk OREB%', 'Rk FTAr']))
     elif stats == "Advanced Stats" and offdef == "Defense":
-        statsdf = statsavanceesopp
+        st.dataframe(statsavanceesopp.style.format("{:.2f}"))
     elif stats == "Scoring" and offdef == "Defense":
-        statsdf = scoringopp
+        st.dataframe(scoringopp.style.format("{:.2f}"))
     elif stats == "Traditional Total" and offdef == "Defense":
-        statsdf = traditionaltotalopp
+        st.dataframe(traditionaltotalopp.style.format("{:.2f}"))
     elif stats == "Traditional Average" and offdef == "Defense":
-        statsdf = traditionalavgopp
+        st.dataframe(traditionalavgopp.style.format("{:.2f}"))
     else:
         statsdf = df
-    st.dataframe(statsdf.style.format("{:.0f}"))
+    
     st.sidebar.write("##")
     st.sidebar.write("##")
     st.header('Shooting')
-    st.pyplot(fig4)
+    shootingselect = st.selectbox("",('Shot Chart', 'Bar Chart'), label_visibility="collapsed")
+    if shootingselect == "Shot Chart":
+        st.pyplot(fig2)
+    elif shootingselect == "Bar Chart":
+        st.pyplot(fig3)
+    else:
+        st.write("")
     
 st.write("GLOSSARY :")
 st.write("ORTG : Offensive Rating / DRTG : Defensive Rating / NetRTG : Net Rating / eFG% : Effective Field Goal / TS% : True Shooting / FTAr : Free Throw rate")
 st.write("FGA% 2PT : Percent of Field Goals Attempted (2 Pointers) / FGA% 3PT : Percent of Field Goals Attempted (3 Pointers) / PTS% 2PT : Percent of Points (2 Pointers) / PTS% 3PT : Percent of Points (3 Pointers) / PTS% FT : Percent of Points (Free Throws)")
 st.write("FGM% AST : Percent of Point Field Goals Made Assisted / FGM% UAST : Percent of Point Field Goals Made Unassisted")
+
+
+st.dataframe(team2)
+st.dataframe(league2)
