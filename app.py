@@ -624,7 +624,7 @@ axis[0].text(3.6, three, "{:.1f}%".format(three), color='black', fontsize=5, ha=
 axis[0].text(4, teamthree, "{:.1f}%".format(teamthree - 8), color='black', fontsize=10, ha='center', va='center')
 
 bar_container2 = axis[1].bar(params2, team2, width=0.5)
-axis[1].text(2, title-2, "Shot Selection Distribution", ha='center', va='center')
+axis[1].text(2, title-2, "Shot Selection Distribution", ha='center', va='center', fontsize=13)
 axis[1].spines['right'].set_visible(False)
 axis[1].spines['left'].set_visible(False)
 axis[1].spines['top'].set_visible(False)
