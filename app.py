@@ -424,33 +424,33 @@ def test(df, value_to_check):
 shootingdf = home_df.groupby(['type', 'zone_details']).agg({'action_number': 'count'}).reset_index()
 rim = shootingdf[shootingdf['zone_details'] == 'Rim']
 rim = rim.set_index('type')
+rim = test(rim, "2FGM")
 rim = rim.T
 rim = rim.drop(labels="zone_details")
-rim = test(rim, "2FGM")
 teamrim = rim['2FGM'] / (rim['2FGM'] + rim['2FGA']) * 100
 paint = shootingdf[shootingdf['zone_details'] == 'Paint']
 paint = paint.set_index('type')
+paint = test(paint, "2FGM")
 paint = paint.T
 paint = paint.drop(labels="zone_details")
-paint = test(paint, "2FGM")
 teampaint = paint['2FGM'] / (paint['2FGM'] + paint['2FGA']) * 100
 short2 = shootingdf[shootingdf['zone_details'] == 'Short 2']
 short2 = short2.set_index('type')
+short2 = test(short2, "2FGM")
 short2 = short2.T
 short2 = short2.drop(labels="zone_details")
-short2 = test(short2, "2FGM")
 teamshort2 = short2['2FGM'] / (short2['2FGM'] + short2['2FGA']) * 100
 long2 = shootingdf[shootingdf['zone_details'] == 'Long 2']
 long2 = long2.set_index('type')
+long2 = test(long2, "2FGM")
 long2 = long2.T
 long2 = long2.drop(labels="zone_details")
-long2 = test(long2, "2FGM")
 teamlong2 = long2['2FGM'] / (long2['2FGM'] + long2['2FGA']) * 100
 three = shootingdf[shootingdf['zone_details'] == '3pts']
 three = three.set_index('type')
+three = test(three, "3FGM")
 three = three.T
 three = three.drop(labels="zone_details")
-three = test(three, "3FGM")
 teamthree = three['3FGM'] / (three['3FGM'] + three['3FGA']) * 100
 bar1 = pd.concat([teamrim, teampaint, teamshort2, teamlong2, teamthree], axis=1)
 bar1 = bar1.T
@@ -459,33 +459,33 @@ team1 = bar1["action_number"].tolist()
 shootingdf = home_df.groupby(['type', 'zone_details']).agg({'action_number': 'count'}).reset_index()
 rim = shootingdf[shootingdf['zone_details'] == 'Rim']
 rim = rim.set_index('type')
+rim = test(rim, "2FGM")
 rim = rim.T
 rim = rim.drop(labels="zone_details")
-rim = test(rim, "2FGM")
 teamrim = (rim['2FGM'] + rim['2FGA'])
 paint = shootingdf[shootingdf['zone_details'] == 'Paint']
 paint = paint.set_index('type')
+paint = test(paint, "2FGM")
 paint = paint.T
 paint = paint.drop(labels="zone_details")
-paint = test(paint, "2FGM")
 teampaint = (paint['2FGM'] + paint['2FGA'])
 short2 = shootingdf[shootingdf['zone_details'] == 'Short 2']
 short2 = short2.set_index('type')
+short2 = test(short2, "2FGM")
 short2 = short2.T
 short2 = short2.drop(labels="zone_details")
-short2 = test(short2, "2FGM")
 teamshort2 = (short2['2FGM'] + short2['2FGA'])
 long2 = shootingdf[shootingdf['zone_details'] == 'Long 2']
 long2 = long2.set_index('type')
+long2 = test(long2, "2FGM")
 long2 = long2.T
 long2 = long2.drop(labels="zone_details")
-long2 = test(long2, "2FGM")
 teamlong2 = (long2['2FGM'] + long2['2FGA'])
 three = shootingdf[shootingdf['zone_details'] == '3pts']
 three = three.set_index('type')
+three = test(three, "3FGM")
 three = three.T
 three = three.drop(labels="zone_details")
-three = test(three, "3FGM")
 teamthree = (three['3FGM'] + three['3FGA'])
 bar2 = pd.concat([teamrim, teampaint, teamshort2, teamlong2, teamthree], axis=1)
 bar2['tot'] = bar2[0] + bar2[1] + bar2[2] + bar2[3] + bar2[4]
