@@ -447,8 +447,8 @@ edition_id,game_id,home_team,away_team,round,team_id,opponent_id,MIN,SEC,PTS,2FG
 22-23 PROA,2023-03-28:Nanterre-Pau-Lacq-Orthez,Nanterre,Pau-Lacq-Orthez,26,Pau-Lacq-Orthez,Nanterre,200,12000,64,34,18,29,7,7,15,29,10,20,4,13,1,5,18
 22-23 PROA,2023-03-28:Dijon-Limoges,Dijon,Limoges,26,Dijon,Limoges,200,12000,75,25,11,26,10,23,24,19,13,10,6,19,2,1,23
 22-23 PROA,2023-03-28:Dijon-Limoges,Dijon,Limoges,26,Limoges,Dijon,200,12000,69,38,21,17,4,15,19,16,11,16,7,11,1,2,24
-22-23 PROA,2023-03-28:Boulogne-Levallois-Le Mans,Boulogne-Levallois,Le Mans,#N/A,Boulogne-Levallois,Le Mans,200,12000,89,38,18,28,13,14,15,25,10,20,6,14,6,3,21
-22-23 PROA,2023-03-28:Boulogne-Levallois-Le Mans,Boulogne-Levallois,Le Mans,#N/A,Le Mans,Boulogne-Levallois,200,12000,83,36,20,24,9,16,19,22,9,21,6,16,3,7,17
+22-23 PROA,2023-03-28:Boulogne-Levallois-Le Mans,Boulogne-Levallois,Le Mans,26,Boulogne-Levallois,Le Mans,200,12000,89,38,18,28,13,14,15,25,10,20,6,14,6,3,21
+22-23 PROA,2023-03-28:Boulogne-Levallois-Le Mans,Boulogne-Levallois,Le Mans,26,Le Mans,Boulogne-Levallois,200,12000,83,36,20,24,9,16,19,22,9,21,6,16,3,7,17
 22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,Fos-sur-Mer,Gravelines-Dunkerque,27,Fos-sur-Mer,Gravelines-Dunkerque,200,12000,63,33,18,23,5,12,24,24,12,14,6,12,1,2,16
 22-23 PROA,2023-03-31:Fos-sur-Mer-Gravelines-Dunkerque,Fos-sur-Mer,Gravelines-Dunkerque,27,Gravelines-Dunkerque,Fos-sur-Mer,200,12000,69,44,21,15,5,12,15,27,10,13,5,13,2,1,23
 22-23 PROA,2023-03-31:Le Portel-Paris,Le Portel,Paris,27,Le Portel,Paris,200,12000,84,45,23,20,7,17,27,31,10,16,9,10,4,4,20
@@ -513,5 +513,25 @@ edition_id,game_id,home_team,away_team,round,team_id,opponent_id,MIN,SEC,PTS,2FG
 22-23 PROA,2023-04-15:Paris-Nancy,Paris,Nancy,29,Paris,Nancy,200,12000,99,37,25,34,13,10,14,30,13,25,6,16,7,1,13
 22-23 PROA,2023-04-16:Lyon-Villeurbanne-Le Portel,Lyon-Villeurbanne,Le Portel,29,Le Portel,Lyon-Villeurbanne,200,12000,68,44,21,15,5,11,12,21,10,13,5,17,2,4,20
 22-23 PROA,2023-04-16:Lyon-Villeurbanne-Le Portel,Lyon-Villeurbanne,Le Portel,29,Lyon-Villeurbanne,Le Portel,200,12000,86,42,24,20,8,14,17,22,9,26,4,13,4,2,16
-22-23 PROA,2023-04-16:Monaco-Fos-sur-Mer,Monaco,Fos-sur-Mer,29,Fos-sur-Mer,Monaco,199.33,11960,83,44,25,16,5,18,30,23,10,15,8,14,1,0,26
-22-23 PROA,2023-04-16:Monaco-Fos-sur-Mer,Monaco,Fos-sur-Mer,29,Monaco,Fos-sur-Mer,199.33,11960,98,43,26,25,8,22,26,25,11,15,8,9,0,1,24
+22-23 PROA,2023-04-16:Monaco-Fos-sur-Mer,Monaco,Fos-sur-Mer,29,Fos-sur-Mer,Monaco,199.75,11985,83,44,25,16,5,18,30,23,10,15,8,14,1,0,26
+22-23 PROA,2023-04-16:Monaco-Fos-sur-Mer,Monaco,Fos-sur-Mer,29,Monaco,Fos-sur-Mer,199.75,11985,98,43,26,25,8,22,26,25,11,15,8,9,0,1,24
+22-23 PROA,2023-04-18:Nancy-Dijon,Nancy,Dijon,24,Dijon,Nancy,200,12000,91,40,25,22,9,14,15,26,4,20,10,11,1,4,22
+22-23 PROA,2023-04-18:Nancy-Dijon,Nancy,Dijon,24,Nancy,Dijon,200,12000,78,42,24,23,5,15,22,24,11,16,9,12,3,1,20
+22-23 PROA,2023-04-20:Monaco-Strasbourg,Monaco,Strasbourg,26,Monaco,Strasbourg,225,13500,89,39,23,22,10,13,24,22,8,19,1,16,1,2,19
+22-23 PROA,2023-04-20:Monaco-Strasbourg,Monaco,Strasbourg,26,Strasbourg,Monaco,225,13500,98,42,22,29,14,12,16,23,14,22,9,11,2,1,24
+22-23 PROA,2023-04-23:Fos-sur-Mer-Strasbourg,Fos-sur-Mer,Strasbourg,24,Fos-sur-Mer,Strasbourg,200,12000,87,36,22,19,8,19,25,29,13,24,8,17,1,3,18
+22-23 PROA,2023-04-23:Fos-sur-Mer-Strasbourg,Fos-sur-Mer,Strasbourg,24,Strasbourg,Fos-sur-Mer,200,12000,65,33,14,25,7,16,20,13,9,16,12,14,2,1,26
+22-23 PROA,2023-04-23:Pau-Lacq-Orthez-Bourg-en-Bresse,Pau-Lacq-Orthez,Bourg-en-Bresse,24,Bourg-en-Bresse,Pau-Lacq-Orthez,200,12000,79,34,17,33,12,9,14,16,15,19,6,10,2,2,25
+22-23 PROA,2023-04-23:Pau-Lacq-Orthez-Bourg-en-Bresse,Pau-Lacq-Orthez,Bourg-en-Bresse,24,Pau-Lacq-Orthez,Bourg-en-Bresse,200,12000,87,51,29,13,5,14,16,25,14,15,4,12,2,2,18
+22-23 PROA,2023-04-25:Roanne-Nanterre,Roanne,Nanterre,30,Nanterre,Roanne,200,12000,85,46,20,21,7,24,30,28,9,15,13,13,0,4,23
+22-23 PROA,2023-04-25:Roanne-Nanterre,Roanne,Nanterre,30,Roanne,Nanterre,200,12000,84,26,15,30,11,21,27,30,4,15,8,20,4,0,23
+22-23 PROA,2023-04-25:Pau-Lacq-Orthez-Lyon-Villeurbanne,Pau-Lacq-Orthez,Lyon-Villeurbanne,30,Lyon-Villeurbanne,Pau-Lacq-Orthez,200,12000,83,32,22,34,8,15,18,15,14,16,8,10,4,1,22
+22-23 PROA,2023-04-25:Pau-Lacq-Orthez-Lyon-Villeurbanne,Pau-Lacq-Orthez,Lyon-Villeurbanne,30,Pau-Lacq-Orthez,Lyon-Villeurbanne,200,12000,87,43,28,16,5,16,22,24,12,16,2,14,1,4,19
+22-23 PROA,2023-04-25:Nancy-Strasbourg,Nancy,Strasbourg,30,Nancy,Strasbourg,200,12000,80,33,21,22,6,20,30,27,7,16,4,14,3,4,22
+22-23 PROA,2023-04-25:Nancy-Strasbourg,Nancy,Strasbourg,30,Strasbourg,Nancy,200,12000,72,53,20,16,5,17,24,23,21,16,8,16,5,4,24
+22-23 PROA,2023-04-25:Limoges-Blois,Limoges,Blois,30,Blois,Limoges,200,12000,98,30,20,23,13,19,24,33,5,28,6,16,5,1,18
+22-23 PROA,2023-04-25:Limoges-Blois,Limoges,Blois,30,Limoges,Blois,200,12000,79,39,20,34,10,9,15,18,11,19,10,9,1,5,24
+22-23 PROA,2023-04-25:Le Portel-Gravelines-Dunkerque,Le Portel,Gravelines-Dunkerque,30,Gravelines-Dunkerque,Le Portel,200,12000,79,44,27,18,4,13,18,26,6,19,6,5,1,3,20
+22-23 PROA,2023-04-25:Le Portel-Gravelines-Dunkerque,Le Portel,Gravelines-Dunkerque,30,Le Portel,Gravelines-Dunkerque,200,12000,76,28,15,29,9,19,27,28,7,23,4,8,3,1,18
+22-23 PROA,2023-04-25:Le Mans-Paris,Le Mans,Paris,30,Le Mans,Paris,200,12000,97,41,24,28,9,22,28,29,17,21,6,12,4,2,20
+22-23 PROA,2023-04-25:Le Mans-Paris,Le Mans,Paris,30,Paris,Le Mans,200,12000,90,35,20,32,12,14,18,22,8,23,5,10,3,3,25
